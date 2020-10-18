@@ -1,4 +1,7 @@
-# DRIS-API-testing ![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/jdvorak001/DRIS-API-testing?style=plastic)
+# DRIS-API-testing 
+
+[![image](https://img.shields.io/pypi/v/pipenv.svg)](../..)
+[![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/jdvorak001/DRIS-API-testing)](../..)
 
 A light-weight tool to test-drive the DRIS+ API.
 
