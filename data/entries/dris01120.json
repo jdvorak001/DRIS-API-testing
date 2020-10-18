@@ -1,0 +1,49 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris01120",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00935",
+			"label": {
+				"en": "Operational"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00937",
+			"label": {
+				"en": "Institutional"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00368",
+			"country": "vocabs:countries/country00705",
+			"label": "Georg-August Universit\u00e4t G\u00f6ttingen"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00705",
+			"iso_3166_codes": {
+				"Alpha2": "DE",
+				"Alpha3": "DEU",
+				"Numeric": "276"
+			},
+			"label": {
+				"en": "Germany"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "FACTScience",
+	"country": "vocabs:countries/country00705",
+	"coverages": [],
+	"crisPlatform": "",
+	"crisPlatformNote": "",
+	"metadata": {
+		"created": "2019-03-15T11:39:41.649Z",
+		"lastModified": "2020-10-17T20:03:23.122Z"
+	},
+	"name": "FACTScience",
+	"organization": "orgunits:ou00368",
+	"scope": "vocabs:scopes/classcerif00937",
+	"status": "vocabs:statuses/classcerif00935",
+	"uri": "https://www.uni-goettingen.de/de/fact+science/537185.html"
+}

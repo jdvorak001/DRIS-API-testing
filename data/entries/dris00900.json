@@ -1,0 +1,49 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris00900",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00935",
+			"label": {
+				"en": "Operational"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00937",
+			"label": {
+				"en": "Institutional"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00239",
+			"country": "vocabs:countries/country00800",
+			"label": "Universidade de \u00c9vora"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00800",
+			"iso_3166_codes": {
+				"Alpha2": "PT",
+				"Alpha3": "PRT",
+				"Numeric": "620"
+			},
+			"label": {
+				"en": "Portugal"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "SIIUE",
+	"country": "vocabs:countries/country00800",
+	"coverages": [],
+	"crisPlatform": "",
+	"crisPlatformNote": "PHP Open Source Framework",
+	"metadata": {
+		"created": "2015-05-10T00:44:52.912Z",
+		"lastModified": "2020-10-17T20:03:02.370Z"
+	},
+	"name": "Integrated Information System of University of \u00c9vora",
+	"organization": "orgunits:ou00239",
+	"scope": "vocabs:scopes/classcerif00937",
+	"status": "vocabs:statuses/classcerif00935",
+	"uri": "http://siiue.uevora.pt"
+}

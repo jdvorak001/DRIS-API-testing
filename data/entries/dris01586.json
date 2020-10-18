@@ -1,0 +1,49 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris01586",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00935",
+			"label": {
+				"en": "Operational"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00937",
+			"label": {
+				"en": "Institutional"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00794",
+			"country": "vocabs:countries/country00788",
+			"label": "Norwegian Polar Research Institute"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00788",
+			"iso_3166_codes": {
+				"Alpha2": "NO",
+				"Alpha3": "NOR",
+				"Numeric": "578"
+			},
+			"label": {
+				"en": "Norway"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "",
+	"country": "vocabs:countries/country00788",
+	"coverages": [],
+	"crisPlatform": "",
+	"crisPlatformNote": "",
+	"metadata": {
+		"created": "2020-02-25T19:31:43.922Z",
+		"lastModified": "2020-10-17T20:04:12.595Z"
+	},
+	"name": "CRIStin Norwegian Polar Research Institute",
+	"organization": "orgunits:ou00794",
+	"scope": "vocabs:scopes/classcerif00937",
+	"status": "vocabs:statuses/classcerif00935",
+	"uri": "https://app.cristin.no/search.jsf?type=profile&filter=institution_idfacet~7466"
+}

@@ -1,0 +1,49 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris01327",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00935",
+			"label": {
+				"en": "Operational"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00889",
+			"label": {
+				"en": "Institutional"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00550",
+			"country": "vocabs:countries/country00697",
+			"label": "University of Lapland"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00697",
+			"iso_3166_codes": {
+				"Alpha2": "FI",
+				"Alpha3": "FIN",
+				"Numeric": "246"
+			},
+			"label": {
+				"en": "Finland"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "LaCRIS",
+	"country": "vocabs:countries/country00697",
+	"coverages": [],
+	"crisPlatform": "",
+	"crisPlatformNote": "",
+	"metadata": {
+		"created": "2019-09-18T08:48:52.242Z",
+		"lastModified": "2020-10-17T20:03:43.724Z"
+	},
+	"name": "University of Lapland Current Research Information System",
+	"organization": "orgunits:ou00550",
+	"scope": "vocabs:scopes/classcerif00889",
+	"status": "vocabs:statuses/classcerif00935",
+	"uri": "https://lacris.ulapland.fi/en/"
+}

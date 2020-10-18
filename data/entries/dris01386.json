@@ -1,0 +1,49 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris01386",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00935",
+			"label": {
+				"en": "Operational"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00889",
+			"label": {
+				"en": "Institutional"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00606",
+			"country": "vocabs:countries/country00633",
+			"label": "ANLIS Malbr\u00e1n - Administraci\u00f3n Nacional de Laboratorios e Institutos de Salud \"Carlos G Malbr\u00e1n\""
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00633",
+			"iso_3166_codes": {
+				"Alpha2": "AR",
+				"Alpha3": "ARG",
+				"Numeric": "32"
+			},
+			"label": {
+				"en": "Argentina"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "SGC ANLIS Malbr\u00e1n",
+	"country": "vocabs:countries/country00633",
+	"coverages": [],
+	"crisPlatform": "",
+	"crisPlatformNote": "",
+	"metadata": {
+		"created": "2019-11-05T12:13:06.608Z",
+		"lastModified": "2020-10-17T20:03:50.415Z"
+	},
+	"name": "Sistema de Gesti\u00f3n del Conocimiento ANLIS Malbr\u00e1n",
+	"organization": "orgunits:ou00606",
+	"scope": "vocabs:scopes/classcerif00889",
+	"status": "vocabs:statuses/classcerif00935",
+	"uri": "http://sgc.anlis.gob.ar/"
+}

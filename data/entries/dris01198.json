@@ -1,0 +1,49 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris01198",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00935",
+			"label": {
+				"en": "Operational"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00889",
+			"label": {
+				"en": "Institutional"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00132",
+			"country": "vocabs:countries/country00857",
+			"label": "University College London"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00857",
+			"iso_3166_codes": {
+				"Alpha2": "GB",
+				"Alpha3": "GBR",
+				"Numeric": "826"
+			},
+			"label": {
+				"en": "United Kingdom"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "",
+	"country": "vocabs:countries/country00857",
+	"coverages": [],
+	"crisPlatform": "",
+	"crisPlatformNote": "",
+	"metadata": {
+		"created": "2019-04-18T13:25:38.544Z",
+		"lastModified": "2020-10-17T20:03:30.477Z"
+	},
+	"name": "UCL Worktribe Research Management",
+	"organization": "orgunits:ou00132",
+	"scope": "vocabs:scopes/classcerif00889",
+	"status": "vocabs:statuses/classcerif00935",
+	"uri": "https://www.ucl.ac.uk/research-services/worktribe-research-management"
+}

@@ -1,0 +1,49 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris01148",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00935",
+			"label": {
+				"en": "Operational"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00937",
+			"label": {
+				"en": "Institutional"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00411",
+			"country": "vocabs:countries/country00831",
+			"label": "Spanish National Research Council (CSIC)"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00831",
+			"iso_3166_codes": {
+				"Alpha2": "ES",
+				"Alpha3": "ESP",
+				"Numeric": "724"
+			},
+			"label": {
+				"en": "Spain"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "",
+	"country": "vocabs:countries/country00831",
+	"coverages": [],
+	"crisPlatform": "",
+	"crisPlatformNote": "",
+	"metadata": {
+		"created": "2019-03-15T11:39:49.010Z",
+		"lastModified": "2020-10-17T20:03:26.241Z"
+	},
+	"name": "ConCiencia+Digital.CSIC",
+	"organization": "orgunits:ou00411",
+	"scope": "vocabs:scopes/classcerif00937",
+	"status": "vocabs:statuses/classcerif00935",
+	"uri": "http://hdl.handle.net/10261/54304"
+}

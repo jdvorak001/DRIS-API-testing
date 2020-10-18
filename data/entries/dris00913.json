@@ -1,0 +1,37 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris00913",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00083",
+			"country": "vocabs:countries/country00708",
+			"label": "National Documentation Centre (EKT) / National Hellenic Research Foundation"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00708",
+			"iso_3166_codes": {
+				"Alpha2": "GR",
+				"Alpha3": "GRC",
+				"Numeric": "300"
+			},
+			"label": {
+				"en": "Greece"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "",
+	"country": "vocabs:countries/country00708",
+	"coverages": [],
+	"crisPlatform": "",
+	"crisPlatformNote": "",
+	"metadata": {
+		"created": "2015-05-10T00:44:53.578Z",
+		"lastModified": "2020-10-17T20:03:04.830Z"
+	},
+	"name": "EuroRIs-Net+ Research Infrastructures Observatory",
+	"organization": "orgunits:ou00083",
+	"scope": "",
+	"status": "",
+	"uri": "http://observatory.euroris-net.eu"
+}

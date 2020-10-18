@@ -1,0 +1,49 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris01658",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00935",
+			"label": {
+				"en": "Operational"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00937",
+			"label": {
+				"en": "Institutional"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00864",
+			"country": "vocabs:countries/country00779",
+			"label": "Breda University of Applied Sciences"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00779",
+			"iso_3166_codes": {
+				"Alpha2": "NL",
+				"Alpha3": "NLD",
+				"Numeric": "528"
+			},
+			"label": {
+				"en": "Netherlands"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "",
+	"country": "vocabs:countries/country00779",
+	"coverages": [],
+	"crisPlatform": "",
+	"crisPlatformNote": "",
+	"metadata": {
+		"created": "2020-04-11T11:12:01.931Z",
+		"lastModified": "2020-10-17T20:04:20.416Z"
+	},
+	"name": "BUas Research Portal",
+	"organization": "orgunits:ou00864",
+	"scope": "vocabs:scopes/classcerif00937",
+	"status": "vocabs:statuses/classcerif00935",
+	"uri": "https://pure.buas.nl/"
+}

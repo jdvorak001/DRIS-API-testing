@@ -1,0 +1,49 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris01488",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00596",
+			"label": {
+				"en": "In Preparation                                                  "
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00940",
+			"label": {
+				"en": "International"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00697",
+			"country": "vocabs:countries/country00705",
+			"label": "European Science Academies"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00705",
+			"iso_3166_codes": {
+				"Alpha2": "DE",
+				"Alpha3": "DEU",
+				"Numeric": "276"
+			},
+			"label": {
+				"en": "Germany"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "",
+	"country": "vocabs:countries/country00705",
+	"coverages": [],
+	"crisPlatform": "",
+	"crisPlatformNote": "",
+	"metadata": {
+		"created": "2020-02-23T10:37:07.893Z",
+		"lastModified": "2020-10-17T20:04:02.005Z"
+	},
+	"name": "AGATE",
+	"organization": "orgunits:ou00697",
+	"scope": "vocabs:scopes/classcerif00940",
+	"status": "vocabs:statuses/classcerif00596",
+	"uri": "https://agate.academy/"
+}

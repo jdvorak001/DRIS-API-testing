@@ -1,0 +1,37 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris00906",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00129",
+			"country": "vocabs:countries/country00800",
+			"label": "Universidade do Porto (U.PORTO), Rectorate"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00800",
+			"iso_3166_codes": {
+				"Alpha2": "PT",
+				"Alpha3": "PRT",
+				"Numeric": "620"
+			},
+			"label": {
+				"en": "Portugal"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "SIGARRA",
+	"country": "vocabs:countries/country00800",
+	"coverages": [],
+	"crisPlatform": "",
+	"crisPlatformNote": "",
+	"metadata": {
+		"created": "2015-05-10T00:44:53.118Z",
+		"lastModified": "2020-10-17T20:03:03.809Z"
+	},
+	"name": "Sistema de Informa\u00e7\u00e3o para a Gest\u00e3o Agregada dos Recursos e dos Registos Acad\u00e9micos",
+	"organization": "orgunits:ou00129",
+	"scope": "",
+	"status": "",
+	"uri": "https://sigarra.up.pt/up/en/WEB_BASE.GERA_PAGINA?P_pagina=2418"
+}

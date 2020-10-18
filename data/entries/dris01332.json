@@ -1,0 +1,49 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris01332",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00935",
+			"label": {
+				"en": "Operational"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00889",
+			"label": {
+				"en": "Institutional"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00553",
+			"country": "vocabs:countries/country00687",
+			"label": "Universidad Polit\u00e9cnica Salesiana"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00687",
+			"iso_3166_codes": {
+				"Alpha2": "EC",
+				"Alpha3": "ECU",
+				"Numeric": "218"
+			},
+			"label": {
+				"en": "Ecuador"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "Pure UPS",
+	"country": "vocabs:countries/country00687",
+	"coverages": [],
+	"crisPlatform": "",
+	"crisPlatformNote": "",
+	"metadata": {
+		"created": "2019-10-26T18:34:59.680Z",
+		"lastModified": "2020-10-17T20:03:44.057Z"
+	},
+	"name": "Pure Universidad Polit\u00e9cnica Salesiana",
+	"organization": "orgunits:ou00553",
+	"scope": "vocabs:scopes/classcerif00889",
+	"status": "vocabs:statuses/classcerif00935",
+	"uri": "https://ups.elsevierpure.com/es/"
+}

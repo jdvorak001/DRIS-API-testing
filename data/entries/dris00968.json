@@ -1,0 +1,49 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris00968",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00935",
+			"label": {
+				"en": "Operational"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00937",
+			"label": {
+				"en": "Institutional"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00146",
+			"country": "vocabs:countries/country00819",
+			"label": "University of Novi Sad, Faculty of Sciences"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00819",
+			"iso_3166_codes": {
+				"Alpha2": "RS",
+				"Alpha3": "SRB",
+				"Numeric": "688"
+			},
+			"label": {
+				"en": "Serbia"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "CRIS UNS",
+	"country": "vocabs:countries/country00819",
+	"coverages": [],
+	"crisPlatform": "",
+	"crisPlatformNote": "In-house built (Java, Lucene, JSF, RichFaces, MySQL)",
+	"metadata": {
+		"created": "2017-05-27T16:59:15.991Z",
+		"lastModified": "2020-10-17T20:03:07.759Z"
+	},
+	"name": "CRIS University of Novi Sad",
+	"organization": "orgunits:ou00146",
+	"scope": "vocabs:scopes/classcerif00937",
+	"status": "vocabs:statuses/classcerif00935",
+	"uri": "https://www.cris.uns.ac.rs/search.jsf"
+}

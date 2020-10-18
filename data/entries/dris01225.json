@@ -1,0 +1,49 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris01225",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00935",
+			"label": {
+				"en": "Operational"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00937",
+			"label": {
+				"en": "Institutional"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00454",
+			"country": "vocabs:countries/country00779",
+			"label": "Hogeschool van Amsterdam"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00779",
+			"iso_3166_codes": {
+				"Alpha2": "NL",
+				"Alpha3": "NLD",
+				"Numeric": "528"
+			},
+			"label": {
+				"en": "Netherlands"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "HvA Pure",
+	"country": "vocabs:countries/country00779",
+	"coverages": [],
+	"crisPlatform": "",
+	"crisPlatformNote": "",
+	"metadata": {
+		"created": "2019-06-13T16:46:22.275Z",
+		"lastModified": "2020-10-17T20:03:32.690Z"
+	},
+	"name": "Pure HvA",
+	"organization": "orgunits:ou00454",
+	"scope": "vocabs:scopes/classcerif00937",
+	"status": "vocabs:statuses/classcerif00935",
+	"uri": "http://www.hva.nl/"
+}

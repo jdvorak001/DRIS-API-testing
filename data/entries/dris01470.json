@@ -1,0 +1,49 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris01470",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00935",
+			"label": {
+				"en": "Operational"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00937",
+			"label": {
+				"en": "Institutional"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00680",
+			"country": "vocabs:countries/country00788",
+			"label": "Western Norway University of Applied Sciences"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00788",
+			"iso_3166_codes": {
+				"Alpha2": "NO",
+				"Alpha3": "NOR",
+				"Numeric": "578"
+			},
+			"label": {
+				"en": "Norway"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "",
+	"country": "vocabs:countries/country00788",
+	"coverages": [],
+	"crisPlatform": "",
+	"crisPlatformNote": "",
+	"metadata": {
+		"created": "2020-02-19T21:06:23.429Z",
+		"lastModified": "2020-10-17T20:04:00.075Z"
+	},
+	"name": "CRIStin Western Norway University of Applied Sciences",
+	"organization": "orgunits:ou00680",
+	"scope": "vocabs:scopes/classcerif00937",
+	"status": "vocabs:statuses/classcerif00935",
+	"uri": "https://app.cristin.no/search.jsf?type=profile&filter=institution_idfacet~203"
+}

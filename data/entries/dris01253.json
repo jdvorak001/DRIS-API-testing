@@ -1,0 +1,49 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris01253",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00935",
+			"label": {
+				"en": "Operational"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00937",
+			"label": {
+				"en": "Institutional"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00481",
+			"country": "vocabs:countries/country00857",
+			"label": "University of Leeds"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00857",
+			"iso_3166_codes": {
+				"Alpha2": "GB",
+				"Alpha3": "GBR",
+				"Numeric": "826"
+			},
+			"label": {
+				"en": "United Kingdom"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "",
+	"country": "vocabs:countries/country00857",
+	"coverages": [],
+	"crisPlatform": "",
+	"crisPlatformNote": "",
+	"metadata": {
+		"created": "2019-06-16T01:15:22.866Z",
+		"lastModified": "2020-10-17T20:03:35.849Z"
+	},
+	"name": "Leeds Symplectic",
+	"organization": "orgunits:ou00481",
+	"scope": "vocabs:scopes/classcerif00937",
+	"status": "vocabs:statuses/classcerif00935",
+	"uri": "https://library.leeds.ac.uk/info/14061/open_access/9/deposit_your_research_outputs_in_symplectic"
+}

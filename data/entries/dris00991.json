@@ -1,0 +1,49 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris00991",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00392",
+			"label": {
+				"en": "Under Construction                                              "
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00939",
+			"label": {
+				"en": "National"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00250",
+			"country": "vocabs:countries/country00697",
+			"label": "Finnish Ministry of Education and Culture"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00697",
+			"iso_3166_codes": {
+				"Alpha2": "FI",
+				"Alpha3": "FIN",
+				"Numeric": "246"
+			},
+			"label": {
+				"en": "Finland"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "",
+	"country": "vocabs:countries/country00697",
+	"coverages": [],
+	"crisPlatform": "",
+	"crisPlatformNote": "",
+	"metadata": {
+		"created": "2019-03-04T14:51:17.516Z",
+		"lastModified": "2020-10-17T20:03:08.572Z"
+	},
+	"name": "National Research Information Hub",
+	"organization": "orgunits:ou00250",
+	"scope": "vocabs:scopes/classcerif00939",
+	"status": "vocabs:statuses/classcerif00392",
+	"uri": "https://wiki.eduuni.fi/display/CSCTTV/In+English"
+}

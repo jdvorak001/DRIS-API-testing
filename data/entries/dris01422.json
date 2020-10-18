@@ -1,0 +1,49 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris01422",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00392",
+			"label": {
+				"en": "Under Construction                                              "
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00889",
+			"label": {
+				"en": "Institutional"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00637",
+			"country": "vocabs:countries/country00796",
+			"label": "Universidad Cat\u00f3lica Santo Toribio de Mongrovejo (USAT)"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00796",
+			"iso_3166_codes": {
+				"Alpha2": "PE",
+				"Alpha3": "PER",
+				"Numeric": "604"
+			},
+			"label": {
+				"en": "Peru"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "UsatCRIS",
+	"country": "vocabs:countries/country00796",
+	"coverages": [],
+	"crisPlatform": "",
+	"crisPlatformNote": "",
+	"metadata": {
+		"created": "2020-01-21T20:48:01.320Z",
+		"lastModified": "2020-10-17T20:03:54.095Z"
+	},
+	"name": "UsatCRIS",
+	"organization": "orgunits:ou00637",
+	"scope": "vocabs:scopes/classcerif00889",
+	"status": "vocabs:statuses/classcerif00392",
+	"uri": ""
+}

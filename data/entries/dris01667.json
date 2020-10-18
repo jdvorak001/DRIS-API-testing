@@ -1,0 +1,49 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris01667",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00935",
+			"label": {
+				"en": "Operational"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00937",
+			"label": {
+				"en": "Institutional"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00872",
+			"country": "vocabs:countries/country00805",
+			"label": "RUDN University"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00805",
+			"iso_3166_codes": {
+				"Alpha2": "RU",
+				"Alpha3": "RUS",
+				"Numeric": "643"
+			},
+			"label": {
+				"en": "Russian Federation"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "",
+	"country": "vocabs:countries/country00805",
+	"coverages": [],
+	"crisPlatform": "",
+	"crisPlatformNote": "",
+	"metadata": {
+		"created": "2020-04-13T20:33:42.941Z",
+		"lastModified": "2020-10-17T20:04:21.338Z"
+	},
+	"name": "RUDN Research Portal",
+	"organization": "orgunits:ou00872",
+	"scope": "vocabs:scopes/classcerif00937",
+	"status": "vocabs:statuses/classcerif00935",
+	"uri": "https://rudn.pure.elsevier.com/"
+}

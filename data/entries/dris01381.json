@@ -1,0 +1,49 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris01381",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00935",
+			"label": {
+				"en": "Operational"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00889",
+			"label": {
+				"en": "Institutional"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00601",
+			"country": "vocabs:countries/country00671",
+			"label": "Universidad del Rosario"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00671",
+			"iso_3166_codes": {
+				"Alpha2": "CO",
+				"Alpha3": "COL",
+				"Numeric": "170"
+			},
+			"label": {
+				"en": "Colombia"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "Pure URosario",
+	"country": "vocabs:countries/country00671",
+	"coverages": [],
+	"crisPlatform": "",
+	"crisPlatformNote": "",
+	"metadata": {
+		"created": "2019-11-05T10:59:42.970Z",
+		"lastModified": "2020-10-17T20:03:49.791Z"
+	},
+	"name": "Sistema de Informaci\u00f3n de Investigaci\u00f3n de la Universidad del Rosario",
+	"organization": "orgunits:ou00601",
+	"scope": "vocabs:scopes/classcerif00889",
+	"status": "vocabs:statuses/classcerif00935",
+	"uri": "https://pure.urosario.edu.co/"
+}

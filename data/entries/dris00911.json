@@ -1,0 +1,37 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris00911",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00155",
+			"country": "vocabs:countries/country00637",
+			"label": "University of Vienna"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00637",
+			"iso_3166_codes": {
+				"Alpha2": "AT",
+				"Alpha3": "AUT",
+				"Numeric": "40"
+			},
+			"label": {
+				"en": "Austria"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "u:cris",
+	"country": "vocabs:countries/country00637",
+	"coverages": [],
+	"crisPlatform": "",
+	"crisPlatformNote": "",
+	"metadata": {
+		"created": "2015-05-10T00:44:53.499Z",
+		"lastModified": "2020-10-17T20:03:04.623Z"
+	},
+	"name": "u:cris",
+	"organization": "orgunits:ou00155",
+	"scope": "",
+	"status": "",
+	"uri": "http://ucrisinfo.univie.ac.at/en/home/"
+}

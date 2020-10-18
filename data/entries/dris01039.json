@@ -1,0 +1,49 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris01039",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00935",
+			"label": {
+				"en": "Operational"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00937",
+			"label": {
+				"en": "Institutional"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00287",
+			"country": "vocabs:countries/country00732",
+			"label": "Fondazione Bruno Kessler"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00732",
+			"iso_3166_codes": {
+				"Alpha2": "IT",
+				"Alpha3": "ITA",
+				"Numeric": "380"
+			},
+			"label": {
+				"en": "Italy"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "",
+	"country": "vocabs:countries/country00732",
+	"coverages": [],
+	"crisPlatform": "",
+	"crisPlatformNote": "",
+	"metadata": {
+		"created": "2019-03-08T17:12:21.705Z",
+		"lastModified": "2020-10-17T20:03:13.966Z"
+	},
+	"name": "IRIS Fondazione Bruno Kessler",
+	"organization": "orgunits:ou00287",
+	"scope": "vocabs:scopes/classcerif00937",
+	"status": "vocabs:statuses/classcerif00935",
+	"uri": "https://cris.fbk.eu/"
+}

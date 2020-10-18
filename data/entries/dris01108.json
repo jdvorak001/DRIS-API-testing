@@ -1,0 +1,49 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris01108",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00935",
+			"label": {
+				"en": "Operational"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00937",
+			"label": {
+				"en": "Institutional"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00356",
+			"country": "vocabs:countries/country00799",
+			"label": "Maria Sk\u0142odowska-Curie Institute of Oncology"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00799",
+			"iso_3166_codes": {
+				"Alpha2": "PL",
+				"Alpha3": "POL",
+				"Numeric": "616"
+			},
+			"label": {
+				"en": "Poland"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "Omega-PSIR COI",
+	"country": "vocabs:countries/country00799",
+	"coverages": [],
+	"crisPlatform": "",
+	"crisPlatformNote": "",
+	"metadata": {
+		"created": "2019-03-10T00:59:26.627Z",
+		"lastModified": "2020-10-17T20:03:21.887Z"
+	},
+	"name": "Omega-PSIR Maria Sk\u0142odowska-Curie Institute of Oncology",
+	"organization": "orgunits:ou00356",
+	"scope": "vocabs:scopes/classcerif00937",
+	"status": "vocabs:statuses/classcerif00935",
+	"uri": "https://nauka.coi.pl"
+}

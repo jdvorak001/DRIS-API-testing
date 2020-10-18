@@ -1,0 +1,49 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris01162",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00935",
+			"label": {
+				"en": "Operational"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00937",
+			"label": {
+				"en": "Institutional"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00419",
+			"country": "vocabs:countries/country00838",
+			"label": "University of Lucerne"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00838",
+			"iso_3166_codes": {
+				"Alpha2": "CH",
+				"Alpha3": "CHE",
+				"Numeric": "756"
+			},
+			"label": {
+				"en": "Switzerland"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "",
+	"country": "vocabs:countries/country00838",
+	"coverages": [],
+	"crisPlatform": "",
+	"crisPlatformNote": "",
+	"metadata": {
+		"created": "2019-03-17T12:53:17.694Z",
+		"lastModified": "2020-10-17T20:04:29.550Z"
+	},
+	"name": "FIS Unilu",
+	"organization": "orgunits:ou00419",
+	"scope": "vocabs:scopes/classcerif00937",
+	"status": "vocabs:statuses/classcerif00935",
+	"uri": "https://fis.unilu.ch/inf2/index.php"
+}

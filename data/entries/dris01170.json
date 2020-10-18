@@ -1,0 +1,49 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris01170",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00935",
+			"label": {
+				"en": "Operational"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00937",
+			"label": {
+				"en": "Institutional"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00366",
+			"country": "vocabs:countries/country00705",
+			"label": "Hamburg University of Technology"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00705",
+			"iso_3166_codes": {
+				"Alpha2": "DE",
+				"Alpha3": "DEU",
+				"Numeric": "276"
+			},
+			"label": {
+				"en": "Germany"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "TORE",
+	"country": "vocabs:countries/country00705",
+	"coverages": [],
+	"crisPlatform": "",
+	"crisPlatformNote": "",
+	"metadata": {
+		"created": "2019-03-18T20:49:42.717Z",
+		"lastModified": "2020-10-17T20:03:27.834Z"
+	},
+	"name": "TUHH Open Research",
+	"organization": "orgunits:ou00366",
+	"scope": "vocabs:scopes/classcerif00937",
+	"status": "vocabs:statuses/classcerif00935",
+	"uri": "https://tore.tuhh.de"
+}

@@ -1,0 +1,49 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris01161",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00935",
+			"label": {
+				"en": "Operational"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00122",
+			"label": {
+				"en": "Funder                                                          "
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00417",
+			"country": "vocabs:countries/country00838",
+			"label": "Swiss Federal Government"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00838",
+			"iso_3166_codes": {
+				"Alpha2": "CH",
+				"Alpha3": "CHE",
+				"Numeric": "756"
+			},
+			"label": {
+				"en": "Switzerland"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "",
+	"country": "vocabs:countries/country00838",
+	"coverages": [],
+	"crisPlatform": "",
+	"crisPlatformNote": "",
+	"metadata": {
+		"created": "2019-03-17T12:48:20.673Z",
+		"lastModified": "2020-10-17T20:03:27.720Z"
+	},
+	"name": "ARAMIS",
+	"organization": "orgunits:ou00417",
+	"scope": "vocabs:scopes/classcerif00122",
+	"status": "vocabs:statuses/classcerif00935",
+	"uri": "https://www.aramis.admin.ch/?Sprache=en-US"
+}

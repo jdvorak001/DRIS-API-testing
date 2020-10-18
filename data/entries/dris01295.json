@@ -1,0 +1,49 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris01295",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00935",
+			"label": {
+				"en": "Operational"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00937",
+			"label": {
+				"en": "Institutional"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00520",
+			"country": "vocabs:countries/country00725",
+			"label": "Koneru Lakshmaiah University Vijayawada"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00725",
+			"iso_3166_codes": {
+				"Alpha2": "IN",
+				"Alpha3": "IND",
+				"Numeric": "356"
+			},
+			"label": {
+				"en": "India"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "KL University Scholar Profile",
+	"country": "vocabs:countries/country00725",
+	"coverages": [],
+	"crisPlatform": "",
+	"crisPlatformNote": "",
+	"metadata": {
+		"created": "2019-08-18T15:23:04.710Z",
+		"lastModified": "2020-10-17T20:03:40.473Z"
+	},
+	"name": "Koneru Lakshmaiah University Vijayawada Scholars Profile",
+	"organization": "orgunits:ou00520",
+	"scope": "vocabs:scopes/classcerif00937",
+	"status": "vocabs:statuses/classcerif00935",
+	"uri": "http://kluniversity.irins.org"
+}

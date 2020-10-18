@@ -1,0 +1,49 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris01027",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00392",
+			"label": {
+				"en": "Under Construction                                              "
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00937",
+			"label": {
+				"en": "Institutional"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00277",
+			"country": "vocabs:countries/country00857",
+			"label": "University of Roehampton London"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00857",
+			"iso_3166_codes": {
+				"Alpha2": "GB",
+				"Alpha3": "GBR",
+				"Numeric": "826"
+			},
+			"label": {
+				"en": "United Kingdom"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "Pure Roehampton",
+	"country": "vocabs:countries/country00857",
+	"coverages": [],
+	"crisPlatform": "",
+	"crisPlatformNote": "",
+	"metadata": {
+		"created": "2019-03-08T17:07:50.033Z",
+		"lastModified": "2020-10-17T20:03:12.634Z"
+	},
+	"name": "Pure University of Roehampton London",
+	"organization": "orgunits:ou00277",
+	"scope": "vocabs:scopes/classcerif00937",
+	"status": "vocabs:statuses/classcerif00392",
+	"uri": "https://libguides.roehampton.ac.uk/openaccess/pure"
+}

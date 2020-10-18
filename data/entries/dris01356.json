@@ -1,0 +1,49 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris01356",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00935",
+			"label": {
+				"en": "Operational"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00937",
+			"label": {
+				"en": "Institutional"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00576",
+			"country": "vocabs:countries/country00725",
+			"label": "Indian Institute of Technology Roorkee"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00725",
+			"iso_3166_codes": {
+				"Alpha2": "IN",
+				"Alpha3": "IND",
+				"Numeric": "356"
+			},
+			"label": {
+				"en": "India"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "IITR Scholars Profile",
+	"country": "vocabs:countries/country00725",
+	"coverages": [],
+	"crisPlatform": "",
+	"crisPlatformNote": "",
+	"metadata": {
+		"created": "2019-11-05T10:28:44.801Z",
+		"lastModified": "2020-10-17T20:03:46.610Z"
+	},
+	"name": "Indian Institute of Technology Roorkee Scholars Profile",
+	"organization": "orgunits:ou00576",
+	"scope": "vocabs:scopes/classcerif00937",
+	"status": "vocabs:statuses/classcerif00935",
+	"uri": "http://iitr.irins.org"
+}

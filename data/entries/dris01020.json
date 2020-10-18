@@ -1,0 +1,49 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris01020",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00935",
+			"label": {
+				"en": "Operational"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00937",
+			"label": {
+				"en": "Institutional"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00136",
+			"country": "vocabs:countries/country00857",
+			"label": "University of Dundee"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00857",
+			"iso_3166_codes": {
+				"Alpha2": "GB",
+				"Alpha3": "GBR",
+				"Numeric": "826"
+			},
+			"label": {
+				"en": "United Kingdom"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "Pure Dundee",
+	"country": "vocabs:countries/country00857",
+	"coverages": [],
+	"crisPlatform": "",
+	"crisPlatformNote": "",
+	"metadata": {
+		"created": "2019-03-08T17:07:48.309Z",
+		"lastModified": "2020-10-17T20:03:11.829Z"
+	},
+	"name": "Pure University of Dundee",
+	"organization": "orgunits:ou00136",
+	"scope": "vocabs:scopes/classcerif00937",
+	"status": "vocabs:statuses/classcerif00935",
+	"uri": "http://discovery.dundee.ac.uk/portal/"
+}

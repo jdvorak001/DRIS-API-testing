@@ -1,0 +1,49 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris00956",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00935",
+			"label": {
+				"en": "Operational"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00937",
+			"label": {
+				"en": "Institutional"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00028",
+			"country": "vocabs:countries/country00683",
+			"label": "Aalborg University Library (AUB)"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00683",
+			"iso_3166_codes": {
+				"Alpha2": "DK",
+				"Alpha3": "DNK",
+				"Numeric": "208"
+			},
+			"label": {
+				"en": "Denmark"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "",
+	"country": "vocabs:countries/country00683",
+	"coverages": [],
+	"crisPlatform": "",
+	"crisPlatformNote": "",
+	"metadata": {
+		"created": "2017-05-22T19:49:11.609Z",
+		"lastModified": "2020-10-17T20:03:05.919Z"
+	},
+	"name": "Aalborg Universitet Research Portal",
+	"organization": "orgunits:ou00028",
+	"scope": "vocabs:scopes/classcerif00937",
+	"status": "vocabs:statuses/classcerif00935",
+	"uri": "http://vbn.aau.dk/en/"
+}

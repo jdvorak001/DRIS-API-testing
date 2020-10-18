@@ -1,0 +1,49 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris01452",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00392",
+			"label": {
+				"en": "Under Construction                                              "
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00889",
+			"label": {
+				"en": "Institutional"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00032",
+			"country": "vocabs:countries/country00698",
+			"label": "Agence de Mutualisation des Universit\u00e9s et Etablissements"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00698",
+			"iso_3166_codes": {
+				"Alpha2": "FR",
+				"Alpha3": "FRA",
+				"Numeric": "250"
+			},
+			"label": {
+				"en": "France"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "",
+	"country": "vocabs:countries/country00698",
+	"coverages": [],
+	"crisPlatform": "",
+	"crisPlatformNote": "",
+	"metadata": {
+		"created": "2020-02-04T20:54:28.233Z",
+		"lastModified": "2020-10-17T20:03:58.133Z"
+	},
+	"name": "Caplab",
+	"organization": "orgunits:ou00032",
+	"scope": "vocabs:scopes/classcerif00889",
+	"status": "vocabs:statuses/classcerif00392",
+	"uri": "http://www.amue.fr/recherche/logiciels/caplab/"
+}

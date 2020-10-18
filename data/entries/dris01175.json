@@ -1,0 +1,49 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris01175",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00392",
+			"label": {
+				"en": "Under Construction                                              "
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00937",
+			"label": {
+				"en": "Institutional"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00376",
+			"country": "vocabs:countries/country00705",
+			"label": "Leibniz Universit\u00e4t Hannover"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00705",
+			"iso_3166_codes": {
+				"Alpha2": "DE",
+				"Alpha3": "DEU",
+				"Numeric": "276"
+			},
+			"label": {
+				"en": "Germany"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "LUH FIS",
+	"country": "vocabs:countries/country00705",
+	"coverages": [],
+	"crisPlatform": "",
+	"crisPlatformNote": "",
+	"metadata": {
+		"created": "2019-03-18T21:20:04.905Z",
+		"lastModified": "2020-10-17T20:03:28.330Z"
+	},
+	"name": "Leibniz University Hannover Research Information System",
+	"organization": "orgunits:ou00376",
+	"scope": "vocabs:scopes/classcerif00937",
+	"status": "vocabs:statuses/classcerif00392",
+	"uri": "https://www.uni-hannover.de/de/forschung/profil/forschungsinformationen/"
+}

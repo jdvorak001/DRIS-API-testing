@@ -1,0 +1,49 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris01734",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00935",
+			"label": {
+				"en": "Operational"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00122",
+			"label": {
+				"en": "Funder                                                          "
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00936",
+			"country": "vocabs:countries/country00789",
+			"label": "The Research Council of Oman"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00789",
+			"iso_3166_codes": {
+				"Alpha2": "OM",
+				"Alpha3": "OMN",
+				"Numeric": "512"
+			},
+			"label": {
+				"en": "Oman"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "",
+	"country": "vocabs:countries/country00789",
+	"coverages": [],
+	"crisPlatform": "",
+	"crisPlatformNote": "",
+	"metadata": {
+		"created": "2020-08-29T12:35:38.144Z",
+		"lastModified": "2020-10-17T20:04:28.034Z"
+	},
+	"name": "Oman Research Portal",
+	"organization": "orgunits:ou00936",
+	"scope": "vocabs:scopes/classcerif00122",
+	"status": "vocabs:statuses/classcerif00935",
+	"uri": "https://rims.trc.gov.om/"
+}

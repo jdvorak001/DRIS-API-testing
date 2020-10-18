@@ -1,0 +1,43 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris01423",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00935",
+			"label": {
+				"en": "Operational"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00638",
+			"country": "vocabs:countries/country00779",
+			"label": "University of Groningen"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00779",
+			"iso_3166_codes": {
+				"Alpha2": "NL",
+				"Alpha3": "NLD",
+				"Numeric": "528"
+			},
+			"label": {
+				"en": "Netherlands"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "RUG Research Database",
+	"country": "vocabs:countries/country00779",
+	"coverages": [],
+	"crisPlatform": "",
+	"crisPlatformNote": "",
+	"metadata": {
+		"created": "2020-01-28T09:25:08.395Z",
+		"lastModified": "2020-10-17T20:03:54.250Z"
+	},
+	"name": "University of Groningen Research Database",
+	"organization": "orgunits:ou00638",
+	"scope": "",
+	"status": "vocabs:statuses/classcerif00935",
+	"uri": "https://www.rug.nl/research/portal/"
+}

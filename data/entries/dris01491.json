@@ -1,0 +1,49 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris01491",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00392",
+			"label": {
+				"en": "Under Construction                                              "
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00939",
+			"label": {
+				"en": "National"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00700",
+			"country": "vocabs:countries/country00781",
+			"label": "New Zealand Ministry of Business, Innovation & Employment"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00781",
+			"iso_3166_codes": {
+				"Alpha2": "NZ",
+				"Alpha3": "NZL",
+				"Numeric": "554"
+			},
+			"label": {
+				"en": "New Zealand"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "NRIS",
+	"country": "vocabs:countries/country00781",
+	"coverages": [],
+	"crisPlatform": "",
+	"crisPlatformNote": "",
+	"metadata": {
+		"created": "2020-02-23T10:37:11.126Z",
+		"lastModified": "2020-10-17T20:04:02.368Z"
+	},
+	"name": "New Zealand National Research Information System",
+	"organization": "orgunits:ou00700",
+	"scope": "vocabs:scopes/classcerif00939",
+	"status": "vocabs:statuses/classcerif00392",
+	"uri": "https://www.mbie.govt.nz/science-and-technology/science-and-innovation/research-and-data/nzris"
+}

@@ -1,0 +1,49 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris01702",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00935",
+			"label": {
+				"en": "Operational"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00937",
+			"label": {
+				"en": "Institutional"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00907",
+			"country": "vocabs:countries/country00725",
+			"label": "National Institute of Technology, Uttarakhand"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00725",
+			"iso_3166_codes": {
+				"Alpha2": "IN",
+				"Alpha3": "IND",
+				"Numeric": "356"
+			},
+			"label": {
+				"en": "India"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "NITUK Scholar Profile",
+	"country": "vocabs:countries/country00725",
+	"coverages": [],
+	"crisPlatform": "",
+	"crisPlatformNote": "",
+	"metadata": {
+		"created": "2020-05-10T17:43:19.296Z",
+		"lastModified": "2020-10-17T20:04:24.999Z"
+	},
+	"name": "National Institute of Technology Uttarakhand Scholar Profile",
+	"organization": "orgunits:ou00907",
+	"scope": "vocabs:scopes/classcerif00937",
+	"status": "vocabs:statuses/classcerif00935",
+	"uri": "http://nituk.irins.org/"
+}

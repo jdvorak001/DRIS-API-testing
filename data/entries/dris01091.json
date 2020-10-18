@@ -1,0 +1,49 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris01091",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00935",
+			"label": {
+				"en": "Operational"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00937",
+			"label": {
+				"en": "Institutional"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00339",
+			"country": "vocabs:countries/country00732",
+			"label": "Universit\u00e0 degli Studi di Roma Tre"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00732",
+			"iso_3166_codes": {
+				"Alpha2": "IT",
+				"Alpha3": "ITA",
+				"Numeric": "380"
+			},
+			"label": {
+				"en": "Italy"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "",
+	"country": "vocabs:countries/country00732",
+	"coverages": [],
+	"crisPlatform": "",
+	"crisPlatformNote": "",
+	"metadata": {
+		"created": "2019-03-08T17:12:32.448Z",
+		"lastModified": "2020-10-17T20:03:20.017Z"
+	},
+	"name": "IRIS Universit\u00e0 degli Studi di Roma Tre",
+	"organization": "orgunits:ou00339",
+	"scope": "vocabs:scopes/classcerif00937",
+	"status": "vocabs:statuses/classcerif00935",
+	"uri": "https://iris.uniroma3.it/"
+}

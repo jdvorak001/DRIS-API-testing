@@ -1,0 +1,49 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris01299",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00935",
+			"label": {
+				"en": "Operational"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00937",
+			"label": {
+				"en": "Institutional"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00524",
+			"country": "vocabs:countries/country00725",
+			"label": "Xavier Labor Relations Institute, Jamshedpur"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00725",
+			"iso_3166_codes": {
+				"Alpha2": "IN",
+				"Alpha3": "IND",
+				"Numeric": "356"
+			},
+			"label": {
+				"en": "India"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "XLRI Scholar Profile",
+	"country": "vocabs:countries/country00725",
+	"coverages": [],
+	"crisPlatform": "",
+	"crisPlatformNote": "",
+	"metadata": {
+		"created": "2019-08-18T15:23:05.546Z",
+		"lastModified": "2020-10-17T20:03:40.917Z"
+	},
+	"name": "Xavier Labor Relations Institute, Jamshedpur Scholars Profile",
+	"organization": "orgunits:ou00524",
+	"scope": "vocabs:scopes/classcerif00937",
+	"status": "vocabs:statuses/classcerif00935",
+	"uri": "http://xlri.irins.org"
+}

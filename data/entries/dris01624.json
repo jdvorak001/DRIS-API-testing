@@ -1,0 +1,49 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris01624",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00392",
+			"label": {
+				"en": "Under Construction                                              "
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00937",
+			"label": {
+				"en": "Institutional"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00831",
+			"country": "vocabs:countries/country00705",
+			"label": "Helmut-Schmidt-University / University of the German Federal Armed Forces"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00705",
+			"iso_3166_codes": {
+				"Alpha2": "DE",
+				"Alpha3": "DEU",
+				"Numeric": "276"
+			},
+			"label": {
+				"en": "Germany"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "OpenHSU",
+	"country": "vocabs:countries/country00705",
+	"coverages": [],
+	"crisPlatform": "",
+	"crisPlatformNote": "",
+	"metadata": {
+		"created": "2020-03-20T09:59:56.535Z",
+		"lastModified": "2020-10-17T20:04:16.669Z"
+	},
+	"name": "Research Information System HSU",
+	"organization": "orgunits:ou00831",
+	"scope": "vocabs:scopes/classcerif00937",
+	"status": "vocabs:statuses/classcerif00392",
+	"uri": "https://openhsu.ub.hsu-hh.de/"
+}

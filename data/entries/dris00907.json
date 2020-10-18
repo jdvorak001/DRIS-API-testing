@@ -1,0 +1,37 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris00907",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00036",
+			"country": "vocabs:countries/country00805",
+			"label": "Central Economics and Mathematics Institute of RAS (CEMI RAS)"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00805",
+			"iso_3166_codes": {
+				"Alpha2": "RU",
+				"Alpha3": "RUS",
+				"Numeric": "643"
+			},
+			"label": {
+				"en": "Russian Federation"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "Socionet",
+	"country": "vocabs:countries/country00805",
+	"coverages": [],
+	"crisPlatform": "",
+	"crisPlatformNote": "",
+	"metadata": {
+		"created": "2015-05-10T00:44:53.154Z",
+		"lastModified": "2020-10-17T20:03:04.076Z"
+	},
+	"name": "Socionet",
+	"organization": "orgunits:ou00036",
+	"scope": "",
+	"status": "",
+	"uri": "http://socionet.ru/"
+}

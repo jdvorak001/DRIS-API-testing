@@ -1,0 +1,49 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris00895",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00935",
+			"label": {
+				"en": "Operational"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00939",
+			"label": {
+				"en": "National"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00067",
+			"country": "vocabs:countries/country00825",
+			"label": "Institute of Information Science (IZUM)"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00825",
+			"iso_3166_codes": {
+				"Alpha2": "SI",
+				"Alpha3": "SVN",
+				"Numeric": "705"
+			},
+			"label": {
+				"en": "Slovenia"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "SICRIS",
+	"country": "vocabs:countries/country00825",
+	"coverages": [],
+	"crisPlatform": "",
+	"crisPlatformNote": "",
+	"metadata": {
+		"created": "2015-05-10T00:44:52.697Z",
+		"lastModified": "2020-10-17T20:03:00.182Z"
+	},
+	"name": "Slovenian Current Research Information System",
+	"organization": "orgunits:ou00067",
+	"scope": "vocabs:scopes/classcerif00939",
+	"status": "vocabs:statuses/classcerif00935",
+	"uri": "http://www.sicris.si"
+}

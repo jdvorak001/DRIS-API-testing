@@ -1,0 +1,49 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris01167",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00935",
+			"label": {
+				"en": "Operational"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00937",
+			"label": {
+				"en": "Institutional"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00423",
+			"country": "vocabs:countries/country00644",
+			"label": "Vrije Universiteit Brussel"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00644",
+			"iso_3166_codes": {
+				"Alpha2": "BE",
+				"Alpha3": "BEL",
+				"Numeric": "56"
+			},
+			"label": {
+				"en": "Belgium"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "",
+	"country": "vocabs:countries/country00644",
+	"coverages": [],
+	"crisPlatform": "",
+	"crisPlatformNote": "",
+	"metadata": {
+		"created": "2019-03-18T09:47:14.722Z",
+		"lastModified": "2020-10-17T20:04:30.078Z"
+	},
+	"name": "Pure VUB",
+	"organization": "orgunits:ou00423",
+	"scope": "vocabs:scopes/classcerif00937",
+	"status": "vocabs:statuses/classcerif00935",
+	"uri": "https://cris.vub.be/"
+}

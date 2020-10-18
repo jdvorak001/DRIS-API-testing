@@ -1,0 +1,49 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris01394",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00935",
+			"label": {
+				"en": "Operational"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00889",
+			"label": {
+				"en": "Institutional"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00612",
+			"country": "vocabs:countries/country00644",
+			"label": "University of Antwerp"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00644",
+			"iso_3166_codes": {
+				"Alpha2": "BE",
+				"Alpha3": "BEL",
+				"Numeric": "56"
+			},
+			"label": {
+				"en": "Belgium"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "",
+	"country": "vocabs:countries/country00644",
+	"coverages": [],
+	"crisPlatform": "",
+	"crisPlatformNote": "In-house-built (Oracle Peoplesoft)",
+	"metadata": {
+		"created": "2019-12-04T19:55:29.917Z",
+		"lastModified": "2020-10-17T20:03:51.085Z"
+	},
+	"name": "Antigoon research database",
+	"organization": "orgunits:ou00612",
+	"scope": "vocabs:scopes/classcerif00889",
+	"status": "vocabs:statuses/classcerif00935",
+	"uri": "https://www.uantwerpen.be/en/webinformation/about-the-website/database-content/"
+}

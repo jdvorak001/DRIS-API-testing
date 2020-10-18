@@ -1,0 +1,49 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris00905",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00935",
+			"label": {
+				"en": "Operational"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00889",
+			"label": {
+				"en": "Institutional"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00141",
+			"country": "vocabs:countries/country00857",
+			"label": "University of Glasgow, Library"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00857",
+			"iso_3166_codes": {
+				"Alpha2": "GB",
+				"Alpha3": "GBR",
+				"Numeric": "826"
+			},
+			"label": {
+				"en": "United Kingdom"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "",
+	"country": "vocabs:countries/country00857",
+	"coverages": [],
+	"crisPlatform": "",
+	"crisPlatformNote": "",
+	"metadata": {
+		"created": "2015-05-10T00:44:53.070Z",
+		"lastModified": "2020-10-17T20:03:03.542Z"
+	},
+	"name": "University of Glasgow Research Support System",
+	"organization": "orgunits:ou00141",
+	"scope": "vocabs:scopes/classcerif00889",
+	"status": "vocabs:statuses/classcerif00935",
+	"uri": ""
+}

@@ -1,0 +1,49 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris01134",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00935",
+			"label": {
+				"en": "Operational"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00937",
+			"label": {
+				"en": "Institutional"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00227",
+			"country": "vocabs:countries/country00831",
+			"label": "Universitat Polit\u00e8cnica de Catalunya"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00831",
+			"iso_3166_codes": {
+				"Alpha2": "ES",
+				"Alpha3": "ESP",
+				"Numeric": "724"
+			},
+			"label": {
+				"en": "Spain"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "FUTUR",
+	"country": "vocabs:countries/country00831",
+	"coverages": [],
+	"crisPlatform": "",
+	"crisPlatformNote": "",
+	"metadata": {
+		"created": "2019-03-15T11:39:46.336Z",
+		"lastModified": "2020-10-17T20:03:24.784Z"
+	},
+	"name": "FUTUR",
+	"organization": "orgunits:ou00227",
+	"scope": "vocabs:scopes/classcerif00937",
+	"status": "vocabs:statuses/classcerif00935",
+	"uri": "https://futur.upc.edu/"
+}

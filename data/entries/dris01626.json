@@ -1,0 +1,49 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris01626",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00935",
+			"label": {
+				"en": "Operational"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00939",
+			"label": {
+				"en": "National"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00057",
+			"country": "vocabs:countries/country00800",
+			"label": "Portuguese Foundation for Science and Technology (Funda\u00e7\u00e3o para a Ci\u00eancia e a Tecnologia, FCT)"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00800",
+			"iso_3166_codes": {
+				"Alpha2": "PT",
+				"Alpha3": "PRT",
+				"Numeric": "620"
+			},
+			"label": {
+				"en": "Portugal"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "",
+	"country": "vocabs:countries/country00800",
+	"coverages": [],
+	"crisPlatform": "",
+	"crisPlatformNote": "",
+	"metadata": {
+		"created": "2020-04-02T10:06:49.520Z",
+		"lastModified": "2020-10-17T20:04:16.875Z"
+	},
+	"name": "CI\u00caNCIAVITAE",
+	"organization": "orgunits:ou00057",
+	"scope": "vocabs:scopes/classcerif00939",
+	"status": "vocabs:statuses/classcerif00935",
+	"uri": "https://www.cienciavitae.pt/?lang=en"
+}

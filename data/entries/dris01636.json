@@ -1,0 +1,49 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris01636",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00935",
+			"label": {
+				"en": "Operational"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00937",
+			"label": {
+				"en": "Institutional"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00842",
+			"country": "vocabs:countries/country00858",
+			"label": "Pennsylvania State University"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00858",
+			"iso_3166_codes": {
+				"Alpha2": "US",
+				"Alpha3": "USA",
+				"Numeric": "840"
+			},
+			"label": {
+				"en": "United States"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "",
+	"country": "vocabs:countries/country00858",
+	"coverages": [],
+	"crisPlatform": "",
+	"crisPlatformNote": "",
+	"metadata": {
+		"created": "2020-04-04T09:40:26.793Z",
+		"lastModified": "2020-10-17T20:04:18.028Z"
+	},
+	"name": "Pure Penn State",
+	"organization": "orgunits:ou00842",
+	"scope": "vocabs:scopes/classcerif00937",
+	"status": "vocabs:statuses/classcerif00935",
+	"uri": "https://pennstate.pure.elsevier.com/"
+}

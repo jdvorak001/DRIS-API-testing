@@ -1,0 +1,49 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris01628",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00935",
+			"label": {
+				"en": "Operational"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00937",
+			"label": {
+				"en": "Institutional"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00834",
+			"country": "vocabs:countries/country00858",
+			"label": "Arizona State University"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00858",
+			"iso_3166_codes": {
+				"Alpha2": "US",
+				"Alpha3": "USA",
+				"Numeric": "840"
+			},
+			"label": {
+				"en": "United States"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "",
+	"country": "vocabs:countries/country00858",
+	"coverages": [],
+	"crisPlatform": "",
+	"crisPlatformNote": "",
+	"metadata": {
+		"created": "2020-04-04T09:40:25.374Z",
+		"lastModified": "2020-10-17T20:04:17.152Z"
+	},
+	"name": "Pure Arizona State University (experts.asu)",
+	"organization": "orgunits:ou00834",
+	"scope": "vocabs:scopes/classcerif00937",
+	"status": "vocabs:statuses/classcerif00935",
+	"uri": "https://asu.pure.elsevier.com/"
+}

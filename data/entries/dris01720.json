@@ -1,0 +1,49 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris01720",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00935",
+			"label": {
+				"en": "Operational"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00937",
+			"label": {
+				"en": "Institutional"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00923",
+			"country": "vocabs:countries/country00725",
+			"label": "M. S. Ramaiah University of Applied Sciences, Bengaluru"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00725",
+			"iso_3166_codes": {
+				"Alpha2": "IN",
+				"Alpha3": "IND",
+				"Numeric": "356"
+			},
+			"label": {
+				"en": "India"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "MSRUAS Scholar Profile",
+	"country": "vocabs:countries/country00725",
+	"coverages": [],
+	"crisPlatform": "",
+	"crisPlatformNote": "",
+	"metadata": {
+		"created": "2020-07-29T14:16:57.211Z",
+		"lastModified": "2020-10-17T20:04:26.669Z"
+	},
+	"name": "M. S. Ramaiah University of Applied Sciences Bengaluru Scholar Profile",
+	"organization": "orgunits:ou00923",
+	"scope": "vocabs:scopes/classcerif00937",
+	"status": "vocabs:statuses/classcerif00935",
+	"uri": "http://msruas.irins.org/"
+}

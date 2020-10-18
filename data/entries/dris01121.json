@@ -1,0 +1,20 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris01121",
+	"@included": [],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "",
+	"country": "",
+	"coverages": [],
+	"crisPlatform": "",
+	"crisPlatformNote": "",
+	"metadata": {
+		"created": "2019-03-15T11:39:42.019Z",
+		"lastModified": "2020-10-17T20:03:23.313Z"
+	},
+	"name": "FIS",
+	"organization": "",
+	"scope": "",
+	"status": "",
+	"uri": ""
+}

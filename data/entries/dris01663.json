@@ -1,0 +1,49 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris01663",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00935",
+			"label": {
+				"en": "Operational"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00937",
+			"label": {
+				"en": "Institutional"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00868",
+			"country": "vocabs:countries/country00722",
+			"label": "City University of Hong Kong"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00722",
+			"iso_3166_codes": {
+				"Alpha2": "HK",
+				"Alpha3": "HKG",
+				"Numeric": "344"
+			},
+			"label": {
+				"en": "Hong Kong"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "",
+	"country": "vocabs:countries/country00722",
+	"coverages": [],
+	"crisPlatform": "",
+	"crisPlatformNote": "",
+	"metadata": {
+		"created": "2020-04-13T20:33:42.270Z",
+		"lastModified": "2020-10-17T20:04:20.923Z"
+	},
+	"name": "CityU Scholars",
+	"organization": "orgunits:ou00868",
+	"scope": "vocabs:scopes/classcerif00937",
+	"status": "vocabs:statuses/classcerif00935",
+	"uri": "https://scholars.cityu.edu.hk/"
+}

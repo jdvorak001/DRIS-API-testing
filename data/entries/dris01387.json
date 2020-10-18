@@ -1,0 +1,49 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris01387",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00935",
+			"label": {
+				"en": "Operational"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00889",
+			"label": {
+				"en": "Institutional"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00607",
+			"country": "vocabs:countries/country00633",
+			"label": "Centro de Estudios de Estado y Sociedad (CEDES)"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00633",
+			"iso_3166_codes": {
+				"Alpha2": "AR",
+				"Alpha3": "ARG",
+				"Numeric": "32"
+			},
+			"label": {
+				"en": "Argentina"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "",
+	"country": "vocabs:countries/country00633",
+	"coverages": [],
+	"crisPlatform": "",
+	"crisPlatformNote": "",
+	"metadata": {
+		"created": "2019-11-05T12:19:25.843Z",
+		"lastModified": "2020-10-17T20:03:50.529Z"
+	},
+	"name": "Repositorio CEDES",
+	"organization": "orgunits:ou00607",
+	"scope": "vocabs:scopes/classcerif00889",
+	"status": "vocabs:statuses/classcerif00935",
+	"uri": "http://repositorio.cedes.org/"
+}

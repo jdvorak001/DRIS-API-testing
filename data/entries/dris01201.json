@@ -1,0 +1,49 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris01201",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00935",
+			"label": {
+				"en": "Operational"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00937",
+			"label": {
+				"en": "Institutional"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00436",
+			"country": "vocabs:countries/country00644",
+			"label": "Flanders Marine Institute"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00644",
+			"iso_3166_codes": {
+				"Alpha2": "BE",
+				"Alpha3": "BEL",
+				"Numeric": "56"
+			},
+			"label": {
+				"en": "Belgium"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "IMIS",
+	"country": "vocabs:countries/country00644",
+	"coverages": [],
+	"crisPlatform": "",
+	"crisPlatformNote": "",
+	"metadata": {
+		"created": "2019-05-20T15:57:43.570Z",
+		"lastModified": "2020-10-17T20:03:30.764Z"
+	},
+	"name": "Integrated Marine Information System",
+	"organization": "orgunits:ou00436",
+	"scope": "vocabs:scopes/classcerif00937",
+	"status": "vocabs:statuses/classcerif00935",
+	"uri": "http://www.vliz.be/en/imis"
+}

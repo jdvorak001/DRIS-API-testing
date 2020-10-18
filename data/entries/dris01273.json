@@ -1,0 +1,49 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris01273",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00935",
+			"label": {
+				"en": "Operational"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00937",
+			"label": {
+				"en": "Institutional"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00498",
+			"country": "vocabs:countries/country00817",
+			"label": "King Abdullah University of Science and Technology (KAUST)"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00817",
+			"iso_3166_codes": {
+				"Alpha2": "SA",
+				"Alpha3": "SAU",
+				"Numeric": "682"
+			},
+			"label": {
+				"en": "Saudi Arabia"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "",
+	"country": "vocabs:countries/country00817",
+	"coverages": [],
+	"crisPlatform": "",
+	"crisPlatformNote": "",
+	"metadata": {
+		"created": "2019-07-25T19:41:58.517Z",
+		"lastModified": "2020-10-17T20:03:38.131Z"
+	},
+	"name": "KAUST Research Portal",
+	"organization": "orgunits:ou00498",
+	"scope": "vocabs:scopes/classcerif00937",
+	"status": "vocabs:statuses/classcerif00935",
+	"uri": "https://pure.kaust.edu.sa:8080/portal/en/"
+}

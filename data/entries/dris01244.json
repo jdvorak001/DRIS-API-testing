@@ -1,0 +1,49 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris01244",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00935",
+			"label": {
+				"en": "Operational"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00937",
+			"label": {
+				"en": "Institutional"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00472",
+			"country": "vocabs:countries/country00766",
+			"label": "Consejo Nacional de Ciencia y Tecnolog\u00eda (CONACYT)"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00766",
+			"iso_3166_codes": {
+				"Alpha2": "MX",
+				"Alpha3": "MEX",
+				"Numeric": "484"
+			},
+			"label": {
+				"en": "Mexico"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "Pure CONACYT",
+	"country": "vocabs:countries/country00766",
+	"coverages": [],
+	"crisPlatform": "",
+	"crisPlatformNote": "",
+	"metadata": {
+		"created": "2019-06-13T16:46:26.927Z",
+		"lastModified": "2020-10-17T20:03:34.754Z"
+	},
+	"name": "Pure CONACYT",
+	"organization": "orgunits:ou00472",
+	"scope": "vocabs:scopes/classcerif00937",
+	"status": "vocabs:statuses/classcerif00935",
+	"uri": "https://www.conacyt.gob.mx/pci/"
+}

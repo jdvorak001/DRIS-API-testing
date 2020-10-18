@@ -1,0 +1,49 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris01392",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00935",
+			"label": {
+				"en": "Operational"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00889",
+			"label": {
+				"en": "Institutional"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00610",
+			"country": "vocabs:countries/country00681",
+			"label": "Cyprus University of Technology"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00681",
+			"iso_3166_codes": {
+				"Alpha2": "CY",
+				"Alpha3": "CYP",
+				"Numeric": "196"
+			},
+			"label": {
+				"en": "Cyprus"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "",
+	"country": "vocabs:countries/country00681",
+	"coverages": [],
+	"crisPlatform": "",
+	"crisPlatformNote": "",
+	"metadata": {
+		"created": "2019-11-16T22:17:20.962Z",
+		"lastModified": "2020-10-17T20:03:50.852Z"
+	},
+	"name": "KTISIS",
+	"organization": "orgunits:ou00610",
+	"scope": "vocabs:scopes/classcerif00889",
+	"status": "vocabs:statuses/classcerif00935",
+	"uri": "https://ktisis.cut.ac.cy/"
+}

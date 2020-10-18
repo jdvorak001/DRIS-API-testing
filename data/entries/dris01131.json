@@ -1,0 +1,49 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris01131",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00935",
+			"label": {
+				"en": "Operational"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00937",
+			"label": {
+				"en": "Institutional"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00390",
+			"country": "vocabs:countries/country00799",
+			"label": "University of Agriculture in Krakow"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00799",
+			"iso_3166_codes": {
+				"Alpha2": "PL",
+				"Alpha3": "POL",
+				"Numeric": "616"
+			},
+			"label": {
+				"en": "Poland"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "",
+	"country": "vocabs:countries/country00799",
+	"coverages": [],
+	"crisPlatform": "",
+	"crisPlatformNote": "",
+	"metadata": {
+		"created": "2019-03-15T11:39:45.163Z",
+		"lastModified": "2020-10-17T20:03:24.478Z"
+	},
+	"name": "Baza Dorobku Naukowego URK",
+	"organization": "orgunits:ou00390",
+	"scope": "vocabs:scopes/classcerif00937",
+	"status": "vocabs:statuses/classcerif00935",
+	"uri": "https://repo.ur.krakow.pl"
+}

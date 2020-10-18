@@ -1,0 +1,49 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris00993",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00935",
+			"label": {
+				"en": "Operational"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00937",
+			"label": {
+				"en": "Institutional"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00252",
+			"country": "vocabs:countries/country00697",
+			"label": "University of Oulu"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00697",
+			"iso_3166_codes": {
+				"Alpha2": "FI",
+				"Alpha3": "FIN",
+				"Numeric": "246"
+			},
+			"label": {
+				"en": "Finland"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "SoleCRIS Oulu",
+	"country": "vocabs:countries/country00697",
+	"coverages": [],
+	"crisPlatform": "",
+	"crisPlatformNote": "",
+	"metadata": {
+		"created": "2019-03-04T14:51:18.068Z",
+		"lastModified": "2020-10-17T20:03:08.849Z"
+	},
+	"name": "University of Oulu SoleCRIS",
+	"organization": "orgunits:ou00252",
+	"scope": "vocabs:scopes/classcerif00937",
+	"status": "vocabs:statuses/classcerif00935",
+	"uri": "https://solecris.oulu.fi/crisyp/disp/_/en/"
+}

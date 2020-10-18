@@ -1,0 +1,49 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris01732",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00935",
+			"label": {
+				"en": "Operational"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00937",
+			"label": {
+				"en": "Institutional"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00934",
+			"country": "vocabs:countries/country00828",
+			"label": "University of Cape Town"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00828",
+			"iso_3166_codes": {
+				"Alpha2": "ZA",
+				"Alpha3": "ZAF",
+				"Numeric": "710"
+			},
+			"label": {
+				"en": "South Africa"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "",
+	"country": "vocabs:countries/country00828",
+	"coverages": [],
+	"crisPlatform": "",
+	"crisPlatformNote": "",
+	"metadata": {
+		"created": "2020-08-29T12:35:34.468Z",
+		"lastModified": "2020-10-17T20:04:27.819Z"
+	},
+	"name": "UCT Research Portal",
+	"organization": "orgunits:ou00934",
+	"scope": "vocabs:scopes/classcerif00937",
+	"status": "vocabs:statuses/classcerif00935",
+	"uri": "https://eraonline.uct.ac.za/converis/portal/overview?lang=en_GB"
+}

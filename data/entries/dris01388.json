@@ -1,0 +1,49 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris01388",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00935",
+			"label": {
+				"en": "Operational"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00889",
+			"label": {
+				"en": "Institutional"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00608",
+			"country": "vocabs:countries/country00667",
+			"label": "Pontificia Universidad Cat\u00f3lica de Chile"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00667",
+			"iso_3166_codes": {
+				"Alpha2": "CL",
+				"Alpha3": "CHL",
+				"Numeric": "152"
+			},
+			"label": {
+				"en": "Chile"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "",
+	"country": "vocabs:countries/country00667",
+	"coverages": [],
+	"crisPlatform": "",
+	"crisPlatformNote": "Converis + VIVO",
+	"metadata": {
+		"created": "2019-11-06T12:32:54.496Z",
+		"lastModified": "2020-10-17T20:03:50.654Z"
+	},
+	"name": "Scholars@UC",
+	"organization": "orgunits:ou00608",
+	"scope": "vocabs:scopes/classcerif00889",
+	"status": "vocabs:statuses/classcerif00935",
+	"uri": "https://vivo.uc.cl/vivo/"
+}

@@ -1,0 +1,49 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris00967",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00935",
+			"label": {
+				"en": "Operational"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00939",
+			"label": {
+				"en": "National"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00043",
+			"country": "vocabs:countries/country00788",
+			"label": "UNIT \u2013 Directorate for ICT and Joint Services in Higher Education and Research"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00788",
+			"iso_3166_codes": {
+				"Alpha2": "NO",
+				"Alpha3": "NOR",
+				"Numeric": "578"
+			},
+			"label": {
+				"en": "Norway"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "CRIStin",
+	"country": "vocabs:countries/country00788",
+	"coverages": [],
+	"crisPlatform": "",
+	"crisPlatformNote": "In-house built (WebObjects)",
+	"metadata": {
+		"created": "2017-05-27T16:44:10.544Z",
+		"lastModified": "2020-10-17T20:03:07.627Z"
+	},
+	"name": "Current Research Information System in Norway",
+	"organization": "orgunits:ou00043",
+	"scope": "vocabs:scopes/classcerif00939",
+	"status": "vocabs:statuses/classcerif00935",
+	"uri": "http://cristin.no/"
+}

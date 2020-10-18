@@ -1,0 +1,49 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris00904",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00935",
+			"label": {
+				"en": "Operational"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00889",
+			"label": {
+				"en": "Institutional"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00096",
+			"country": "vocabs:countries/country00745",
+			"label": "Riga Technical University"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00745",
+			"iso_3166_codes": {
+				"Alpha2": "LV",
+				"Alpha3": "LVA",
+				"Numeric": "428"
+			},
+			"label": {
+				"en": "Latvia"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "ZDAS",
+	"country": "vocabs:countries/country00745",
+	"coverages": [],
+	"crisPlatform": "",
+	"crisPlatformNote": "",
+	"metadata": {
+		"created": "2015-05-10T00:44:53.038Z",
+		"lastModified": "2020-10-17T20:03:03.304Z"
+	},
+	"name": "Research Information System of Riga Technical University",
+	"organization": "orgunits:ou00096",
+	"scope": "vocabs:scopes/classcerif00889",
+	"status": "vocabs:statuses/classcerif00935",
+	"uri": "https://ortus.rtu.lv/science/en/publications/search"
+}

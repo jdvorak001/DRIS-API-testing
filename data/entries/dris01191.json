@@ -1,0 +1,49 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris01191",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00935",
+			"label": {
+				"en": "Operational"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00937",
+			"label": {
+				"en": "Institutional"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00431",
+			"country": "vocabs:countries/country00824",
+			"label": "University of \u017dilina"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00824",
+			"iso_3166_codes": {
+				"Alpha2": "SK",
+				"Alpha3": "SVK",
+				"Numeric": "703"
+			},
+			"label": {
+				"en": "Slovakia"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "",
+	"country": "vocabs:countries/country00824",
+	"coverages": [],
+	"crisPlatform": "",
+	"crisPlatformNote": "",
+	"metadata": {
+		"created": "2019-04-05T13:22:03.170Z",
+		"lastModified": "2020-10-17T20:03:29.744Z"
+	},
+	"name": "University of \u017dilina Institutional CRIS",
+	"organization": "orgunits:ou00431",
+	"scope": "vocabs:scopes/classcerif00937",
+	"status": "vocabs:statuses/classcerif00935",
+	"uri": "https://vav.uniza.sk/vevysun.php?id=1&lang"
+}

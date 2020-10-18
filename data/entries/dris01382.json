@@ -1,0 +1,49 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris01382",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00935",
+			"label": {
+				"en": "Operational"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00889",
+			"label": {
+				"en": "Institutional"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00602",
+			"country": "vocabs:countries/country00671",
+			"label": "Universidad de Medell\u00edn"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00671",
+			"iso_3166_codes": {
+				"Alpha2": "CO",
+				"Alpha3": "COL",
+				"Numeric": "170"
+			},
+			"label": {
+				"en": "Colombia"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "",
+	"country": "vocabs:countries/country00671",
+	"coverages": [],
+	"crisPlatform": "",
+	"crisPlatformNote": "",
+	"metadata": {
+		"created": "2019-11-05T11:04:18.616Z",
+		"lastModified": "2020-10-17T20:03:49.930Z"
+	},
+	"name": "Sistema de Investigaci\u00f3n e Innovaci\u00f3n de la Universidad de Medell\u00edn",
+	"organization": "orgunits:ou00602",
+	"scope": "vocabs:scopes/classcerif00889",
+	"status": "vocabs:statuses/classcerif00935",
+	"uri": "https://investigaciones-pure.udem.edu.co/"
+}

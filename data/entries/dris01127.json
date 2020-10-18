@@ -1,0 +1,49 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris01127",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00935",
+			"label": {
+				"en": "Operational"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00937",
+			"label": {
+				"en": "Institutional"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00386",
+			"country": "vocabs:countries/country00799",
+			"label": "University of Opole"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00799",
+			"iso_3166_codes": {
+				"Alpha2": "PL",
+				"Alpha3": "POL",
+				"Numeric": "616"
+			},
+			"label": {
+				"en": "Poland"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "Baza Wiedzy UO",
+	"country": "vocabs:countries/country00799",
+	"coverages": [],
+	"crisPlatform": "",
+	"crisPlatformNote": "",
+	"metadata": {
+		"created": "2019-03-15T11:39:44.437Z",
+		"lastModified": "2020-10-17T20:03:24.101Z"
+	},
+	"name": "Baza Wiedzy UO",
+	"organization": "orgunits:ou00386",
+	"scope": "vocabs:scopes/classcerif00937",
+	"status": "vocabs:statuses/classcerif00935",
+	"uri": "http://repo.uni.opole.pl"
+}

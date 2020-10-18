@@ -1,0 +1,49 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris01419",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00935",
+			"label": {
+				"en": "Operational"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00889",
+			"label": {
+				"en": "Institutional"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00635",
+			"country": "vocabs:countries/country00766",
+			"label": "Universidad Aut\u00f3noma San Luis Potos\u00ed (UASLP)"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00766",
+			"iso_3166_codes": {
+				"Alpha2": "MX",
+				"Alpha3": "MEX",
+				"Numeric": "484"
+			},
+			"label": {
+				"en": "Mexico"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "",
+	"country": "vocabs:countries/country00766",
+	"coverages": [],
+	"crisPlatform": "",
+	"crisPlatformNote": "",
+	"metadata": {
+		"created": "2020-01-03T19:48:48.310Z",
+		"lastModified": "2020-10-17T20:03:53.864Z"
+	},
+	"name": "ORBIS",
+	"organization": "orgunits:ou00635",
+	"scope": "vocabs:scopes/classcerif00889",
+	"status": "vocabs:statuses/classcerif00935",
+	"uri": "https://orbis.uaslp.mx/vivo/"
+}

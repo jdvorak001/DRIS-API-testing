@@ -1,0 +1,49 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris01222",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00935",
+			"label": {
+				"en": "Operational"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00937",
+			"label": {
+				"en": "Institutional"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00451",
+			"country": "vocabs:countries/country00779",
+			"label": "Free University of Amsterdam"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00779",
+			"iso_3166_codes": {
+				"Alpha2": "NL",
+				"Alpha3": "NLD",
+				"Numeric": "528"
+			},
+			"label": {
+				"en": "Netherlands"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "VUA Pure",
+	"country": "vocabs:countries/country00779",
+	"coverages": [],
+	"crisPlatform": "",
+	"crisPlatformNote": "",
+	"metadata": {
+		"created": "2019-06-13T16:46:21.433Z",
+		"lastModified": "2020-10-17T20:03:32.400Z"
+	},
+	"name": "Pure VU Amsterdam",
+	"organization": "orgunits:ou00451",
+	"scope": "vocabs:scopes/classcerif00937",
+	"status": "vocabs:statuses/classcerif00935",
+	"uri": "https://research.vu.nl/"
+}

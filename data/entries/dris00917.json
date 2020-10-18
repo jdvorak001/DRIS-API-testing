@@ -1,0 +1,37 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris00917",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00004",
+			"country": "vocabs:countries/country00732",
+			"label": "CINECA"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00732",
+			"iso_3166_codes": {
+				"Alpha2": "IT",
+				"Alpha3": "ITA",
+				"Numeric": "380"
+			},
+			"label": {
+				"en": "Italy"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "IRIS",
+	"country": "vocabs:countries/country00732",
+	"coverages": [],
+	"crisPlatform": "",
+	"crisPlatformNote": "",
+	"metadata": {
+		"created": "2015-05-10T00:44:53.735Z",
+		"lastModified": "2020-10-17T20:03:05.407Z"
+	},
+	"name": "IRIS - Institutional Research Information System",
+	"organization": "orgunits:ou00004",
+	"scope": "",
+	"status": "",
+	"uri": "https://www.cineca.it/sites/default/files/IRIS_Cineca_EN.pdf"
+}

@@ -1,0 +1,49 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris01038",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00935",
+			"label": {
+				"en": "Operational"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00937",
+			"label": {
+				"en": "Institutional"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00286",
+			"country": "vocabs:countries/country00732",
+			"label": "Universit\u00e0 Telematica eCampus"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00732",
+			"iso_3166_codes": {
+				"Alpha2": "IT",
+				"Alpha3": "ITA",
+				"Numeric": "380"
+			},
+			"label": {
+				"en": "Italy"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "",
+	"country": "vocabs:countries/country00732",
+	"coverages": [],
+	"crisPlatform": "",
+	"crisPlatformNote": "",
+	"metadata": {
+		"created": "2019-03-08T17:12:21.389Z",
+		"lastModified": "2020-10-17T20:03:13.873Z"
+	},
+	"name": "IRIS Universit\u00e0 Telematica eCampus",
+	"organization": "orgunits:ou00286",
+	"scope": "vocabs:scopes/classcerif00937",
+	"status": "vocabs:statuses/classcerif00935",
+	"uri": "https://iris.uniecampus.it/"
+}

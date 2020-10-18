@@ -1,0 +1,49 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris01334",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00935",
+			"label": {
+				"en": "Operational"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00889",
+			"label": {
+				"en": "Institutional"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00555",
+			"country": "vocabs:countries/country00633",
+			"label": "Pontificia Universidad Cat\u00f3lica Argentina (UCA)"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00633",
+			"iso_3166_codes": {
+				"Alpha2": "AR",
+				"Alpha3": "ARG",
+				"Numeric": "32"
+			},
+			"label": {
+				"en": "Argentina"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "",
+	"country": "vocabs:countries/country00633",
+	"coverages": [],
+	"crisPlatform": "",
+	"crisPlatformNote": "",
+	"metadata": {
+		"created": "2019-10-31T15:42:25.577Z",
+		"lastModified": "2020-10-17T20:03:44.269Z"
+	},
+	"name": "Repositorio Institucional UCA",
+	"organization": "orgunits:ou00555",
+	"scope": "vocabs:scopes/classcerif00889",
+	"status": "vocabs:statuses/classcerif00935",
+	"uri": "https://repositorio.uca.edu.ar/indexcris.jsp"
+}

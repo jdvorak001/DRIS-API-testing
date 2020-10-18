@@ -1,0 +1,49 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris01385",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00935",
+			"label": {
+				"en": "Operational"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00889",
+			"label": {
+				"en": "Institutional"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00605",
+			"country": "vocabs:countries/country00676",
+			"label": "Universidad Nacional de Costa Rica (UNA)"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00676",
+			"iso_3166_codes": {
+				"Alpha2": "CR",
+				"Alpha3": "CRI",
+				"Numeric": "188"
+			},
+			"label": {
+				"en": "Costa Rica"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "",
+	"country": "vocabs:countries/country00676",
+	"coverages": [],
+	"crisPlatform": "",
+	"crisPlatformNote": "",
+	"metadata": {
+		"created": "2019-11-05T11:37:50.295Z",
+		"lastModified": "2020-10-17T20:03:50.311Z"
+	},
+	"name": "UNA Red Acad\u00e9mica",
+	"organization": "orgunits:ou00605",
+	"scope": "vocabs:scopes/classcerif00889",
+	"status": "vocabs:statuses/classcerif00935",
+	"uri": "https://www.redacademica.una.ac.cr/"
+}

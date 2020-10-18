@@ -1,0 +1,49 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris01446",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00392",
+			"label": {
+				"en": "Under Construction                                              "
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00939",
+			"label": {
+				"en": "National"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00660",
+			"country": "vocabs:countries/country00724",
+			"label": "Icelandic Ministry of Education, Science and Culture"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00724",
+			"iso_3166_codes": {
+				"Alpha2": "IS",
+				"Alpha3": "ISL",
+				"Numeric": "352"
+			},
+			"label": {
+				"en": "Iceland"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "",
+	"country": "vocabs:countries/country00724",
+	"coverages": [],
+	"crisPlatform": "",
+	"crisPlatformNote": "",
+	"metadata": {
+		"created": "2020-01-31T13:14:16.118Z",
+		"lastModified": "2020-10-17T20:03:57.438Z"
+	},
+	"name": "Icelandic National CRIS",
+	"organization": "orgunits:ou00660",
+	"scope": "vocabs:scopes/classcerif00939",
+	"status": "vocabs:statuses/classcerif00392",
+	"uri": "https://bit.ly/2uPQFnw"
+}

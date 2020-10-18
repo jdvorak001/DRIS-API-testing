@@ -1,0 +1,49 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris00954",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00935",
+			"label": {
+				"en": "Operational"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00937",
+			"label": {
+				"en": "Institutional"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00240",
+			"country": "vocabs:countries/country00800",
+			"label": "Instituto Universit\u00e1rio de Lisboa (ISCTE)"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00800",
+			"iso_3166_codes": {
+				"Alpha2": "PT",
+				"Alpha3": "PRT",
+				"Numeric": "620"
+			},
+			"label": {
+				"en": "Portugal"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "Ci\u00eancia-IUL",
+	"country": "vocabs:countries/country00800",
+	"coverages": [],
+	"crisPlatform": "",
+	"crisPlatformNote": "",
+	"metadata": {
+		"created": "2017-05-18T12:51:45.061Z",
+		"lastModified": "2020-10-17T20:03:05.650Z"
+	},
+	"name": "Ci\u00eancia-IUL",
+	"organization": "orgunits:ou00240",
+	"scope": "vocabs:scopes/classcerif00937",
+	"status": "vocabs:statuses/classcerif00935",
+	"uri": "https://ciencia.iscte-iul.pt/"
+}

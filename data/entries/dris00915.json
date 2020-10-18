@@ -1,0 +1,32 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris00915",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00683",
+			"iso_3166_codes": {
+				"Alpha2": "DK",
+				"Alpha3": "DNK",
+				"Numeric": "208"
+			},
+			"label": {
+				"en": "Denmark"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "",
+	"country": "vocabs:countries/country00683",
+	"coverages": [],
+	"crisPlatform": "",
+	"crisPlatformNote": "",
+	"metadata": {
+		"created": "2015-05-10T00:44:53.669Z",
+		"lastModified": "2020-10-17T20:03:05.086Z"
+	},
+	"name": "Pure",
+	"organization": "",
+	"scope": "",
+	"status": "",
+	"uri": "http://atira.dk/en/pure/"
+}

@@ -1,0 +1,49 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris01139",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00935",
+			"label": {
+				"en": "Operational"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00937",
+			"label": {
+				"en": "Institutional"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00402",
+			"country": "vocabs:countries/country00831",
+			"label": "University Rovira Virgili (URV)"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00831",
+			"iso_3166_codes": {
+				"Alpha2": "ES",
+				"Alpha3": "ESP",
+				"Numeric": "724"
+			},
+			"label": {
+				"en": "Spain"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "GREC URV",
+	"country": "vocabs:countries/country00831",
+	"coverages": [],
+	"crisPlatform": "",
+	"crisPlatformNote": "",
+	"metadata": {
+		"created": "2019-03-15T11:39:47.218Z",
+		"lastModified": "2020-10-17T20:03:25.266Z"
+	},
+	"name": "GREC URV",
+	"organization": "orgunits:ou00402",
+	"scope": "vocabs:scopes/classcerif00937",
+	"status": "vocabs:statuses/classcerif00935",
+	"uri": "https://webgrec.urv.es/"
+}
