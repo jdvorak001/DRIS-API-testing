@@ -24,5 +24,5 @@ for x in sorted( pathlib.Path( input_output_dir ).rglob( "*.json" ), key=os.path
         json.dump( r.json(), f, sort_keys=True, indent="\t" )
     n_files += 1
 
-print( f"Processed {n_files} files. After this, `git status` should not list any files from the {input_output_directory}/ subdirectory" )
+print( f"Processed {n_files} files. After this, `git status` should not list any files from the {input_output_dir}/ subdirectory" )
 
