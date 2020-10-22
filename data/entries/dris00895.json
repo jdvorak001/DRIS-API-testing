@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01750",
+			"label": {
+				"en": "COBISS.CG"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00067",
 			"country": "vocabs:countries/country00825",
 			"label": "Institute of Information Science (IZUM)"
@@ -35,11 +41,11 @@
 	"acronym": "SICRIS",
 	"country": "vocabs:countries/country00825",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01750",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2015-05-10T00:44:52.697Z",
-		"lastModified": "2020-10-17T20:03:00.182Z"
+		"lastModified": "2020-10-19T18:08:27.133Z"
 	},
 	"name": "Slovenian Current Research Information System",
 	"organization": "orgunits:ou00067",

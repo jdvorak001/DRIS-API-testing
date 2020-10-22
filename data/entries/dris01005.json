@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01764",
+			"label": {
+				"en": "Pure"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00263",
 			"country": "vocabs:countries/country00857",
 			"label": "Aston University"
@@ -35,11 +41,11 @@
 	"acronym": "Pure Aston",
 	"country": "vocabs:countries/country00857",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01764",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2019-03-08T17:07:44.294Z",
-		"lastModified": "2020-10-17T20:03:10.124Z"
+		"lastModified": "2020-10-19T18:08:34.161Z"
 	},
 	"name": "Aston Research Explorer",
 	"organization": "orgunits:ou00263",

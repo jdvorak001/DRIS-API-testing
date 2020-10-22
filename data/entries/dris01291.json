@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01759",
+			"label": {
+				"en": "IRINS"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00516",
 			"country": "vocabs:countries/country00725",
 			"label": "ICMR-National Institute for Research in Tuberculosis"
@@ -35,11 +41,11 @@
 	"acronym": "NIRT Scholar Profile",
 	"country": "vocabs:countries/country00725",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01759",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2019-08-18T15:23:03.930Z",
-		"lastModified": "2020-10-17T20:03:40.079Z"
+		"lastModified": "2020-10-19T18:09:00.089Z"
 	},
 	"name": "ICMR-National Institute for Research in Tuberculosis Scholars Profile",
 	"organization": "orgunits:ou00516",

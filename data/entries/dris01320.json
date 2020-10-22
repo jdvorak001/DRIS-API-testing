@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01759",
+			"label": {
+				"en": "IRINS"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00545",
 			"country": "vocabs:countries/country00725",
 			"label": "Sikkim University"
@@ -35,11 +41,11 @@
 	"acronym": "CUS Scholars Profile",
 	"country": "vocabs:countries/country00725",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01759",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2019-08-18T15:30:17.229Z",
-		"lastModified": "2020-10-17T20:03:43.236Z"
+		"lastModified": "2020-10-19T18:09:02.890Z"
 	},
 	"name": "Sikkim University Scholars Profile",
 	"organization": "orgunits:ou00545",

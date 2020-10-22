@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01762",
+			"label": {
+				"en": "Omega-PSIR"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00799",
 			"iso_3166_codes": {
 				"Alpha2": "PL",
@@ -30,11 +36,11 @@
 	"acronym": "SINBAW",
 	"country": "vocabs:countries/country00799",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01762",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2019-05-22T19:29:00.592Z",
-		"lastModified": "2020-10-17T20:03:30.972Z"
+		"lastModified": "2020-10-19T18:08:52.451Z"
 	},
 	"name": "Polish Network of University Knowledge Bases",
 	"organization": "",

@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01766",
+			"label": {
+				"en": "SoleCRIS"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00609",
 			"country": "vocabs:countries/country00697",
 			"label": "Bank of Finland"
@@ -35,11 +41,11 @@
 	"acronym": "BoFCris",
 	"country": "vocabs:countries/country00697",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01766",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2019-11-07T12:52:09.611Z",
-		"lastModified": "2020-10-17T20:03:50.757Z"
+		"lastModified": "2020-10-19T18:09:09.243Z"
 	},
 	"name": "Bank of Finland CRIS",
 	"organization": "orgunits:ou00609",

@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01764",
+			"label": {
+				"en": "Pure"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00136",
 			"country": "vocabs:countries/country00857",
 			"label": "University of Dundee"
@@ -35,11 +41,11 @@
 	"acronym": "Pure Dundee",
 	"country": "vocabs:countries/country00857",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01764",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2019-03-08T17:07:48.309Z",
-		"lastModified": "2020-10-17T20:03:11.829Z"
+		"lastModified": "2020-10-19T18:08:35.516Z"
 	},
 	"name": "Pure University of Dundee",
 	"organization": "orgunits:ou00136",

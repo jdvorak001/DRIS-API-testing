@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01759",
+			"label": {
+				"en": "IRINS"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00802",
 			"country": "vocabs:countries/country00725",
 			"label": "Dr. Y. S. Parmar University of Horticulture & Forestry, Solan"
@@ -35,11 +41,11 @@
 	"acronym": "YSPUNIVERSITY Scholar Profile",
 	"country": "vocabs:countries/country00725",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01759",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2020-02-25T19:57:51.370Z",
-		"lastModified": "2020-10-17T20:04:13.495Z"
+		"lastModified": "2020-10-19T18:09:29.081Z"
 	},
 	"name": "Dr. Y. S. Parmar University of Horticulture & Forestry",
 	"organization": "orgunits:ou00802",

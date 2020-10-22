@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01759",
+			"label": {
+				"en": "IRINS"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00898",
 			"country": "vocabs:countries/country00725",
 			"label": "Rajarambapu Institute of Technology, Maharashtra"
@@ -35,11 +41,11 @@
 	"acronym": "RITINDIA Scholar Profile",
 	"country": "vocabs:countries/country00725",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01759",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2020-05-10T17:43:17.499Z",
-		"lastModified": "2020-10-17T20:04:24.079Z"
+		"lastModified": "2020-10-19T18:09:38.955Z"
 	},
 	"name": "Rajarambapu Institute of Technology Scholar Profile",
 	"organization": "orgunits:ou00898",

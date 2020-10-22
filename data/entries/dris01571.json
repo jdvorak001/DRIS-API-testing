@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01752",
+			"label": {
+				"en": "CRIStin"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00779",
 			"country": "vocabs:countries/country00788",
 			"label": "Norwegian Defence Research Establishment"
@@ -35,11 +41,11 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00788",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01752",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2020-02-25T19:31:41.523Z",
-		"lastModified": "2020-10-17T20:04:11.049Z"
+		"lastModified": "2020-10-19T18:09:26.679Z"
 	},
 	"name": "CRIStin Norwegian Defence Research Establishment",
 	"organization": "orgunits:ou00779",

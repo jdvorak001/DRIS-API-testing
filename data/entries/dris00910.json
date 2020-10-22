@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01754",
+			"label": {
+				"en": "DSpace-CRIS"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00189",
 			"country": "vocabs:countries/country00668",
 			"label": "The University of Hong Kong"
@@ -35,11 +41,11 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00722",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01754",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2015-05-10T00:44:53.471Z",
-		"lastModified": "2020-10-17T20:03:04.505Z"
+		"lastModified": "2020-10-19T18:08:29.820Z"
 	},
 	"name": "The HKU Scholars Hub",
 	"organization": "orgunits:ou00189",

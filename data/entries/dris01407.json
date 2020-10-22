@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01759",
+			"label": {
+				"en": "IRINS"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00625",
 			"country": "vocabs:countries/country00725",
 			"label": "Central University of Kashmir"
@@ -35,11 +41,11 @@
 	"acronym": "CUKASHMIR Scholars Profile",
 	"country": "vocabs:countries/country00725",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01759",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2019-12-13T12:12:24.006Z",
-		"lastModified": "2020-10-17T20:03:52.698Z"
+		"lastModified": "2020-10-19T18:09:10.736Z"
 	},
 	"name": "Central University of Kashmir Scholars Profile",
 	"organization": "orgunits:ou00625",

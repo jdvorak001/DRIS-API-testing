@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01758",
+			"label": {
+				"en": "In-house-built"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00604",
 			"country": "vocabs:countries/country00676",
 			"label": "Universidad de Costa Rica"
@@ -35,11 +41,11 @@
 	"acronym": "SIGPRO UCR",
 	"country": "vocabs:countries/country00676",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01758",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2019-11-05T11:24:13.362Z",
-		"lastModified": "2020-10-17T20:03:50.201Z"
+		"lastModified": "2020-10-19T18:09:08.810Z"
 	},
 	"name": "Portal de la Investigaci\u00f3n UCR",
 	"organization": "orgunits:ou00604",

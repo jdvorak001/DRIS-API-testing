@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01758",
+			"label": {
+				"en": "In-house-built"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00430",
 			"country": "vocabs:countries/country00824",
 			"label": "Slovak University of Technology Bratislava"
@@ -35,11 +41,11 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00824",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01758",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2019-04-05T13:16:16.461Z",
-		"lastModified": "2020-10-17T20:03:29.652Z"
+		"lastModified": "2020-10-19T18:08:51.095Z"
 	},
 	"name": "STU Academic Information System",
 	"organization": "orgunits:ou00430",

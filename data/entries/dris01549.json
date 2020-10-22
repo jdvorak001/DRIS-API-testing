@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01752",
+			"label": {
+				"en": "CRIStin"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00757",
 			"country": "vocabs:countries/country00788",
 			"label": "Martina Hansens Hospital"
@@ -35,11 +41,11 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00788",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01752",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2020-02-24T19:46:43.935Z",
-		"lastModified": "2020-10-17T20:04:08.557Z"
+		"lastModified": "2020-10-19T18:09:24.656Z"
 	},
 	"name": "CRIStin Martina Hansens Hospital",
 	"organization": "orgunits:ou00757",

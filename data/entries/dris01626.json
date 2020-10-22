@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01758",
+			"label": {
+				"en": "In-house-built"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00057",
 			"country": "vocabs:countries/country00800",
 			"label": "Portuguese Foundation for Science and Technology (Funda\u00e7\u00e3o para a Ci\u00eancia e a Tecnologia, FCT)"
@@ -35,11 +41,11 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00800",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01758",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2020-04-02T10:06:49.520Z",
-		"lastModified": "2020-10-17T20:04:16.875Z"
+		"lastModified": "2020-10-19T18:09:32.347Z"
 	},
 	"name": "CI\u00caNCIAVITAE",
 	"organization": "orgunits:ou00057",

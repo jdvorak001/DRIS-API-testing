@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01752",
+			"label": {
+				"en": "CRIStin"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00705",
 			"country": "vocabs:countries/country00788",
 			"label": "RURALIS - Institute for Rural and Regional Research"
@@ -35,11 +41,11 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00788",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01752",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2020-02-24T16:00:59.759Z",
-		"lastModified": "2020-10-17T20:04:03.102Z"
+		"lastModified": "2020-10-19T18:09:19.397Z"
 	},
 	"name": "CRIStin RURALIS - Institute for Rural and Regional Research",
 	"organization": "orgunits:ou00705",

@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01764",
+			"label": {
+				"en": "Pure"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00660",
 			"country": "vocabs:countries/country00724",
 			"label": "Icelandic Ministry of Education, Science and Culture"
@@ -35,11 +41,11 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00724",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01764",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2020-01-31T13:14:16.118Z",
-		"lastModified": "2020-10-17T20:03:57.438Z"
+		"lastModified": "2020-10-19T18:09:14.247Z"
 	},
 	"name": "Icelandic National CRIS",
 	"organization": "orgunits:ou00660",

@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01759",
+			"label": {
+				"en": "IRINS"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00877",
 			"country": "vocabs:countries/country00725",
 			"label": "Indian Institute of Management, Shillong"
@@ -35,11 +41,11 @@
 	"acronym": "IIMSHILLONG Scholar Profile",
 	"country": "vocabs:countries/country00725",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01759",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2020-04-13T20:50:20.234Z",
-		"lastModified": "2020-10-17T20:04:21.842Z"
+		"lastModified": "2020-10-19T18:09:36.841Z"
 	},
 	"name": "Indian Institute of Management Shillong Scholar Profile",
 	"organization": "orgunits:ou00877",

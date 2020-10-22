@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01758",
+			"label": {
+				"en": "In-house-built"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00169",
 			"country": "vocabs:countries/country00692",
 			"label": "Estonian Research Council"
@@ -35,11 +41,11 @@
 	"acronym": "ETIS",
 	"country": "vocabs:countries/country00692",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01758",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2015-05-10T00:44:51.980Z",
-		"lastModified": "2020-10-17T20:04:30.624Z"
+		"lastModified": "2020-10-19T18:08:26.382Z"
 	},
 	"name": "Estonian National Research Information System",
 	"organization": "orgunits:ou00169",

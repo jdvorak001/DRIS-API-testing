@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01764",
+			"label": {
+				"en": "Pure"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00278",
 			"country": "vocabs:countries/country00857",
 			"label": "University of South Wales"
@@ -35,11 +41,11 @@
 	"acronym": "Pure South Wales",
 	"country": "vocabs:countries/country00857",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01764",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2019-03-08T17:07:50.358Z",
-		"lastModified": "2020-10-17T20:03:12.745Z"
+		"lastModified": "2020-10-19T18:08:36.288Z"
 	},
 	"name": "Pure University of South Wales",
 	"organization": "orgunits:ou00278",

@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01763",
+			"label": {
+				"en": "PeopleSoft"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00220",
 			"country": "vocabs:countries/country00671",
 			"label": "Pontificia Universidad Javeriana"
@@ -35,11 +41,11 @@
 	"acronym": "InvestigarPUJ",
 	"country": "vocabs:countries/country00671",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01763",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2017-05-26T21:19:08.714Z",
-		"lastModified": "2020-10-17T20:03:07.360Z"
+		"lastModified": "2020-10-19T18:08:32.090Z"
 	},
 	"name": "Sistema de Informaci\u00f3n para la Gesti\u00f3n de la Investigaci\u00f3n PUJ",
 	"organization": "orgunits:ou00220",

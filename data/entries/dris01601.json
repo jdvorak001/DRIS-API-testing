@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01759",
+			"label": {
+				"en": "IRINS"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00809",
 			"country": "vocabs:countries/country00725",
 			"label": "D.Y. Patil College of Engineering and Technology, Kolhapur"
@@ -35,11 +41,11 @@
 	"acronym": "DYPCET Scholar Profile",
 	"country": "vocabs:countries/country00725",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01759",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2020-02-25T19:57:52.979Z",
-		"lastModified": "2020-10-17T20:04:14.205Z"
+		"lastModified": "2020-10-19T18:09:29.839Z"
 	},
 	"name": "D.Y. Patil College of Engineering and Technology",
 	"organization": "orgunits:ou00809",

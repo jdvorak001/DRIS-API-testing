@@ -3,6 +3,12 @@
 	"@id": "https://api.eurocris.org/dris/entries/dris00907",
 	"@included": [
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01758",
+			"label": {
+				"en": "In-house-built"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00036",
 			"country": "vocabs:countries/country00805",
 			"label": "Central Economics and Mathematics Institute of RAS (CEMI RAS)"
@@ -23,11 +29,11 @@
 	"acronym": "Socionet",
 	"country": "vocabs:countries/country00805",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01758",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2015-05-10T00:44:53.154Z",
-		"lastModified": "2020-10-17T20:03:04.076Z"
+		"lastModified": "2020-10-19T18:08:29.535Z"
 	},
 	"name": "Socionet",
 	"organization": "orgunits:ou00036",

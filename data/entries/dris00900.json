@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01758",
+			"label": {
+				"en": "In-house-built"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00239",
 			"country": "vocabs:countries/country00800",
 			"label": "Universidade de \u00c9vora"
@@ -35,11 +41,11 @@
 	"acronym": "SIIUE",
 	"country": "vocabs:countries/country00800",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01758",
 	"crisPlatformNote": "PHP Open Source Framework",
 	"metadata": {
 		"created": "2015-05-10T00:44:52.912Z",
-		"lastModified": "2020-10-17T20:03:02.370Z"
+		"lastModified": "2020-10-19T18:08:28.506Z"
 	},
 	"name": "Integrated Information System of University of \u00c9vora",
 	"organization": "orgunits:ou00239",

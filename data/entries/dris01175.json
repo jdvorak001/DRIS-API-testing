@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01764",
+			"label": {
+				"en": "Pure"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00376",
 			"country": "vocabs:countries/country00705",
 			"label": "Leibniz Universit\u00e4t Hannover"
@@ -35,11 +41,11 @@
 	"acronym": "LUH FIS",
 	"country": "vocabs:countries/country00705",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01764",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2019-03-18T21:20:04.905Z",
-		"lastModified": "2020-10-17T20:03:28.330Z"
+		"lastModified": "2020-10-19T18:08:49.806Z"
 	},
 	"name": "Leibniz University Hannover Research Information System",
 	"organization": "orgunits:ou00376",

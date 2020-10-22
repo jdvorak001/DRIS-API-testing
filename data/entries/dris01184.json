@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01754",
+			"label": {
+				"en": "DSpace-CRIS"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00131",
 			"country": "vocabs:countries/country00729",
 			"label": "University College Dublin"
@@ -35,11 +41,11 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00729",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01754",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2019-03-19T16:00:53.080Z",
-		"lastModified": "2020-10-17T20:03:29.337Z"
+		"lastModified": "2020-10-19T18:08:50.791Z"
 	},
 	"name": "Research Repository UCD",
 	"organization": "orgunits:ou00131",

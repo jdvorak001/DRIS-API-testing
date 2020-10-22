@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01759",
+			"label": {
+				"en": "IRINS"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00563",
 			"country": "vocabs:countries/country00725",
 			"label": "School of Planning and Architecture Bhopal"
@@ -35,11 +41,11 @@
 	"acronym": "SPABHOPAL Scholar Profile",
 	"country": "vocabs:countries/country00725",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01759",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2019-11-05T10:28:41.925Z",
-		"lastModified": "2020-10-17T20:03:45.234Z"
+		"lastModified": "2020-10-19T18:09:04.609Z"
 	},
 	"name": "School of Planning and Architecture Bhopal Scholars Profile",
 	"organization": "orgunits:ou00563",

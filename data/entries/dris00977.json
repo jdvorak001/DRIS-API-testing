@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01762",
+			"label": {
+				"en": "Omega-PSIR"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00249",
 			"country": "vocabs:countries/country00799",
 			"label": "Warsaw University of Technology"
@@ -35,11 +41,11 @@
 	"acronym": "WUT Base of Knowledge",
 	"country": "vocabs:countries/country00799",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01762",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2017-12-19T09:07:37.367Z",
-		"lastModified": "2020-10-17T20:03:08.351Z"
+		"lastModified": "2020-10-19T18:08:32.832Z"
 	},
 	"name": "WUT Base of Knowledge",
 	"organization": "orgunits:ou00249",

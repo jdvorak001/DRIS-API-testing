@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01758",
+			"label": {
+				"en": "In-house-built"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00227",
 			"country": "vocabs:countries/country00831",
 			"label": "Universitat Polit\u00e8cnica de Catalunya"
@@ -35,11 +41,11 @@
 	"acronym": "FUTUR",
 	"country": "vocabs:countries/country00831",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01758",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2019-03-15T11:39:46.336Z",
-		"lastModified": "2020-10-17T20:03:24.784Z"
+		"lastModified": "2020-10-19T18:08:46.064Z"
 	},
 	"name": "FUTUR",
 	"organization": "orgunits:ou00227",

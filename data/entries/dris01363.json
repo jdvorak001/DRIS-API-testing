@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01759",
+			"label": {
+				"en": "IRINS"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00583",
 			"country": "vocabs:countries/country00725",
 			"label": "Shivaji University Kolhapur"
@@ -35,11 +41,11 @@
 	"acronym": "UNISHIVAJI Scholars Profile",
 	"country": "vocabs:countries/country00725",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01759",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2019-11-05T10:36:19.521Z",
-		"lastModified": "2020-10-17T20:03:47.722Z"
+		"lastModified": "2020-10-19T18:09:06.538Z"
 	},
 	"name": "Shivaji University Kolhapur Scholars Profile",
 	"organization": "orgunits:ou00583",

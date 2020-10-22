@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01764",
+			"label": {
+				"en": "Pure"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00467",
 			"country": "vocabs:countries/country00858",
 			"label": "UC Davis"
@@ -35,11 +41,11 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00858",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01764",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2019-06-13T16:46:25.415Z",
-		"lastModified": "2020-10-17T20:03:34.115Z"
+		"lastModified": "2020-10-19T18:08:55.103Z"
 	},
 	"name": "Pure UC Davis",
 	"organization": "orgunits:ou00467",

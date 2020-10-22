@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01764",
+			"label": {
+				"en": "Pure"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00910",
 			"country": "vocabs:countries/country00796",
 			"label": "Universidad Nacional Mayor de San Marcos"
@@ -35,11 +41,11 @@
 	"acronym": "SII-SAN MARCOS",
 	"country": "vocabs:countries/country00796",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01764",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2020-05-23T10:39:04.050Z",
-		"lastModified": "2020-10-17T20:04:25.289Z"
+		"lastModified": "2020-10-19T18:09:40.190Z"
 	},
 	"name": "San Marcos Research Information System",
 	"organization": "orgunits:ou00910",

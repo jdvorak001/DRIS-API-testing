@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01759",
+			"label": {
+				"en": "IRINS"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00925",
 			"country": "vocabs:countries/country00725",
 			"label": "G. B. Pant University of Agriculture and Technology, Pantnagar"
@@ -35,11 +41,11 @@
 	"acronym": "GBPUAT Scholar Profile",
 	"country": "vocabs:countries/country00725",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01759",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2020-07-29T14:17:04.751Z",
-		"lastModified": "2020-10-17T20:04:26.873Z"
+		"lastModified": "2020-10-19T18:09:41.627Z"
 	},
 	"name": "G. B. Pant University of Agriculture and Technology Pantnagar Scholar Profile",
 	"organization": "orgunits:ou00925",

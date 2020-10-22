@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01764",
+			"label": {
+				"en": "Pure"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00460",
 			"country": "vocabs:countries/country00637",
 			"label": "Universit\u00e4t Salzburg"
@@ -35,11 +41,11 @@
 	"acronym": "Pure US",
 	"country": "vocabs:countries/country00637",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01764",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2019-06-13T16:46:23.961Z",
-		"lastModified": "2020-10-17T20:03:33.413Z"
+		"lastModified": "2020-10-19T18:08:54.510Z"
 	},
 	"name": "Pure Uni Salzburg",
 	"organization": "orgunits:ou00460",

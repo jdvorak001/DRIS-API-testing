@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01758",
+			"label": {
+				"en": "In-house-built"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00242",
 			"country": "vocabs:countries/country00657",
 			"label": "Sofia University St. Kliment Ohridski"
@@ -35,11 +41,11 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00657",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01758",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2017-05-24T16:23:01.771Z",
-		"lastModified": "2020-10-17T20:03:06.361Z"
+		"lastModified": "2020-10-19T18:08:31.378Z"
 	},
 	"name": "Sofia University Projects",
 	"organization": "orgunits:ou00242",

@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01764",
+			"label": {
+				"en": "Pure"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00457",
 			"country": "vocabs:countries/country00831",
 			"label": "Universitat Aut\u00f2noma de Barcelona"
@@ -35,11 +41,11 @@
 	"acronym": "Pure UAB",
 	"country": "vocabs:countries/country00831",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01764",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2019-06-13T16:46:23.122Z",
-		"lastModified": "2020-10-17T20:03:33.003Z"
+		"lastModified": "2020-10-19T18:08:54.249Z"
 	},
 	"name": "Pure UA Barcelona",
 	"organization": "orgunits:ou00457",

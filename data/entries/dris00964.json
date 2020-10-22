@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01758",
+			"label": {
+				"en": "In-house-built"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00058",
 			"country": "vocabs:countries/country00705",
 			"label": "German Research Foundation (DFG)"
@@ -35,11 +41,11 @@
 	"acronym": "GEPRIS",
 	"country": "vocabs:countries/country00705",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01758",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2017-05-26T20:34:59.768Z",
-		"lastModified": "2020-10-17T20:03:07.106Z"
+		"lastModified": "2020-10-19T18:08:31.846Z"
 	},
 	"name": "German Project Information System",
 	"organization": "orgunits:ou00058",

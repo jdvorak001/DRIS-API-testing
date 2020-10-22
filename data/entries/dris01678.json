@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01759",
+			"label": {
+				"en": "IRINS"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00883",
 			"country": "vocabs:countries/country00725",
 			"label": "Central Food Technological Research Institute, Mysuru"
@@ -35,11 +41,11 @@
 	"acronym": "CFTRI Scholar Profile",
 	"country": "vocabs:countries/country00725",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01759",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2020-04-13T20:50:21.215Z",
-		"lastModified": "2020-10-17T20:04:22.460Z"
+		"lastModified": "2020-10-19T18:09:37.468Z"
 	},
 	"name": "Central Food Technological Research Institute Scholar Profile",
 	"organization": "orgunits:ou00883",

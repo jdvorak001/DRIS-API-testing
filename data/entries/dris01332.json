@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01764",
+			"label": {
+				"en": "Pure"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00553",
 			"country": "vocabs:countries/country00687",
 			"label": "Universidad Polit\u00e9cnica Salesiana"
@@ -35,11 +41,11 @@
 	"acronym": "Pure UPS",
 	"country": "vocabs:countries/country00687",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01764",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2019-10-26T18:34:59.680Z",
-		"lastModified": "2020-10-17T20:03:44.057Z"
+		"lastModified": "2020-10-19T18:09:03.604Z"
 	},
 	"name": "Pure Universidad Polit\u00e9cnica Salesiana",
 	"organization": "orgunits:ou00553",

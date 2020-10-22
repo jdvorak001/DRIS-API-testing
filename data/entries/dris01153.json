@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01758",
+			"label": {
+				"en": "In-house-built"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00414",
 			"country": "vocabs:countries/country00837",
 			"label": "University of Bor\u00e5s"
@@ -35,11 +41,11 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00837",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01758",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2019-03-15T11:39:49.989Z",
-		"lastModified": "2020-10-17T20:03:26.849Z"
+		"lastModified": "2020-10-19T18:08:47.805Z"
 	},
 	"name": "Bor\u00e5s Research Portal",
 	"organization": "orgunits:ou00414",

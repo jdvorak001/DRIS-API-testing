@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01752",
+			"label": {
+				"en": "CRIStin"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00718",
 			"country": "vocabs:countries/country00788",
 			"label": "Modum Mental Health Centre"
@@ -35,11 +41,11 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00788",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01752",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2020-02-24T16:01:01.905Z",
-		"lastModified": "2020-10-17T20:04:04.576Z"
+		"lastModified": "2020-10-19T18:09:20.832Z"
 	},
 	"name": "CRIStin Modum Mental Health Centre",
 	"organization": "orgunits:ou00718",

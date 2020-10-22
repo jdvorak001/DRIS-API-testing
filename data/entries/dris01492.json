@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01758",
+			"label": {
+				"en": "In-house-built"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00104",
 			"country": "vocabs:countries/country00678",
 			"label": "SRCE-University Computing Centre, University of Zagreb"
@@ -35,11 +41,11 @@
 	"acronym": "CroRIS",
 	"country": "vocabs:countries/country00678",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01758",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2020-02-23T10:37:11.271Z",
-		"lastModified": "2020-10-17T20:04:02.471Z"
+		"lastModified": "2020-10-19T18:09:18.905Z"
 	},
 	"name": "Croatian Research Information System",
 	"organization": "orgunits:ou00104",

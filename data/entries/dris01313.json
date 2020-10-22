@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01759",
+			"label": {
+				"en": "IRINS"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00538",
 			"country": "vocabs:countries/country00725",
 			"label": "Dr Bhimrao Ramji Ambedkar National Institute of Technology Jalandhar"
@@ -35,11 +41,11 @@
 	"acronym": "NITJ Scholars Profile",
 	"country": "vocabs:countries/country00725",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01759",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2019-08-18T15:30:15.908Z",
-		"lastModified": "2020-10-17T20:03:42.476Z"
+		"lastModified": "2020-10-19T18:09:02.217Z"
 	},
 	"name": "Dr Bhimrao Ramji Ambedkar National Institute of Technology Jalandhar Scholars Profile",
 	"organization": "orgunits:ou00538",

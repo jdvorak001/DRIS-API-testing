@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01764",
+			"label": {
+				"en": "Pure"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00476",
 			"country": "vocabs:countries/country00817",
 			"label": "Princess Nourah bint Abdulrahman University"
@@ -35,11 +41,11 @@
 	"acronym": "Pure PNU",
 	"country": "vocabs:countries/country00817",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01764",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2019-06-13T16:46:27.721Z",
-		"lastModified": "2020-10-17T20:03:35.313Z"
+		"lastModified": "2020-10-19T18:08:56.048Z"
 	},
 	"name": "Pure PNU",
 	"organization": "orgunits:ou00476",

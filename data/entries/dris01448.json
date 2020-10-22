@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01764",
+			"label": {
+				"en": "Pure"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00662",
 			"country": "vocabs:countries/country00683",
 			"label": "Danish Technical University (DTU)"
@@ -35,11 +41,11 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00683",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01764",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2020-01-31T13:44:21.084Z",
-		"lastModified": "2020-10-17T20:03:57.669Z"
+		"lastModified": "2020-10-19T18:09:14.430Z"
 	},
 	"name": "DTU Orbit",
 	"organization": "orgunits:ou00662",

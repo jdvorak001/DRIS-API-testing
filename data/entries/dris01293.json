@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01759",
+			"label": {
+				"en": "IRINS"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00518",
 			"country": "vocabs:countries/country00725",
 			"label": "Kuvempu University, Shimoga, Karnataka"
@@ -35,11 +41,11 @@
 	"acronym": "Kuvembu Scholar Profile",
 	"country": "vocabs:countries/country00725",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01759",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2019-08-18T15:23:04.305Z",
-		"lastModified": "2020-10-17T20:03:40.267Z"
+		"lastModified": "2020-10-19T18:09:00.257Z"
 	},
 	"name": "Kuvempu University, Shimoga, Karnataka Scholars Profile",
 	"organization": "orgunits:ou00518",

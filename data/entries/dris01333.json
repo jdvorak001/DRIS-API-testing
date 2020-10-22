@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01764",
+			"label": {
+				"en": "Pure"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00554",
 			"country": "vocabs:countries/country00796",
 			"label": "Universidad San Ignacio de Loyola"
@@ -35,11 +41,11 @@
 	"acronym": "SIC-USIL",
 	"country": "vocabs:countries/country00796",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01764",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2019-10-26T18:40:05.755Z",
-		"lastModified": "2020-10-17T20:03:44.166Z"
+		"lastModified": "2020-10-19T18:09:03.714Z"
 	},
 	"name": "Sistema de Informaci\u00f3n Cient\u00edfica USIL",
 	"organization": "orgunits:ou00554",

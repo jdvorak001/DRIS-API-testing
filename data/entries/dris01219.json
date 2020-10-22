@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01764",
+			"label": {
+				"en": "Pure"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00448",
 			"country": "vocabs:countries/country00857",
 			"label": "University of Brighton"
@@ -35,11 +41,11 @@
 	"acronym": "UoB Pure",
 	"country": "vocabs:countries/country00857",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01764",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2019-06-13T16:46:20.645Z",
-		"lastModified": "2020-10-17T20:03:32.096Z"
+		"lastModified": "2020-10-19T18:08:53.403Z"
 	},
 	"name": "Pure University of Brighton",
 	"organization": "orgunits:ou00448",

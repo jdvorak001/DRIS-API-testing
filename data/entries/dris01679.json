@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01759",
+			"label": {
+				"en": "IRINS"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00884",
 			"country": "vocabs:countries/country00725",
 			"label": "Ahmedabad University, Ahmedabad"
@@ -35,11 +41,11 @@
 	"acronym": "AHDUNI Scholar Profile",
 	"country": "vocabs:countries/country00725",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01759",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2020-04-13T20:50:21.390Z",
-		"lastModified": "2020-10-17T20:04:22.566Z"
+		"lastModified": "2020-10-19T18:09:37.564Z"
 	},
 	"name": "Ahmedabad University Scholar Profile",
 	"organization": "orgunits:ou00884",

@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01764",
+			"label": {
+				"en": "Pure"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00611",
 			"country": "vocabs:countries/country00802",
 			"label": "Qatar Foundation Research and Development"
@@ -35,11 +41,11 @@
 	"acronym": "QFRD Pure Portal",
 	"country": "vocabs:countries/country00802",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01764",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2019-12-03T16:05:04.238Z",
-		"lastModified": "2020-10-17T20:03:50.970Z"
+		"lastModified": "2020-10-19T18:09:09.426Z"
 	},
 	"name": "Pure Researcher Portal Qatar Foundation Research and Development",
 	"organization": "orgunits:ou00611",

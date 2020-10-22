@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01764",
+			"label": {
+				"en": "Pure"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00663",
 			"country": "vocabs:countries/country00751",
 			"label": "Mykolas Romeris University"
@@ -35,11 +41,11 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00751",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01764",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2020-02-04T20:12:33.846Z",
-		"lastModified": "2020-10-17T20:03:57.791Z"
+		"lastModified": "2020-10-19T18:09:14.550Z"
 	},
 	"name": "MRU Research Portal",
 	"organization": "orgunits:ou00663",

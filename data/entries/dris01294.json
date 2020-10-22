@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01759",
+			"label": {
+				"en": "IRINS"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00519",
 			"country": "vocabs:countries/country00725",
 			"label": "Panjab University Chandigarh"
@@ -35,11 +41,11 @@
 	"acronym": "PU Scholar Profile",
 	"country": "vocabs:countries/country00725",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01759",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2019-08-18T15:23:04.522Z",
-		"lastModified": "2020-10-17T20:03:40.361Z"
+		"lastModified": "2020-10-19T18:09:00.341Z"
 	},
 	"name": "Panjab University Chandigarh Scholars Profile",
 	"organization": "orgunits:ou00519",

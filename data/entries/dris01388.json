@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01751",
+			"label": {
+				"en": "Converis"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00608",
 			"country": "vocabs:countries/country00667",
 			"label": "Pontificia Universidad Cat\u00f3lica de Chile"
@@ -35,11 +41,11 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00667",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01751",
 	"crisPlatformNote": "Converis + VIVO",
 	"metadata": {
 		"created": "2019-11-06T12:32:54.496Z",
-		"lastModified": "2020-10-17T20:03:50.654Z"
+		"lastModified": "2020-10-19T18:09:09.155Z"
 	},
 	"name": "Scholars@UC",
 	"organization": "orgunits:ou00608",

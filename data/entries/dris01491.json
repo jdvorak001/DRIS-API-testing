@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01758",
+			"label": {
+				"en": "In-house-built"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00700",
 			"country": "vocabs:countries/country00781",
 			"label": "New Zealand Ministry of Business, Innovation & Employment"
@@ -35,11 +41,11 @@
 	"acronym": "NRIS",
 	"country": "vocabs:countries/country00781",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01758",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2020-02-23T10:37:11.126Z",
-		"lastModified": "2020-10-17T20:04:02.368Z"
+		"lastModified": "2020-10-19T18:09:18.814Z"
 	},
 	"name": "New Zealand National Research Information System",
 	"organization": "orgunits:ou00700",

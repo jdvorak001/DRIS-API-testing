@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01759",
+			"label": {
+				"en": "IRINS"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00581",
 			"country": "vocabs:countries/country00725",
 			"label": "NITTTR Chandigarh"
@@ -35,11 +41,11 @@
 	"acronym": "NITTTRCHD Scholars Profile",
 	"country": "vocabs:countries/country00725",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01759",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2019-11-05T10:36:19.042Z",
-		"lastModified": "2020-10-17T20:03:47.319Z"
+		"lastModified": "2020-10-19T18:09:06.368Z"
 	},
 	"name": "NITTTR Chandigarh Scholars Profile",
 	"organization": "orgunits:ou00581",

@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01769",
+			"label": {
+				"en": "VIVO"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00377",
 			"country": "vocabs:countries/country00705",
 			"label": "Technische Informationsbibliothek (TIB)"
@@ -35,11 +41,11 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00705",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01769",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2019-03-18T21:17:59.363Z",
-		"lastModified": "2020-10-17T20:03:28.207Z"
+		"lastModified": "2020-10-19T18:08:49.715Z"
 	},
 	"name": "TIB VIVO",
 	"organization": "orgunits:ou00377",

@@ -3,6 +3,12 @@
 	"@id": "https://api.eurocris.org/dris/entries/dris00917",
 	"@included": [
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01758",
+			"label": {
+				"en": "In-house-built"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00004",
 			"country": "vocabs:countries/country00732",
 			"label": "CINECA"
@@ -23,11 +29,11 @@
 	"acronym": "IRIS",
 	"country": "vocabs:countries/country00732",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01758",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2015-05-10T00:44:53.735Z",
-		"lastModified": "2020-10-17T20:03:05.407Z"
+		"lastModified": "2020-10-19T18:08:30.570Z"
 	},
 	"name": "IRIS - Institutional Research Information System",
 	"organization": "orgunits:ou00004",

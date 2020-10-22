@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01759",
+			"label": {
+				"en": "IRINS"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00817",
 			"country": "vocabs:countries/country00725",
 			"label": "Visvesvaraya National Institute of Technology, Nagpur"
@@ -35,11 +41,11 @@
 	"acronym": "VNIT Scholar Profile",
 	"country": "vocabs:countries/country00725",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01759",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2020-03-16T23:03:04.555Z",
-		"lastModified": "2020-10-17T20:04:15.054Z"
+		"lastModified": "2020-10-19T18:09:30.598Z"
 	},
 	"name": "Visvesvaraya National Institute of Technology Scholar Profile",
 	"organization": "orgunits:ou00817",

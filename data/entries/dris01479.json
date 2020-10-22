@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01752",
+			"label": {
+				"en": "CRIStin"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00689",
 			"country": "vocabs:countries/country00788",
 			"label": "Lovisenberg Deaconal University College"
@@ -35,11 +41,11 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00788",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01752",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2020-02-21T21:13:02.098Z",
-		"lastModified": "2020-10-17T20:04:01.116Z"
+		"lastModified": "2020-10-19T18:09:17.583Z"
 	},
 	"name": "CRIStin Lovisenberg Deaconal University College",
 	"organization": "orgunits:ou00689",

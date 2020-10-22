@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01764",
+			"label": {
+				"en": "Pure"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00601",
 			"country": "vocabs:countries/country00671",
 			"label": "Universidad del Rosario"
@@ -35,11 +41,11 @@
 	"acronym": "Pure URosario",
 	"country": "vocabs:countries/country00671",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01764",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2019-11-05T10:59:42.970Z",
-		"lastModified": "2020-10-17T20:03:49.791Z"
+		"lastModified": "2020-10-19T18:09:08.468Z"
 	},
 	"name": "Sistema de Informaci\u00f3n de Investigaci\u00f3n de la Universidad del Rosario",
 	"organization": "orgunits:ou00601",

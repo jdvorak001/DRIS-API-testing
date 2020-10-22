@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01769",
+			"label": {
+				"en": "VIVO"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00605",
 			"country": "vocabs:countries/country00676",
 			"label": "Universidad Nacional de Costa Rica (UNA)"
@@ -35,11 +41,11 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00676",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01769",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2019-11-05T11:37:50.295Z",
-		"lastModified": "2020-10-17T20:03:50.311Z"
+		"lastModified": "2020-10-19T18:09:08.895Z"
 	},
 	"name": "UNA Red Acad\u00e9mica",
 	"organization": "orgunits:ou00605",

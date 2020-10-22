@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01752",
+			"label": {
+				"en": "CRIStin"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00682",
 			"country": "vocabs:countries/country00788",
 			"label": "Inland Norway University of Applied Sciences"
@@ -35,11 +41,11 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00788",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01752",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2020-02-21T21:13:00.844Z",
-		"lastModified": "2020-10-17T20:04:00.346Z"
+		"lastModified": "2020-10-19T18:09:16.874Z"
 	},
 	"name": "CRIStin Inland Norway University of Applied Sciences",
 	"organization": "orgunits:ou00682",

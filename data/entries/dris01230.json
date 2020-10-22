@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01764",
+			"label": {
+				"en": "Pure"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00459",
 			"country": "vocabs:countries/country00857",
 			"label": "Royal Conservatoire of Scotland"
@@ -35,11 +41,11 @@
 	"acronym": "Pure RCS",
 	"country": "vocabs:countries/country00857",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01764",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2019-06-13T16:46:23.683Z",
-		"lastModified": "2020-10-17T20:03:33.263Z"
+		"lastModified": "2020-10-19T18:08:54.427Z"
 	},
 	"name": "Pure RCS",
 	"organization": "orgunits:ou00459",

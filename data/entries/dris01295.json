@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01759",
+			"label": {
+				"en": "IRINS"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00520",
 			"country": "vocabs:countries/country00725",
 			"label": "Koneru Lakshmaiah University Vijayawada"
@@ -35,11 +41,11 @@
 	"acronym": "KL University Scholar Profile",
 	"country": "vocabs:countries/country00725",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01759",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2019-08-18T15:23:04.710Z",
-		"lastModified": "2020-10-17T20:03:40.473Z"
+		"lastModified": "2020-10-19T18:09:00.425Z"
 	},
 	"name": "Koneru Lakshmaiah University Vijayawada Scholars Profile",
 	"organization": "orgunits:ou00520",

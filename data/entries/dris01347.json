@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01759",
+			"label": {
+				"en": "IRINS"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00567",
 			"country": "vocabs:countries/country00725",
 			"label": "Central University of Odisha"
@@ -35,11 +41,11 @@
 	"acronym": "CUO Scholar Profile",
 	"country": "vocabs:countries/country00725",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01759",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2019-11-05T10:28:42.867Z",
-		"lastModified": "2020-10-17T20:03:45.702Z"
+		"lastModified": "2020-10-19T18:09:04.957Z"
 	},
 	"name": "Central University of Odisha Scholars Profile",
 	"organization": "orgunits:ou00567",

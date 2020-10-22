@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01752",
+			"label": {
+				"en": "CRIStin"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00681",
 			"country": "vocabs:countries/country00788",
 			"label": "Nord University"
@@ -35,11 +41,11 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00788",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01752",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2020-02-19T21:06:23.571Z",
-		"lastModified": "2020-10-17T20:04:00.194Z"
+		"lastModified": "2020-10-19T18:09:16.787Z"
 	},
 	"name": "CRIStin Nord University",
 	"organization": "orgunits:ou00681",

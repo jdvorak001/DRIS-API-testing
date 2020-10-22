@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01752",
+			"label": {
+				"en": "CRIStin"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00711",
 			"country": "vocabs:countries/country00788",
 			"label": "Nofima, The Norwegian Institute of Food, Fisheries and Aquaculture Research"
@@ -35,11 +41,11 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00788",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01752",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2020-02-24T16:01:00.740Z",
-		"lastModified": "2020-10-17T20:04:03.801Z"
+		"lastModified": "2020-10-19T18:09:20.143Z"
 	},
 	"name": "CRIStin Nofima, The Norwegian Institute of Food, Fisheries and Aquaculture Research",
 	"organization": "orgunits:ou00711",

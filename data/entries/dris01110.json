@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01762",
+			"label": {
+				"en": "Omega-PSIR"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00359",
 			"country": "vocabs:countries/country00799",
 			"label": "University of Social Sciences and Humanities (SWPS)"
@@ -35,11 +41,11 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00799",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01762",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2019-03-10T01:11:55.674Z",
-		"lastModified": "2020-10-17T20:03:22.081Z"
+		"lastModified": "2020-10-19T18:08:43.864Z"
 	},
 	"name": "SWPS Research Knowledge Base",
 	"organization": "orgunits:ou00359",

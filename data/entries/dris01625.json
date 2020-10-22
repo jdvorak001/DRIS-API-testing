@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01764",
+			"label": {
+				"en": "Pure"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00832",
 			"country": "vocabs:countries/country00705",
 			"label": "University Medical Center Hamburg-Eppendorf"
@@ -35,11 +41,11 @@
 	"acronym": "UKE Research",
 	"country": "vocabs:countries/country00705",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01764",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2020-03-20T09:59:56.752Z",
-		"lastModified": "2020-10-17T20:04:16.774Z"
+		"lastModified": "2020-10-19T18:09:32.198Z"
 	},
 	"name": "University Medical Center Hamburg-Eppendorf Research Portal",
 	"organization": "orgunits:ou00832",

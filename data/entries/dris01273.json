@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01764",
+			"label": {
+				"en": "Pure"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00498",
 			"country": "vocabs:countries/country00817",
 			"label": "King Abdullah University of Science and Technology (KAUST)"
@@ -35,11 +41,11 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00817",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01764",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2019-07-25T19:41:58.517Z",
-		"lastModified": "2020-10-17T20:03:38.131Z"
+		"lastModified": "2020-10-19T18:08:58.134Z"
 	},
 	"name": "KAUST Research Portal",
 	"organization": "orgunits:ou00498",

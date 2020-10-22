@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01758",
+			"label": {
+				"en": "In-house-built"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00062",
 			"country": "vocabs:countries/country00697",
 			"label": "Hanken School of Economics"
@@ -35,11 +41,11 @@
 	"acronym": "HARIS",
 	"country": "vocabs:countries/country00697",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01758",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2019-03-04T14:51:19.103Z",
-		"lastModified": "2020-10-17T20:03:09.506Z"
+		"lastModified": "2020-10-19T18:08:33.659Z"
 	},
 	"name": "Hanken Research Information System",
 	"organization": "orgunits:ou00062",

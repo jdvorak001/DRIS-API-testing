@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01759",
+			"label": {
+				"en": "IRINS"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00886",
 			"country": "vocabs:countries/country00725",
 			"label": "NIPER, Raebareli"
@@ -35,11 +41,11 @@
 	"acronym": "NIPERRAEBARELI Scholar Profile",
 	"country": "vocabs:countries/country00725",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01759",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2020-04-13T20:50:21.681Z",
-		"lastModified": "2020-10-17T20:04:22.766Z"
+		"lastModified": "2020-10-19T18:09:37.768Z"
 	},
 	"name": "National Institute of Pharmaceutical Education and Research, Raebareli Scholar Profile",
 	"organization": "orgunits:ou00886",

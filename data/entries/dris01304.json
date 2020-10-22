@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01759",
+			"label": {
+				"en": "IRINS"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00529",
 			"country": "vocabs:countries/country00725",
 			"label": "Indian Institute of Management Nagpur"
@@ -35,11 +41,11 @@
 	"acronym": "IIM Nagpur Scholars Profile",
 	"country": "vocabs:countries/country00725",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01759",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2019-08-18T15:30:14.106Z",
-		"lastModified": "2020-10-17T20:03:41.423Z"
+		"lastModified": "2020-10-19T18:09:01.284Z"
 	},
 	"name": "Indian Institute of Management Nagpur Scholars Profile",
 	"organization": "orgunits:ou00529",

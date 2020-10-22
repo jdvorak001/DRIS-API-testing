@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01764",
+			"label": {
+				"en": "Pure"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00636",
 			"country": "vocabs:countries/country00796",
 			"label": "Universidad del Pac\u00edfico (Per\u00fa)"
@@ -35,11 +41,11 @@
 	"acronym": "Pure UP",
 	"country": "vocabs:countries/country00796",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01764",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2020-01-21T20:42:27.729Z",
-		"lastModified": "2020-10-17T20:03:53.987Z"
+		"lastModified": "2020-10-19T18:09:11.835Z"
 	},
 	"name": "Pure Universidad del Pac\u00edfico",
 	"organization": "orgunits:ou00636",

@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01759",
+			"label": {
+				"en": "IRINS"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00932",
 			"country": "vocabs:countries/country00725",
 			"label": "Indian Institute of Food Processing Technology"
@@ -35,11 +41,11 @@
 	"acronym": "IIFPT Scholar Profile",
 	"country": "vocabs:countries/country00725",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01759",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2020-07-29T14:17:06.312Z",
-		"lastModified": "2020-10-17T20:04:27.615Z"
+		"lastModified": "2020-10-19T18:09:42.372Z"
 	},
 	"name": "Indian Institute of Food Processing Technology Scholar Profile",
 	"organization": "orgunits:ou00932",

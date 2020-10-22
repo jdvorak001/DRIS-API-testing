@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01758",
+			"label": {
+				"en": "In-house-built"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00419",
 			"country": "vocabs:countries/country00838",
 			"label": "University of Lucerne"
@@ -35,11 +41,11 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00838",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01758",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2019-03-17T12:53:17.694Z",
-		"lastModified": "2020-10-17T20:04:29.550Z"
+		"lastModified": "2020-10-19T18:08:48.609Z"
 	},
 	"name": "FIS Unilu",
 	"organization": "orgunits:ou00419",

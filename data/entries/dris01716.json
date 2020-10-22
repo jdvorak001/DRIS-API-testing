@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01764",
+			"label": {
+				"en": "Pure"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00921",
 			"country": "vocabs:countries/country00766",
 			"label": "Instituto Polit\u00e9cnico Nacional (IPN)"
@@ -35,11 +41,11 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00766",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01764",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2020-06-13T13:27:57.969Z",
-		"lastModified": "2020-10-17T20:04:26.448Z"
+		"lastModified": "2020-10-19T18:09:41.246Z"
 	},
 	"name": "Instituto Polit\u00e9cnico Nacional (IPN) Research Portal",
 	"organization": "orgunits:ou00921",

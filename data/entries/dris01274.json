@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01759",
+			"label": {
+				"en": "IRINS"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00499",
 			"country": "vocabs:countries/country00725",
 			"label": "Indian Institute of Technology Madras"
@@ -35,11 +41,11 @@
 	"acronym": "IITM Scholars Profile",
 	"country": "vocabs:countries/country00725",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01759",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2019-08-16T19:03:29.559Z",
-		"lastModified": "2020-10-17T20:03:38.344Z"
+		"lastModified": "2020-10-19T18:08:58.490Z"
 	},
 	"name": "Indian Institute of Technology Madras Scholars Profile",
 	"organization": "orgunits:ou00499",

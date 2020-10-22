@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01751",
+			"label": {
+				"en": "Converis"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00934",
 			"country": "vocabs:countries/country00828",
 			"label": "University of Cape Town"
@@ -35,11 +41,11 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00828",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01751",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2020-08-29T12:35:34.468Z",
-		"lastModified": "2020-10-17T20:04:27.819Z"
+		"lastModified": "2020-10-19T18:09:42.629Z"
 	},
 	"name": "UCT Research Portal",
 	"organization": "orgunits:ou00934",

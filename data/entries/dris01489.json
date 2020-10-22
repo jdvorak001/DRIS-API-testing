@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01758",
+			"label": {
+				"en": "In-house-built"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00698",
 			"country": "vocabs:countries/country00705",
 			"label": "Bundesministerium f\u00fcr Bildung und Forschung (BMBF)"
@@ -35,11 +41,11 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00705",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01758",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2020-02-23T10:37:09.266Z",
-		"lastModified": "2020-10-17T20:04:02.124Z"
+		"lastModified": "2020-10-19T18:09:18.590Z"
 	},
 	"name": "Portal Kleine F\u00e4cher (PKF) - Portal for Small Disciplines",
 	"organization": "orgunits:ou00698",

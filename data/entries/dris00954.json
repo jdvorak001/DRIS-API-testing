@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01758",
+			"label": {
+				"en": "In-house-built"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00240",
 			"country": "vocabs:countries/country00800",
 			"label": "Instituto Universit\u00e1rio de Lisboa (ISCTE)"
@@ -35,11 +41,11 @@
 	"acronym": "Ci\u00eancia-IUL",
 	"country": "vocabs:countries/country00800",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01758",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2017-05-18T12:51:45.061Z",
-		"lastModified": "2020-10-17T20:03:05.650Z"
+		"lastModified": "2020-10-19T18:08:30.869Z"
 	},
 	"name": "Ci\u00eancia-IUL",
 	"organization": "orgunits:ou00240",

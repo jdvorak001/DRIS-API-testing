@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01754",
+			"label": {
+				"en": "DSpace-CRIS"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00285",
 			"country": "vocabs:countries/country00732",
 			"label": "Regione Autonoma Friuli Venezia Giulia"
@@ -35,11 +41,11 @@
 	"acronym": "UnityFVG",
 	"country": "vocabs:countries/country00732",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01754",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2019-03-08T17:12:21.079Z",
-		"lastModified": "2020-10-17T20:03:13.765Z"
+		"lastModified": "2020-10-19T18:08:37.135Z"
 	},
 	"name": "UnityFVG - Friuli Venezia Giulia",
 	"organization": "orgunits:ou00285",

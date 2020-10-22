@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01764",
+			"label": {
+				"en": "Pure"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00864",
 			"country": "vocabs:countries/country00779",
 			"label": "Breda University of Applied Sciences"
@@ -35,11 +41,11 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00779",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01764",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2020-04-11T11:12:01.931Z",
-		"lastModified": "2020-10-17T20:04:20.416Z"
+		"lastModified": "2020-10-19T18:09:35.564Z"
 	},
 	"name": "BUas Research Portal",
 	"organization": "orgunits:ou00864",

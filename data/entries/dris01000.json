@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01758",
+			"label": {
+				"en": "In-house-built"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00258",
 			"country": "vocabs:countries/country00857",
 			"label": "UK Research and Innovation (UKRI)"
@@ -35,11 +41,11 @@
 	"acronym": "GtR",
 	"country": "vocabs:countries/country00857",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01758",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2019-03-08T17:07:42.645Z",
-		"lastModified": "2020-10-17T20:03:09.616Z"
+		"lastModified": "2020-10-19T18:08:33.749Z"
 	},
 	"name": "Gateway to Research",
 	"organization": "orgunits:ou00258",

@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01754",
+			"label": {
+				"en": "DSpace-CRIS"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00395",
 			"country": "vocabs:countries/country00831",
 			"label": "Consortium for Services to Catalan Universities (CSUC)"
@@ -35,11 +41,11 @@
 	"acronym": "PRC",
 	"country": "vocabs:countries/country00831",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01754",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2019-03-15T11:39:45.884Z",
-		"lastModified": "2020-10-17T20:03:24.591Z"
+		"lastModified": "2020-10-19T18:08:45.902Z"
 	},
 	"name": "PRC (Catalan Research Portal/Portal de la Recerca de Catalunya)",
 	"organization": "orgunits:ou00395",

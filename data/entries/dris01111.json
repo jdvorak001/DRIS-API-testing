@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01762",
+			"label": {
+				"en": "Omega-PSIR"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00358",
 			"country": "vocabs:countries/country00799",
 			"label": "Medical University of \u0141\u00f3d\u017a"
@@ -35,11 +41,11 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00799",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01762",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2019-03-10T01:15:00.064Z",
-		"lastModified": "2020-10-17T20:03:22.192Z"
+		"lastModified": "2020-10-19T18:08:43.948Z"
 	},
 	"name": "Omega-PSIR Medical University of \u0141\u00f3d\u017a",
 	"organization": "orgunits:ou00358",

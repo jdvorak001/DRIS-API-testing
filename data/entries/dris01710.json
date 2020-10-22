@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01759",
+			"label": {
+				"en": "IRINS"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00915",
 			"country": "vocabs:countries/country00725",
 			"label": "National Institute of Technology, Arunachal Pradesh"
@@ -35,11 +41,11 @@
 	"acronym": "NITAP Scholar Profile",
 	"country": "vocabs:countries/country00725",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01759",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2020-06-04T09:48:49.073Z",
-		"lastModified": "2020-10-17T20:04:25.788Z"
+		"lastModified": "2020-10-19T18:09:40.674Z"
 	},
 	"name": "National Institute of Technology, Arunachal Pradesh Scholar Profile",
 	"organization": "orgunits:ou00915",

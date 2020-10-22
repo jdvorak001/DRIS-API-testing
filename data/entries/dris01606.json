@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01759",
+			"label": {
+				"en": "IRINS"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00814",
 			"country": "vocabs:countries/country00725",
 			"label": "Central University of Himachal Pradesh, Himachal Pradesh"
@@ -35,11 +41,11 @@
 	"acronym": "CUHIMACHAL Scholar Profile",
 	"country": "vocabs:countries/country00725",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01759",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2020-03-16T23:03:01.092Z",
-		"lastModified": "2020-10-17T20:04:14.716Z"
+		"lastModified": "2020-10-19T18:09:30.323Z"
 	},
 	"name": "Central University of Himachal Pradesh Scholar Profile",
 	"organization": "orgunits:ou00814",

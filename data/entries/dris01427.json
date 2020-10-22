@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01759",
+			"label": {
+				"en": "IRINS"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00641",
 			"country": "vocabs:countries/country00725",
 			"label": "Central University of Jharkhand"
@@ -35,11 +41,11 @@
 	"acronym": "CUJ Scholar Profile",
 	"country": "vocabs:countries/country00725",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01759",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2020-01-30T19:51:46.105Z",
-		"lastModified": "2020-10-17T20:03:54.729Z"
+		"lastModified": "2020-10-19T18:09:12.420Z"
 	},
 	"name": "Central University of Jharkhand Scholar Profile",
 	"organization": "orgunits:ou00641",

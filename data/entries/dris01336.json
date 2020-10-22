@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01754",
+			"label": {
+				"en": "DSpace-CRIS"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00556",
 			"country": "vocabs:countries/country00796",
 			"label": "Consejo Nacional de Ciencia, Tecnolog\u00eda e Innovaci\u00f3n Tecnol\u00f3gica (CONCYTEC)"
@@ -35,11 +41,11 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00796",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01754",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2019-11-03T11:03:54.977Z",
-		"lastModified": "2020-10-17T20:03:44.376Z"
+		"lastModified": "2020-10-19T18:09:03.986Z"
 	},
 	"name": "Repositorio Institucional CONCYTEC",
 	"organization": "orgunits:ou00556",

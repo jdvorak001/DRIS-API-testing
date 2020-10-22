@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01764",
+			"label": {
+				"en": "Pure"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00912",
 			"country": "vocabs:countries/country00734",
 			"label": "Tokyo University of Science"
@@ -35,11 +41,11 @@
 	"acronym": "TUS Research Portal",
 	"country": "vocabs:countries/country00734",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01764",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2020-05-23T10:39:05.648Z",
-		"lastModified": "2020-10-17T20:04:25.487Z"
+		"lastModified": "2020-10-19T18:09:40.404Z"
 	},
 	"name": "Tokyo University of Science Research Portal",
 	"organization": "orgunits:ou00912",

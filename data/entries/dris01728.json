@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01759",
+			"label": {
+				"en": "IRINS"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00931",
 			"country": "vocabs:countries/country00725",
 			"label": "The Tamil Nadu Dr. Ambedkar Law University"
@@ -35,11 +41,11 @@
 	"acronym": "TNDALU Scholar Profile",
 	"country": "vocabs:countries/country00725",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01759",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2020-07-29T14:17:06.115Z",
-		"lastModified": "2020-10-17T20:04:27.518Z"
+		"lastModified": "2020-10-19T18:09:42.262Z"
 	},
 	"name": "The Tamil Nadu Dr. Ambedkar Law University Scholar Profile",
 	"organization": "orgunits:ou00931",

@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01765",
+			"label": {
+				"en": "SIGMA Research"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00398",
 			"country": "vocabs:countries/country00831",
 			"label": "Pompeu Fabra University (UPF)"
@@ -35,11 +41,11 @@
 	"acronym": "PPC UPF",
 	"country": "vocabs:countries/country00831",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01765",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2019-03-15T11:39:46.505Z",
-		"lastModified": "2020-10-17T20:03:24.878Z"
+		"lastModified": "2020-10-19T18:08:46.149Z"
 	},
 	"name": "Portal de la Producci\u00f3 Cient\u00edfica UPF",
 	"organization": "orgunits:ou00398",

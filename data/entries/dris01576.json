@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01752",
+			"label": {
+				"en": "CRIStin"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00784",
 			"country": "vocabs:countries/country00788",
 			"label": "M\u00f8re og Romsdal Research Foundation"
@@ -35,11 +41,11 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00788",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01752",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2020-02-25T19:31:42.302Z",
-		"lastModified": "2020-10-17T20:04:11.535Z"
+		"lastModified": "2020-10-19T18:09:27.252Z"
 	},
 	"name": "CRIStin M\u00f8re og Romsdal Research Foundation",
 	"organization": "orgunits:ou00784",

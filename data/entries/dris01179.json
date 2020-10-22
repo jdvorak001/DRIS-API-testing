@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01764",
+			"label": {
+				"en": "Pure"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00425",
 			"country": "vocabs:countries/country00779",
 			"label": "Technical University Delft"
@@ -35,11 +41,11 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00779",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01764",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2019-03-19T15:32:13.911Z",
-		"lastModified": "2020-10-17T20:03:28.778Z"
+		"lastModified": "2020-10-19T18:08:50.212Z"
 	},
 	"name": "Delft Research Portal",
 	"organization": "orgunits:ou00425",

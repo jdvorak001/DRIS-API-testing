@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01764",
+			"label": {
+				"en": "Pure"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00833",
 			"country": "vocabs:countries/country00858",
 			"label": "Albert Einstein College of Medicine"
@@ -35,11 +41,11 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00858",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01764",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2020-04-04T09:40:25.188Z",
-		"lastModified": "2020-10-17T20:04:17.015Z"
+		"lastModified": "2020-10-19T18:09:32.465Z"
 	},
 	"name": "Pure Albert Einstein College of Medicine",
 	"organization": "orgunits:ou00833",

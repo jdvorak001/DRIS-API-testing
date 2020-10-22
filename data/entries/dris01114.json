@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01764",
+			"label": {
+				"en": "Pure"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00013",
 			"country": "vocabs:countries/",
 			"label": "Leuphana Universit\u00e4t L\u00fcneburg"
@@ -35,11 +41,11 @@
 	"acronym": "FOX",
 	"country": "vocabs:countries/country00705",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01764",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2019-03-15T11:39:40.360Z",
-		"lastModified": "2020-10-17T20:03:22.504Z"
+		"lastModified": "2020-10-19T18:08:44.223Z"
 	},
 	"name": "FOX",
 	"organization": "orgunits:ou00013",

@@ -3,6 +3,12 @@
 	"@id": "https://api.eurocris.org/dris/entries/dris00913",
 	"@included": [
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01758",
+			"label": {
+				"en": "In-house-built"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00083",
 			"country": "vocabs:countries/country00708",
 			"label": "National Documentation Centre (EKT) / National Hellenic Research Foundation"
@@ -23,11 +29,11 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00708",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01758",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2015-05-10T00:44:53.578Z",
-		"lastModified": "2020-10-17T20:03:04.830Z"
+		"lastModified": "2020-10-19T18:08:30.161Z"
 	},
 	"name": "EuroRIs-Net+ Research Infrastructures Observatory",
 	"organization": "orgunits:ou00083",

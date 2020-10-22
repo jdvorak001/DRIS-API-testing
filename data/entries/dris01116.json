@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01755",
+			"label": {
+				"en": "Eprints"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00246",
 			"country": "vocabs:countries/country00705",
 			"label": "Katholische Universit\u00e4t Eichst\u00e4tt-Ingolstadt"
@@ -35,11 +41,11 @@
 	"acronym": "KU.fordoc",
 	"country": "vocabs:countries/country00705",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01755",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2019-03-15T11:39:40.748Z",
-		"lastModified": "2020-10-17T20:03:22.715Z"
+		"lastModified": "2020-10-19T18:08:44.396Z"
 	},
 	"name": "Forschungsdatenbank der Katholischen Universit\u00e4t Eichst\u00e4tt-Ingolstadt",
 	"organization": "orgunits:ou00246",

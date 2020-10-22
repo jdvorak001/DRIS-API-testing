@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01759",
+			"label": {
+				"en": "IRINS"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00918",
 			"country": "vocabs:countries/country00725",
 			"label": "Rajiv Gandhi Institute of Petroleum Technology, Jais, Amethi"
@@ -35,11 +41,11 @@
 	"acronym": "RGIPT Scholar Profile",
 	"country": "vocabs:countries/country00725",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01759",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2020-06-04T09:48:49.894Z",
-		"lastModified": "2020-10-17T20:04:26.122Z"
+		"lastModified": "2020-10-19T18:09:40.966Z"
 	},
 	"name": "Rajiv Gandhi Institute of Petroleum Technology, Amethi Scholar Profile",
 	"organization": "orgunits:ou00918",

@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01758",
+			"label": {
+				"en": "In-house-built"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00111",
 			"country": "vocabs:countries/country00705",
 			"label": "Technische Universit\u00e4t Dresden"
@@ -35,11 +41,11 @@
 	"acronym": "FIS TU Dresden",
 	"country": "vocabs:countries/country00705",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01758",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2019-03-15T11:39:41.385Z",
-		"lastModified": "2020-10-17T20:03:23.019Z"
+		"lastModified": "2020-10-19T18:08:44.668Z"
 	},
 	"name": "Forschungsinformationssystem TU Dresden",
 	"organization": "orgunits:ou00111",

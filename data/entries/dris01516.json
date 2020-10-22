@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01752",
+			"label": {
+				"en": "CRIStin"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00724",
 			"country": "vocabs:countries/country00788",
 			"label": "Barratt Due Institute of Music"
@@ -35,11 +41,11 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00788",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01752",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2020-02-24T19:46:38.668Z",
-		"lastModified": "2020-10-17T20:04:05.163Z"
+		"lastModified": "2020-10-19T18:09:21.431Z"
 	},
 	"name": "CRIStin Barratt Due Institute of Music",
 	"organization": "orgunits:ou00724",

@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01759",
+			"label": {
+				"en": "IRINS"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00940",
 			"country": "vocabs:countries/country00725",
 			"label": "IIITB, Banaglore"
@@ -35,11 +41,11 @@
 	"acronym": "IIITB Scholar Profile",
 	"country": "vocabs:countries/country00725",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01759",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2020-10-05T11:32:44.510Z",
-		"lastModified": "2020-10-17T20:04:28.669Z"
+		"lastModified": "2020-10-19T18:09:43.412Z"
 	},
 	"name": "International Institute of Information Technology, Bangalore Scholar Profile",
 	"organization": "orgunits:ou00940",

@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01752",
+			"label": {
+				"en": "CRIStin"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00701",
 			"country": "vocabs:countries/country00788",
 			"label": "Institute for Energy Technology"
@@ -35,11 +41,11 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00788",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01752",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2020-02-24T16:00:57.322Z",
-		"lastModified": "2020-10-17T20:04:02.586Z"
+		"lastModified": "2020-10-19T18:09:18.994Z"
 	},
 	"name": "CRIStin Institute for Energy Technology",
 	"organization": "orgunits:ou00701",

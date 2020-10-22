@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01759",
+			"label": {
+				"en": "IRINS"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00897",
 			"country": "vocabs:countries/country00725",
 			"label": "Rajiv Gandhi University, Arunachal Pradesh"
@@ -35,11 +41,11 @@
 	"acronym": "RGU Scholar Profile",
 	"country": "vocabs:countries/country00725",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01759",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2020-05-10T17:43:16.728Z",
-		"lastModified": "2020-10-17T20:04:23.907Z"
+		"lastModified": "2020-10-19T18:09:38.861Z"
 	},
 	"name": "Rajiv Gandhi University, Arunachal Pradesh Scholar Profile",
 	"organization": "orgunits:ou00897",

@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01752",
+			"label": {
+				"en": "CRIStin"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00716",
 			"country": "vocabs:countries/country00788",
 			"label": "Norwegian Centre for Organic Agriculture"
@@ -35,11 +41,11 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00788",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01752",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2020-02-24T16:01:01.558Z",
-		"lastModified": "2020-10-17T20:04:04.385Z"
+		"lastModified": "2020-10-19T18:09:20.644Z"
 	},
 	"name": "CRIStin Norwegian Centre for Organic Agriculture",
 	"organization": "orgunits:ou00716",

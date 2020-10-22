@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01759",
+			"label": {
+				"en": "IRINS"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00560",
 			"country": "vocabs:countries/country00725",
 			"label": "National Institue of Technology Delhi"
@@ -35,11 +41,11 @@
 	"acronym": "NITDELHI Scholar Profile",
 	"country": "vocabs:countries/country00725",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01759",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2019-11-05T10:28:41.120Z",
-		"lastModified": "2020-10-17T20:03:44.840Z"
+		"lastModified": "2020-10-19T18:09:04.340Z"
 	},
 	"name": "National Institue of Technology Delhi Scholars Profile",
 	"organization": "orgunits:ou00560",

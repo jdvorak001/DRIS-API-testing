@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01764",
+			"label": {
+				"en": "Pure"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00473",
 			"country": "vocabs:countries/country00741",
 			"label": "Yonsei University"
@@ -35,11 +41,11 @@
 	"acronym": "Pure Yonsei",
 	"country": "vocabs:countries/country00741",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01764",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2019-06-13T16:46:27.172Z",
-		"lastModified": "2020-10-17T20:03:34.856Z"
+		"lastModified": "2020-10-19T18:08:55.738Z"
 	},
 	"name": "Pure Yonsei University",
 	"organization": "orgunits:ou00473",

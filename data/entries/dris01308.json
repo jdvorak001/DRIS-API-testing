@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01759",
+			"label": {
+				"en": "IRINS"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00533",
 			"country": "vocabs:countries/country00725",
 			"label": "National Insitute of Technology Trichy"
@@ -35,11 +41,11 @@
 	"acronym": "NIT Trichy Scholars Profile",
 	"country": "vocabs:countries/country00725",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01759",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2019-08-18T15:30:14.970Z",
-		"lastModified": "2020-10-17T20:03:41.969Z"
+		"lastModified": "2020-10-19T18:09:01.704Z"
 	},
 	"name": "National Insitute of Technology Trichy Scholars Profile",
 	"organization": "orgunits:ou00533",

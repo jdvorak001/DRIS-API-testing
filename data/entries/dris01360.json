@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01759",
+			"label": {
+				"en": "IRINS"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00580",
 			"country": "vocabs:countries/country00725",
 			"label": "Maulana Azad National Institute of Technology Bhopal"
@@ -35,11 +41,11 @@
 	"acronym": "MANIT Scholars Profile",
 	"country": "vocabs:countries/country00725",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01759",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2019-11-05T10:36:18.810Z",
-		"lastModified": "2020-10-17T20:03:47.128Z"
+		"lastModified": "2020-10-19T18:09:06.277Z"
 	},
 	"name": "Maulana Azad National Institute of Technology Bhopal Scholars Profile",
 	"organization": "orgunits:ou00580",

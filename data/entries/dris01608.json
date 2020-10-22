@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01759",
+			"label": {
+				"en": "IRINS"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00816",
 			"country": "vocabs:countries/country00725",
 			"label": "Kazi Nazrul University, West Bengal"
@@ -35,11 +41,11 @@
 	"acronym": "KNU Scholar Profile",
 	"country": "vocabs:countries/country00725",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01759",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2020-03-16T23:03:04.415Z",
-		"lastModified": "2020-10-17T20:04:14.934Z"
+		"lastModified": "2020-10-19T18:09:30.510Z"
 	},
 	"name": "Kazi Nazrul University Scholar Profile",
 	"organization": "orgunits:ou00816",

@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01758",
+			"label": {
+				"en": "In-house-built"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00385",
 			"country": "vocabs:countries/country00799",
 			"label": "Gda\u0144sk University of Technology"
@@ -35,11 +41,11 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00799",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01758",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2019-03-15T12:17:39.170Z",
-		"lastModified": "2020-10-17T20:03:27.161Z"
+		"lastModified": "2020-10-19T18:08:48.066Z"
 	},
 	"name": "GUT Research",
 	"organization": "orgunits:ou00385",

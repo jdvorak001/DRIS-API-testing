@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01760",
+			"label": {
+				"en": "IRIS"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00289",
 			"country": "vocabs:countries/country00732",
 			"label": "Istituto Nazionale di Ricerca Metrologica (INRIM)"
@@ -35,11 +41,11 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00732",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01760",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2019-03-08T17:12:22.147Z",
-		"lastModified": "2020-10-17T20:03:14.152Z"
+		"lastModified": "2020-10-19T18:08:37.476Z"
 	},
 	"name": "IRIS INRIM (Istituto Nazionale di Ricerca Metrologica)",
 	"organization": "orgunits:ou00289",

@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01762",
+			"label": {
+				"en": "Omega-PSIR"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00418",
 			"country": "vocabs:countries/country00799",
 			"label": "Institute of Low Temperature and Structural Research Wroc\u0142aw"
@@ -35,11 +41,11 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00799",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01762",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2019-04-18T11:06:22.453Z",
-		"lastModified": "2020-10-17T20:03:30.187Z"
+		"lastModified": "2020-10-19T18:08:51.586Z"
 	},
 	"name": "Omega-PSIR INTIBS",
 	"organization": "orgunits:ou00418",

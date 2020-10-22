@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01764",
+			"label": {
+				"en": "Pure"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00895",
 			"country": "vocabs:countries/country00850",
 			"label": "Ba\u015fkent University"
@@ -35,11 +41,11 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00850",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01764",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2020-04-14T10:14:51.157Z",
-		"lastModified": "2020-10-17T20:04:23.707Z"
+		"lastModified": "2020-10-19T18:09:38.659Z"
 	},
 	"name": "Ba\u015fkent University Research Portal",
 	"organization": "orgunits:ou00895",

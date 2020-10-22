@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01767",
+			"label": {
+				"en": "Symplectic Elements"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00699",
 			"country": "vocabs:countries/country00636",
 			"label": "Griffith University"
@@ -35,11 +41,11 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00636",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01767",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2020-02-23T10:37:09.445Z",
-		"lastModified": "2020-10-17T20:04:02.229Z"
+		"lastModified": "2020-10-19T18:09:18.715Z"
 	},
 	"name": "Griffith Elements",
 	"organization": "orgunits:ou00699",

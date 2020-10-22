@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01758",
+			"label": {
+				"en": "In-house-built"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00060",
 			"country": "vocabs:countries/country00644",
 			"label": "Ghent University, Department of Research Affairs"
@@ -35,11 +41,11 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00644",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01758",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2017-05-24T16:14:52.239Z",
-		"lastModified": "2020-10-17T20:03:06.248Z"
+		"lastModified": "2020-10-19T18:08:31.289Z"
 	},
 	"name": "GISMO",
 	"organization": "orgunits:ou00060",

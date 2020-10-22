@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01759",
+			"label": {
+				"en": "IRINS"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00634",
 			"country": "vocabs:countries/country00725",
 			"label": "Gandhigram Rural Institute"
@@ -35,11 +41,11 @@
 	"acronym": "RURALUNIV Scholars Profile",
 	"country": "vocabs:countries/country00725",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01759",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2019-12-13T12:12:26.164Z",
-		"lastModified": "2020-10-17T20:03:53.632Z"
+		"lastModified": "2020-10-19T18:09:11.556Z"
 	},
 	"name": "Gandhigram Rural Institute Scholars Profile",
 	"organization": "orgunits:ou00634",

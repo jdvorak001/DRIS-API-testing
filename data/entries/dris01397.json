@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01769",
+			"label": {
+				"en": "VIVO"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00615",
 			"country": "vocabs:countries/country00705",
 			"label": "Hochschule Mittweida - University of Applied Sciences"
@@ -35,11 +41,11 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00705",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01769",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2019-12-06T09:44:40.300Z",
-		"lastModified": "2020-10-17T20:03:51.575Z"
+		"lastModified": "2020-10-19T18:09:09.834Z"
 	},
 	"name": "VIVO@HSMW",
 	"organization": "orgunits:ou00615",

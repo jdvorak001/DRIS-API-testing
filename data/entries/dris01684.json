@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01759",
+			"label": {
+				"en": "IRINS"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00889",
 			"country": "vocabs:countries/country00725",
 			"label": "Indian Institute of Technology, Guwahati"
@@ -35,11 +41,11 @@
 	"acronym": "IITG Scholar Profile",
 	"country": "vocabs:countries/country00725",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01759",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2020-04-13T20:50:22.143Z",
-		"lastModified": "2020-10-17T20:04:23.064Z"
+		"lastModified": "2020-10-19T18:09:38.058Z"
 	},
 	"name": "Indian Institute of Technology Guwahati Scholar Profile",
 	"organization": "orgunits:ou00889",

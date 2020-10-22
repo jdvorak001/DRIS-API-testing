@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01758",
+			"label": {
+				"en": "In-house-built"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00032",
 			"country": "vocabs:countries/country00698",
 			"label": "Agence de Mutualisation des Universit\u00e9s et Etablissements"
@@ -35,11 +41,11 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00698",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01758",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2020-02-04T20:54:28.233Z",
-		"lastModified": "2020-10-17T20:03:58.133Z"
+		"lastModified": "2020-10-19T18:09:14.829Z"
 	},
 	"name": "Caplab",
 	"organization": "orgunits:ou00032",

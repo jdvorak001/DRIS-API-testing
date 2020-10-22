@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01751",
+			"label": {
+				"en": "Converis"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00935",
 			"country": "vocabs:countries/country00817",
 			"label": "Imam Abdulrahman Bin Faisal University"
@@ -35,11 +41,11 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00817",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01751",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2020-08-29T12:35:37.876Z",
-		"lastModified": "2020-10-17T20:04:27.928Z"
+		"lastModified": "2020-10-19T18:09:42.731Z"
 	},
 	"name": "Imam Abdulrahman Bin Faisal University's Research Portal",
 	"organization": "orgunits:ou00935",

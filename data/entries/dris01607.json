@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01759",
+			"label": {
+				"en": "IRINS"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00815",
 			"country": "vocabs:countries/country00725",
 			"label": "University of Calcutta, West Bengal"
@@ -35,11 +41,11 @@
 	"acronym": "CALUNIV Scholar Profile",
 	"country": "vocabs:countries/country00725",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01759",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2020-03-16T23:03:04.223Z",
-		"lastModified": "2020-10-17T20:04:14.820Z"
+		"lastModified": "2020-10-19T18:09:30.415Z"
 	},
 	"name": "University of Calcutta Scholar Profile",
 	"organization": "orgunits:ou00815",

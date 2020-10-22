@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01764",
+			"label": {
+				"en": "Pure"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00861",
 			"country": "vocabs:countries/country00636",
 			"label": "Torrens University of Australia"
@@ -35,11 +41,11 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00636",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01764",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2020-04-11T10:50:05.905Z",
-		"lastModified": "2020-10-17T20:04:20.120Z"
+		"lastModified": "2020-10-19T18:09:35.289Z"
 	},
 	"name": "Pure TUA",
 	"organization": "orgunits:ou00861",

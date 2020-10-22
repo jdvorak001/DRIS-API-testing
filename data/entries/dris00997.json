@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01758",
+			"label": {
+				"en": "In-house-built"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00110",
 			"country": "vocabs:countries/country00697",
 			"label": "Tampere University of Technology"
@@ -35,11 +41,11 @@
 	"acronym": "TUTCRIS",
 	"country": "vocabs:countries/country00697",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01758",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2019-03-04T14:51:18.876Z",
-		"lastModified": "2020-10-17T20:03:09.401Z"
+		"lastModified": "2020-10-19T18:08:33.579Z"
 	},
 	"name": "TUTCRIS Research Portal",
 	"organization": "orgunits:ou00110",

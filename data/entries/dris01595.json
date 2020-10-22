@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01759",
+			"label": {
+				"en": "IRINS"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00803",
 			"country": "vocabs:countries/country00725",
 			"label": "BMS Institute of Technology and Management, Bengaluru"
@@ -35,11 +41,11 @@
 	"acronym": "BMSIT Scholar Profile",
 	"country": "vocabs:countries/country00725",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01759",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2020-02-25T19:57:51.924Z",
-		"lastModified": "2020-10-17T20:04:13.591Z"
+		"lastModified": "2020-10-19T18:09:29.184Z"
 	},
 	"name": "BMS Institute of Technology and Management",
 	"organization": "orgunits:ou00803",

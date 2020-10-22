@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01758",
+			"label": {
+				"en": "In-house-built"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00436",
 			"country": "vocabs:countries/country00644",
 			"label": "Flanders Marine Institute"
@@ -35,11 +41,11 @@
 	"acronym": "IMIS",
 	"country": "vocabs:countries/country00644",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01758",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2019-05-20T15:57:43.570Z",
-		"lastModified": "2020-10-17T20:03:30.764Z"
+		"lastModified": "2020-10-19T18:08:52.238Z"
 	},
 	"name": "Integrated Marine Information System",
 	"organization": "orgunits:ou00436",

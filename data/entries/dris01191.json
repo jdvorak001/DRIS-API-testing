@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01758",
+			"label": {
+				"en": "In-house-built"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00431",
 			"country": "vocabs:countries/country00824",
 			"label": "University of \u017dilina"
@@ -35,11 +41,11 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00824",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01758",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2019-04-05T13:22:03.170Z",
-		"lastModified": "2020-10-17T20:03:29.744Z"
+		"lastModified": "2020-10-19T18:08:51.182Z"
 	},
 	"name": "University of \u017dilina Institutional CRIS",
 	"organization": "orgunits:ou00431",

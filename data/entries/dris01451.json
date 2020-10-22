@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01754",
+			"label": {
+				"en": "DSpace-CRIS"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00665",
 			"country": "vocabs:countries/country00751",
 			"label": "Lithuanian University of Health Sciences"
@@ -35,11 +41,11 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00751",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01754",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2020-02-04T20:33:13.965Z",
-		"lastModified": "2020-10-17T20:03:57.990Z"
+		"lastModified": "2020-10-19T18:09:14.731Z"
 	},
 	"name": "LUHS CRIS",
 	"organization": "orgunits:ou00665",

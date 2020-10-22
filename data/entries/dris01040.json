@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01760",
+			"label": {
+				"en": "IRIS"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00288",
 			"country": "vocabs:countries/country00732",
 			"label": "Fondazione Edmund Mach"
@@ -35,11 +41,11 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00732",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01760",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2019-03-08T17:12:21.932Z",
-		"lastModified": "2020-10-17T20:03:14.062Z"
+		"lastModified": "2020-10-19T18:08:37.392Z"
 	},
 	"name": "IRIS Fondazione Edmund Mach",
 	"organization": "orgunits:ou00288",

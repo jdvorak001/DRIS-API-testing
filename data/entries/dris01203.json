@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01762",
+			"label": {
+				"en": "Omega-PSIR"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00437",
 			"country": "vocabs:countries/country00799",
 			"label": "Cardinal Stefan Wyszy\u0144ski University in Warsaw"
@@ -35,11 +41,11 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00799",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01762",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2019-05-21T11:53:31.731Z",
-		"lastModified": "2020-10-17T20:03:30.870Z"
+		"lastModified": "2020-10-19T18:08:52.363Z"
 	},
 	"name": "UKSW Knowledge Base",
 	"organization": "orgunits:ou00437",

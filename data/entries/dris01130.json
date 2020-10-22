@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01762",
+			"label": {
+				"en": "Omega-PSIR"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00389",
 			"country": "vocabs:countries/country00799",
 			"label": "Poznan University of Economics and Business"
@@ -35,11 +41,11 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00799",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01762",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2019-03-15T11:39:44.942Z",
-		"lastModified": "2020-10-17T20:03:24.385Z"
+		"lastModified": "2020-10-19T18:08:45.732Z"
 	},
 	"name": "PUEB Base of Knowledge",
 	"organization": "orgunits:ou00389",

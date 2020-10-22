@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01752",
+			"label": {
+				"en": "CRIStin"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00134",
 			"country": "vocabs:countries/country00788",
 			"label": "University of Bergen"
@@ -35,11 +41,11 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00788",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01752",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2020-02-19T21:06:21.635Z",
-		"lastModified": "2020-10-17T20:03:58.905Z"
+		"lastModified": "2020-10-19T18:09:15.556Z"
 	},
 	"name": "CRIStin University of Bergen",
 	"organization": "orgunits:ou00134",

@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01769",
+			"label": {
+				"en": "VIVO"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00635",
 			"country": "vocabs:countries/country00766",
 			"label": "Universidad Aut\u00f3noma San Luis Potos\u00ed (UASLP)"
@@ -35,11 +41,11 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00766",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01769",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2020-01-03T19:48:48.310Z",
-		"lastModified": "2020-10-17T20:03:53.864Z"
+		"lastModified": "2020-10-19T18:09:11.732Z"
 	},
 	"name": "ORBIS",
 	"organization": "orgunits:ou00635",

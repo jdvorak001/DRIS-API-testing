@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01758",
+			"label": {
+				"en": "In-house-built"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00826",
 			"country": "vocabs:countries/country00705",
 			"label": "University of Leipzig"
@@ -35,11 +41,11 @@
 	"acronym": "LEURIS",
 	"country": "vocabs:countries/country00705",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01758",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2020-03-19T20:29:43.919Z",
-		"lastModified": "2020-10-17T20:04:16.054Z"
+		"lastModified": "2020-10-19T18:09:31.475Z"
 	},
 	"name": "Leipzig University Research Information System",
 	"organization": "orgunits:ou00826",

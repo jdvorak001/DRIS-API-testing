@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01757",
+			"label": {
+				"en": "Ideate"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00495",
 			"country": "vocabs:countries/country00857",
 			"label": "University of Warwick"
@@ -35,11 +41,11 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00857",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01757",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2019-06-28T19:03:33.134Z",
-		"lastModified": "2020-10-17T20:03:37.811Z"
+		"lastModified": "2020-10-19T18:08:57.844Z"
 	},
 	"name": "Warwick Ideate",
 	"organization": "orgunits:ou00495",

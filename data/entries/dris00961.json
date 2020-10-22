@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01758",
+			"label": {
+				"en": "In-house-built"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00127",
 			"country": "vocabs:countries/country00831",
 			"label": "Universidad de Sevilla"
@@ -35,11 +41,11 @@
 	"acronym": "SISIUS",
 	"country": "vocabs:countries/country00831",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01758",
 	"crisPlatformNote": "In-house built (php - mysql)",
 	"metadata": {
 		"created": "2017-05-24T17:38:32.727Z",
-		"lastModified": "2020-10-17T20:03:06.556Z"
+		"lastModified": "2020-10-19T18:08:31.470Z"
 	},
 	"name": "Sistema de Informaci\u00f3n Sobre Investigaci\u00f3n en la Universidad de Sevilla",
 	"organization": "orgunits:ou00127",

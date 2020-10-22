@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01751",
+			"label": {
+				"en": "Converis"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00380",
 			"country": "vocabs:countries/country00705",
 			"label": "Humboldt-Universit\u00e4t zu Berlin"
@@ -35,11 +41,11 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00705",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01751",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2019-03-15T11:39:43.417Z",
-		"lastModified": "2020-10-17T20:03:23.508Z"
+		"lastModified": "2020-10-19T18:08:45.069Z"
 	},
 	"name": "HU-FIS",
 	"organization": "orgunits:ou00380",

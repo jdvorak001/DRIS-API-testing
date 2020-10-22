@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01764",
+			"label": {
+				"en": "Pure"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00469",
 			"country": "vocabs:countries/country00705",
 			"label": "Leibniz-Insitut fur Neurobiologie"
@@ -35,11 +41,11 @@
 	"acronym": "Pure LIN",
 	"country": "vocabs:countries/country00705",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01764",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2019-06-13T16:46:26.064Z",
-		"lastModified": "2020-10-17T20:03:34.460Z"
+		"lastModified": "2020-10-19T18:08:55.392Z"
 	},
 	"name": "Pure Leibniz Institute Neurobiology",
 	"organization": "orgunits:ou00469",

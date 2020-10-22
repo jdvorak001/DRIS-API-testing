@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01767",
+			"label": {
+				"en": "Symplectic Elements"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00481",
 			"country": "vocabs:countries/country00857",
 			"label": "University of Leeds"
@@ -35,11 +41,11 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00857",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01767",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2019-06-16T01:15:22.866Z",
-		"lastModified": "2020-10-17T20:03:35.849Z"
+		"lastModified": "2020-10-19T18:08:56.486Z"
 	},
 	"name": "Leeds Symplectic",
 	"organization": "orgunits:ou00481",

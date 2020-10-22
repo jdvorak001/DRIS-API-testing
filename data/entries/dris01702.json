@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01759",
+			"label": {
+				"en": "IRINS"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00907",
 			"country": "vocabs:countries/country00725",
 			"label": "National Institute of Technology, Uttarakhand"
@@ -35,11 +41,11 @@
 	"acronym": "NITUK Scholar Profile",
 	"country": "vocabs:countries/country00725",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01759",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2020-05-10T17:43:19.296Z",
-		"lastModified": "2020-10-17T20:04:24.999Z"
+		"lastModified": "2020-10-19T18:09:39.905Z"
 	},
 	"name": "National Institute of Technology Uttarakhand Scholar Profile",
 	"organization": "orgunits:ou00907",

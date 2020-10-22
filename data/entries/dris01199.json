@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01767",
+			"label": {
+				"en": "Symplectic Elements"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00434",
 			"country": "vocabs:countries/country00857",
 			"label": "Brunel University London"
@@ -35,11 +41,11 @@
 	"acronym": "BRAD",
 	"country": "vocabs:countries/country00857",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01767",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2019-04-18T13:34:40.610Z",
-		"lastModified": "2020-10-17T20:03:30.570Z"
+		"lastModified": "2020-10-19T18:08:51.966Z"
 	},
 	"name": "Brunel Research Database",
 	"organization": "orgunits:ou00434",

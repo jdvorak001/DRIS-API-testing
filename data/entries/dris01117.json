@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01754",
+			"label": {
+				"en": "DSpace-CRIS"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00365",
 			"country": "vocabs:countries/country00705",
 			"label": "Fraunhofer Gesellschaft, M\u00fcnchen"
@@ -35,11 +41,11 @@
 	"acronym": "Fraunhofer-FIS",
 	"country": "vocabs:countries/country00705",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01754",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2019-03-15T11:39:40.933Z",
-		"lastModified": "2020-10-17T20:03:22.812Z"
+		"lastModified": "2020-10-19T18:08:44.495Z"
 	},
 	"name": "Fraunhofer Forschungsinformationssystem (FIS)",
 	"organization": "orgunits:ou00365",

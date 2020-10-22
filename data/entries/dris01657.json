@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01764",
+			"label": {
+				"en": "Pure"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00863",
 			"country": "vocabs:countries/country00779",
 			"label": "Wageningen University & Research"
@@ -35,11 +41,11 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00779",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01764",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2020-04-11T11:12:01.682Z",
-		"lastModified": "2020-10-17T20:04:20.316Z"
+		"lastModified": "2020-10-19T18:09:35.476Z"
 	},
 	"name": "Research@WUR",
 	"organization": "orgunits:ou00863",

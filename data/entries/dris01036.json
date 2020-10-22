@@ -15,6 +15,12 @@
 			}
 		},
 		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01756",
+			"label": {
+				"en": "Haplo"
+			}
+		},
+		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00284",
 			"country": "vocabs:countries/country00857",
 			"label": "University of Westminster"
@@ -35,11 +41,11 @@
 	"acronym": "Haplo Westminster",
 	"country": "vocabs:countries/country00857",
 	"coverages": [],
-	"crisPlatform": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01756",
 	"crisPlatformNote": "",
 	"metadata": {
 		"created": "2019-03-08T17:07:52.296Z",
-		"lastModified": "2020-10-17T20:03:13.658Z"
+		"lastModified": "2020-10-19T18:08:37.014Z"
 	},
 	"name": "Haplo University of Westminster",
 	"organization": "orgunits:ou00284",
