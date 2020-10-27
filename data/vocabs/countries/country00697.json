@@ -1,0 +1,11 @@
+{
+	"@id": "https://api.eurocris.org/dris/vocabs/countries/country00697",
+	"iso_3166_codes": {
+		"Alpha2": "FI",
+		"Alpha3": "FIN",
+		"Numeric": "246"
+	},
+	"label": {
+		"en": "Finland"
+	}
+}

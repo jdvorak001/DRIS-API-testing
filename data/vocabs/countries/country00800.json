@@ -1,0 +1,11 @@
+{
+	"@id": "https://api.eurocris.org/dris/vocabs/countries/country00800",
+	"iso_3166_codes": {
+		"Alpha2": "PT",
+		"Alpha3": "PRT",
+		"Numeric": "620"
+	},
+	"label": {
+		"en": "Portugal"
+	}
+}

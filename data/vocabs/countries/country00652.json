@@ -1,0 +1,11 @@
+{
+	"@id": "https://api.eurocris.org/dris/vocabs/countries/country00652",
+	"iso_3166_codes": {
+		"Alpha2": "BW",
+		"Alpha3": "BWA",
+		"Numeric": "72"
+	},
+	"label": {
+		"en": "Botswana"
+	}
+}

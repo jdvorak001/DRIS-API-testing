@@ -1,0 +1,11 @@
+{
+	"@id": "https://api.eurocris.org/dris/vocabs/countries/country00663",
+	"iso_3166_codes": {
+		"Alpha2": "CA",
+		"Alpha3": "CAN",
+		"Numeric": "124"
+	},
+	"label": {
+		"en": "Canada"
+	}
+}

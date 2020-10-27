@@ -1,0 +1,11 @@
+{
+	"@id": "https://api.eurocris.org/dris/vocabs/countries/country00705",
+	"iso_3166_codes": {
+		"Alpha2": "DE",
+		"Alpha3": "DEU",
+		"Numeric": "276"
+	},
+	"label": {
+		"en": "Germany"
+	}
+}

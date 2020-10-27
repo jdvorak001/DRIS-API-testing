@@ -1,0 +1,11 @@
+{
+	"@id": "https://api.eurocris.org/dris/vocabs/countries/country00817",
+	"iso_3166_codes": {
+		"Alpha2": "SA",
+		"Alpha3": "SAU",
+		"Numeric": "682"
+	},
+	"label": {
+		"en": "Saudi Arabia"
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"@id": "https://api.eurocris.org/dris/vocabs/countries/country00722",
+	"iso_3166_codes": {
+		"Alpha2": "HK",
+		"Alpha3": "HKG",
+		"Numeric": "344"
+	},
+	"label": {
+		"en": "Hong Kong"
+	}
+}

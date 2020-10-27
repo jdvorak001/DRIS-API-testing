@@ -1,0 +1,11 @@
+{
+	"@id": "https://api.eurocris.org/dris/vocabs/countries/country00732",
+	"iso_3166_codes": {
+		"Alpha2": "IT",
+		"Alpha3": "ITA",
+		"Numeric": "380"
+	},
+	"label": {
+		"en": "Italy"
+	}
+}

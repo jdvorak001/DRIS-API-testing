@@ -1,0 +1,11 @@
+{
+	"@id": "https://api.eurocris.org/dris/vocabs/countries/country00825",
+	"iso_3166_codes": {
+		"Alpha2": "SI",
+		"Alpha3": "SVN",
+		"Numeric": "705"
+	},
+	"label": {
+		"en": "Slovenia"
+	}
+}

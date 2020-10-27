@@ -1,0 +1,11 @@
+{
+	"@id": "https://api.eurocris.org/dris/vocabs/countries/country00671",
+	"iso_3166_codes": {
+		"Alpha2": "CO",
+		"Alpha3": "COL",
+		"Numeric": "170"
+	},
+	"label": {
+		"en": "Colombia"
+	}
+}

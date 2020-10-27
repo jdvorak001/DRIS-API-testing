@@ -1,0 +1,11 @@
+{
+	"@id": "https://api.eurocris.org/dris/vocabs/countries/country00644",
+	"iso_3166_codes": {
+		"Alpha2": "BE",
+		"Alpha3": "BEL",
+		"Numeric": "56"
+	},
+	"label": {
+		"en": "Belgium"
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"@id": "https://api.eurocris.org/dris/vocabs/countries/country00754",
+	"iso_3166_codes": {
+		"Alpha2": "MK",
+		"Alpha3": "MKD",
+		"Numeric": "807"
+	},
+	"label": {
+		"en": "North Macedonia"
+	}
+}

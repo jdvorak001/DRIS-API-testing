@@ -1,0 +1,11 @@
+{
+	"@id": "https://api.eurocris.org/dris/vocabs/countries/country00724",
+	"iso_3166_codes": {
+		"Alpha2": "IS",
+		"Alpha3": "ISL",
+		"Numeric": "352"
+	},
+	"label": {
+		"en": "Iceland"
+	}
+}

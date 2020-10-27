@@ -1,0 +1,11 @@
+{
+	"@id": "https://api.eurocris.org/dris/vocabs/countries/country00654",
+	"iso_3166_codes": {
+		"Alpha2": "BR",
+		"Alpha3": "BRA",
+		"Numeric": "76"
+	},
+	"label": {
+		"en": "Brazil"
+	}
+}

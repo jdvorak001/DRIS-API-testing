@@ -1,0 +1,11 @@
+{
+	"@id": "https://api.eurocris.org/dris/vocabs/countries/country00781",
+	"iso_3166_codes": {
+		"Alpha2": "NZ",
+		"Alpha3": "NZL",
+		"Numeric": "554"
+	},
+	"label": {
+		"en": "New Zealand"
+	}
+}

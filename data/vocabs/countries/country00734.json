@@ -1,0 +1,11 @@
+{
+	"@id": "https://api.eurocris.org/dris/vocabs/countries/country00734",
+	"iso_3166_codes": {
+		"Alpha2": "JP",
+		"Alpha3": "JPN",
+		"Numeric": "392"
+	},
+	"label": {
+		"en": "Japan"
+	}
+}

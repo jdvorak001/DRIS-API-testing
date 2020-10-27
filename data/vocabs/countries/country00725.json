@@ -1,0 +1,11 @@
+{
+	"@id": "https://api.eurocris.org/dris/vocabs/countries/country00725",
+	"iso_3166_codes": {
+		"Alpha2": "IN",
+		"Alpha3": "IND",
+		"Numeric": "356"
+	},
+	"label": {
+		"en": "India"
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"@id": "https://api.eurocris.org/dris/vocabs/countries/country00731",
+	"iso_3166_codes": {
+		"Alpha2": "IL",
+		"Alpha3": "ISR",
+		"Numeric": "376"
+	},
+	"label": {
+		"en": "Israel"
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"@id": "https://api.eurocris.org/dris/vocabs/countries/country00745",
+	"iso_3166_codes": {
+		"Alpha2": "LV",
+		"Alpha3": "LVA",
+		"Numeric": "428"
+	},
+	"label": {
+		"en": "Latvia"
+	}
+}

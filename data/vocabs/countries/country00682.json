@@ -1,0 +1,11 @@
+{
+	"@id": "https://api.eurocris.org/dris/vocabs/countries/country00682",
+	"iso_3166_codes": {
+		"Alpha2": "CZ",
+		"Alpha3": "CZE",
+		"Numeric": "203"
+	},
+	"label": {
+		"en": "Czech Republic"
+	}
+}

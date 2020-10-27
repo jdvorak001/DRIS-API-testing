@@ -1,0 +1,11 @@
+{
+	"@id": "https://api.eurocris.org/dris/vocabs/countries/country00828",
+	"iso_3166_codes": {
+		"Alpha2": "ZA",
+		"Alpha3": "ZAF",
+		"Numeric": "710"
+	},
+	"label": {
+		"en": "South Africa"
+	}
+}

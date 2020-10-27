@@ -1,0 +1,11 @@
+{
+	"@id": "https://api.eurocris.org/dris/vocabs/countries/country00824",
+	"iso_3166_codes": {
+		"Alpha2": "SK",
+		"Alpha3": "SVK",
+		"Numeric": "703"
+	},
+	"label": {
+		"en": "Slovakia"
+	}
+}

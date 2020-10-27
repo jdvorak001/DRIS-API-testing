@@ -1,0 +1,11 @@
+{
+	"@id": "https://api.eurocris.org/dris/vocabs/countries/country00838",
+	"iso_3166_codes": {
+		"Alpha2": "CH",
+		"Alpha3": "CHE",
+		"Numeric": "756"
+	},
+	"label": {
+		"en": "Switzerland"
+	}
+}

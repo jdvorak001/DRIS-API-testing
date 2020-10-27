@@ -1,0 +1,11 @@
+{
+	"@id": "https://api.eurocris.org/dris/vocabs/countries/country00667",
+	"iso_3166_codes": {
+		"Alpha2": "CL",
+		"Alpha3": "CHL",
+		"Numeric": "152"
+	},
+	"label": {
+		"en": "Chile"
+	}
+}

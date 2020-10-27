@@ -1,0 +1,11 @@
+{
+	"@id": "https://api.eurocris.org/dris/vocabs/countries/country00802",
+	"iso_3166_codes": {
+		"Alpha2": "QA",
+		"Alpha3": "QAT",
+		"Numeric": "634"
+	},
+	"label": {
+		"en": "Qatar"
+	}
+}

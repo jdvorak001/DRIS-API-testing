@@ -1,0 +1,11 @@
+{
+	"@id": "https://api.eurocris.org/dris/vocabs/countries/country00788",
+	"iso_3166_codes": {
+		"Alpha2": "NO",
+		"Alpha3": "NOR",
+		"Numeric": "578"
+	},
+	"label": {
+		"en": "Norway"
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"@id": "https://api.eurocris.org/dris/vocabs/countries/country00819",
+	"iso_3166_codes": {
+		"Alpha2": "RS",
+		"Alpha3": "SRB",
+		"Numeric": "688"
+	},
+	"label": {
+		"en": "Serbia"
+	}
+}

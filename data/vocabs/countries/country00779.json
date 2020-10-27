@@ -1,0 +1,11 @@
+{
+	"@id": "https://api.eurocris.org/dris/vocabs/countries/country00779",
+	"iso_3166_codes": {
+		"Alpha2": "NL",
+		"Alpha3": "NLD",
+		"Numeric": "528"
+	},
+	"label": {
+		"en": "Netherlands"
+	}
+}

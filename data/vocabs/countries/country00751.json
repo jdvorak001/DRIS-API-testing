@@ -1,0 +1,11 @@
+{
+	"@id": "https://api.eurocris.org/dris/vocabs/countries/country00751",
+	"iso_3166_codes": {
+		"Alpha2": "LT",
+		"Alpha3": "LTU",
+		"Numeric": "440"
+	},
+	"label": {
+		"en": "Lithuania"
+	}
+}

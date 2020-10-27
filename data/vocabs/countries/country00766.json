@@ -1,0 +1,11 @@
+{
+	"@id": "https://api.eurocris.org/dris/vocabs/countries/country00766",
+	"iso_3166_codes": {
+		"Alpha2": "MX",
+		"Alpha3": "MEX",
+		"Numeric": "484"
+	},
+	"label": {
+		"en": "Mexico"
+	}
+}

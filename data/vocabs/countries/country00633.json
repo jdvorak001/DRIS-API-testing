@@ -1,0 +1,11 @@
+{
+	"@id": "https://api.eurocris.org/dris/vocabs/countries/country00633",
+	"iso_3166_codes": {
+		"Alpha2": "AR",
+		"Alpha3": "ARG",
+		"Numeric": "32"
+	},
+	"label": {
+		"en": "Argentina"
+	}
+}

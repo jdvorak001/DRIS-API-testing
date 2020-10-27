@@ -1,0 +1,11 @@
+{
+	"@id": "https://api.eurocris.org/dris/vocabs/countries/country00683",
+	"iso_3166_codes": {
+		"Alpha2": "DK",
+		"Alpha3": "DNK",
+		"Numeric": "208"
+	},
+	"label": {
+		"en": "Denmark"
+	}
+}

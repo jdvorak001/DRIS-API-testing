@@ -1,0 +1,11 @@
+{
+	"@id": "https://api.eurocris.org/dris/vocabs/countries/country00687",
+	"iso_3166_codes": {
+		"Alpha2": "EC",
+		"Alpha3": "ECU",
+		"Numeric": "218"
+	},
+	"label": {
+		"en": "Ecuador"
+	}
+}

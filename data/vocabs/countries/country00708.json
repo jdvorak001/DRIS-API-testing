@@ -1,0 +1,11 @@
+{
+	"@id": "https://api.eurocris.org/dris/vocabs/countries/country00708",
+	"iso_3166_codes": {
+		"Alpha2": "GR",
+		"Alpha3": "GRC",
+		"Numeric": "300"
+	},
+	"label": {
+		"en": "Greece"
+	}
+}

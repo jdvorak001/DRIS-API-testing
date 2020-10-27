@@ -1,0 +1,11 @@
+{
+	"@id": "https://api.eurocris.org/dris/vocabs/countries/country00752",
+	"iso_3166_codes": {
+		"Alpha2": "LU",
+		"Alpha3": "LUX",
+		"Numeric": "442"
+	},
+	"label": {
+		"en": "Luxembourg"
+	}
+}

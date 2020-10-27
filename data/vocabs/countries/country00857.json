@@ -1,0 +1,11 @@
+{
+	"@id": "https://api.eurocris.org/dris/vocabs/countries/country00857",
+	"iso_3166_codes": {
+		"Alpha2": "GB",
+		"Alpha3": "GBR",
+		"Numeric": "826"
+	},
+	"label": {
+		"en": "United Kingdom"
+	}
+}

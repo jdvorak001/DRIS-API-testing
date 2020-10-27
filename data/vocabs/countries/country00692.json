@@ -1,0 +1,11 @@
+{
+	"@id": "https://api.eurocris.org/dris/vocabs/countries/country00692",
+	"iso_3166_codes": {
+		"Alpha2": "EE",
+		"Alpha3": "EST",
+		"Numeric": "233"
+	},
+	"label": {
+		"en": "Estonia"
+	}
+}

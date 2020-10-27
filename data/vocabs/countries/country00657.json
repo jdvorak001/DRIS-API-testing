@@ -1,0 +1,11 @@
+{
+	"@id": "https://api.eurocris.org/dris/vocabs/countries/country00657",
+	"iso_3166_codes": {
+		"Alpha2": "BG",
+		"Alpha3": "BGR",
+		"Numeric": "100"
+	},
+	"label": {
+		"en": "Bulgaria"
+	}
+}

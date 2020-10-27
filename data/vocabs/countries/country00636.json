@@ -1,0 +1,11 @@
+{
+	"@id": "https://api.eurocris.org/dris/vocabs/countries/country00636",
+	"iso_3166_codes": {
+		"Alpha2": "AU",
+		"Alpha3": "AUS",
+		"Numeric": "36"
+	},
+	"label": {
+		"en": "Australia"
+	}
+}

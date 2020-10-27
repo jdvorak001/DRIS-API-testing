@@ -1,0 +1,11 @@
+{
+	"@id": "https://api.eurocris.org/dris/vocabs/countries/country00676",
+	"iso_3166_codes": {
+		"Alpha2": "CR",
+		"Alpha3": "CRI",
+		"Numeric": "188"
+	},
+	"label": {
+		"en": "Costa Rica"
+	}
+}

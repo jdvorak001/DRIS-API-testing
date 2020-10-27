@@ -1,0 +1,11 @@
+{
+	"@id": "https://api.eurocris.org/dris/vocabs/countries/country00698",
+	"iso_3166_codes": {
+		"Alpha2": "FR",
+		"Alpha3": "FRA",
+		"Numeric": "250"
+	},
+	"label": {
+		"en": "France"
+	}
+}

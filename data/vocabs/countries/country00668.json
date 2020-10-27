@@ -1,0 +1,11 @@
+{
+	"@id": "https://api.eurocris.org/dris/vocabs/countries/country00668",
+	"iso_3166_codes": {
+		"Alpha2": "CN",
+		"Alpha3": "CHN",
+		"Numeric": "156"
+	},
+	"label": {
+		"en": "China"
+	}
+}

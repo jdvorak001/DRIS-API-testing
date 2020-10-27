@@ -1,0 +1,11 @@
+{
+	"@id": "https://api.eurocris.org/dris/vocabs/countries/country00789",
+	"iso_3166_codes": {
+		"Alpha2": "OM",
+		"Alpha3": "OMN",
+		"Numeric": "512"
+	},
+	"label": {
+		"en": "Oman"
+	}
+}

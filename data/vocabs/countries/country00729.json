@@ -1,0 +1,11 @@
+{
+	"@id": "https://api.eurocris.org/dris/vocabs/countries/country00729",
+	"iso_3166_codes": {
+		"Alpha2": "IE",
+		"Alpha3": "IRL",
+		"Numeric": "372"
+	},
+	"label": {
+		"en": "Ireland"
+	}
+}

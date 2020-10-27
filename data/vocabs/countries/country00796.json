@@ -1,0 +1,11 @@
+{
+	"@id": "https://api.eurocris.org/dris/vocabs/countries/country00796",
+	"iso_3166_codes": {
+		"Alpha2": "PE",
+		"Alpha3": "PER",
+		"Numeric": "604"
+	},
+	"label": {
+		"en": "Peru"
+	}
+}

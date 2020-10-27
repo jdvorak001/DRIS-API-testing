@@ -1,0 +1,11 @@
+{
+	"@id": "https://api.eurocris.org/dris/vocabs/countries/country00831",
+	"iso_3166_codes": {
+		"Alpha2": "ES",
+		"Alpha3": "ESP",
+		"Numeric": "724"
+	},
+	"label": {
+		"en": "Spain"
+	}
+}

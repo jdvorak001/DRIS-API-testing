@@ -1,0 +1,11 @@
+{
+	"@id": "https://api.eurocris.org/dris/vocabs/countries/country00805",
+	"iso_3166_codes": {
+		"Alpha2": "RU",
+		"Alpha3": "RUS",
+		"Numeric": "643"
+	},
+	"label": {
+		"en": "Russian Federation"
+	}
+}

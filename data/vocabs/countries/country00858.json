@@ -1,0 +1,11 @@
+{
+	"@id": "https://api.eurocris.org/dris/vocabs/countries/country00858",
+	"iso_3166_codes": {
+		"Alpha2": "US",
+		"Alpha3": "USA",
+		"Numeric": "840"
+	},
+	"label": {
+		"en": "United States"
+	}
+}

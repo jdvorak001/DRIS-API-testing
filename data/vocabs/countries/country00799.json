@@ -1,0 +1,11 @@
+{
+	"@id": "https://api.eurocris.org/dris/vocabs/countries/country00799",
+	"iso_3166_codes": {
+		"Alpha2": "PL",
+		"Alpha3": "POL",
+		"Numeric": "616"
+	},
+	"label": {
+		"en": "Poland"
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"@id": "https://api.eurocris.org/dris/vocabs/countries/country00850",
+	"iso_3166_codes": {
+		"Alpha2": "TR",
+		"Alpha3": "TUR",
+		"Numeric": "792"
+	},
+	"label": {
+		"en": "Turkey"
+	}
+}

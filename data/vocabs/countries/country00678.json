@@ -1,0 +1,11 @@
+{
+	"@id": "https://api.eurocris.org/dris/vocabs/countries/country00678",
+	"iso_3166_codes": {
+		"Alpha2": "HR",
+		"Alpha3": "HRV",
+		"Numeric": "191"
+	},
+	"label": {
+		"en": "Croatia"
+	}
+}

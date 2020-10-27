@@ -1,0 +1,11 @@
+{
+	"@id": "https://api.eurocris.org/dris/vocabs/countries/country00771",
+	"iso_3166_codes": {
+		"Alpha2": "ME",
+		"Alpha3": "MNE",
+		"Numeric": "499"
+	},
+	"label": {
+		"en": "Montenegro"
+	}
+}

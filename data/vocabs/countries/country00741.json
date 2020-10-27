@@ -1,0 +1,11 @@
+{
+	"@id": "https://api.eurocris.org/dris/vocabs/countries/country00741",
+	"iso_3166_codes": {
+		"Alpha2": "KR",
+		"Alpha3": "KOR",
+		"Numeric": "410"
+	},
+	"label": {
+		"en": "Korea, Republic of"
+	}
+}
