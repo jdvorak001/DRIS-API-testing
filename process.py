@@ -26,6 +26,13 @@ for fx in pathlib.Path( raw_input_dir ).rglob( "*.json" ):
             os.makedirs( os.path.dirname( fx ), mode=0o755, exist_ok=True )
             with open( fx, "w" ) as f:
                 json.dump( x, f, sort_keys=True, indent="\t" )
+            for y in x["@included"]:
+                id = y["@id"]
+                if ( id.startswith( url_base ) ):
+                    fy = output_dir + id[ len(url_base): ] + ".json"
+                    os.makedirs( os.path.dirname( fy ), mode=0o755, exist_ok=True )
+                    with open( fy, "w" ) as f:
+                        json.dump( y, f, sort_keys=True, indent="\t" )
         else:
             raise Exception( f"id '{id}' doesn't start with url_base '{url_base}'" )
 
