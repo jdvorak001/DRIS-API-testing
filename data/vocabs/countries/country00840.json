@@ -1,0 +1,11 @@
+{
+	"@id": "https://api.eurocris.org/dris/vocabs/countries/country00840",
+	"iso_3166_codes": {
+		"Alpha2": "TW",
+		"Alpha3": "TWN",
+		"Numeric": "158"
+	},
+	"label": {
+		"en": "Taiwan"
+	}
+}
