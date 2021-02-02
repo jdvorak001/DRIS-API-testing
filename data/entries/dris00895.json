@@ -41,11 +41,16 @@
 	"acronym": "SICRIS",
 	"country": "vocabs:countries/country00825",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01750",
 	"crisPlatformNote": "",
+	"description": "SICRIS (Slovenian Current Research Information System) is a tool for managing research activities in Slovenia. It is a national information system with databases on researchers, research organizations and research projects integrated and interconnected among each other. In the structure of databases, all applicable international standards, classifications and code lists, EU recommendations (CERIF - Common European Research Information Format), legal provisions and regulations in force in Slovenia are taken into consideration. In 1999, the first SICRIS version was prepared using the concept of the CERIF 2000 model. This model is still in use.  SICRIS is closely linked with the COBISS.SI information system (Co-operative Online Bibliographic System and Services) and its shared COBIB.SI bibliographic database thus allowing users: - a direct insight into researchers' bibliographies,  - the evaluation of research performance bibliographic indicators,  - identification of citations on the basis of the links to the Web of Science and Scopus services.   In COBIB.SI bibliographic items are classified by valid typology of documents/works (e.g. original scientific article, review article, professional article, etc.). This allows users to have a direct insight into personal bibliographies of researchers. The preparation of different reports is possible as in both databases, SICRIS and COBISS, records include the unique researcher's ID \u00e2\u20ac\u201c researcher's code. You can choose to view different types of researcher's bibliography: a representative bibliography, a personal bibliography or an evaluated bibliography. The evaluated bibliography is prepared by selecting the input parameters (start date, end date, etc.) and the algorithms defined in the Slovenian Research Agency's Rules on scientific and professional performance criteria.   SICRIS and COBISS are developed and maintained by the Institute of Information Science (IZUM), a public institution established by the Government of the Republic of Slovenia.  Both systems, SICRIS and COBISS, would not be able to operate in the way they do, without close cooperation among the Government, ministries, Slovenian Research Agency, research institutions, IZUM and professional library staff.",
+	"established": "",
 	"metadata": {
 		"created": "2015-05-10T00:44:52.697Z",
-		"lastModified": "2020-10-19T18:08:27.133Z"
+		"lastModified": "2021-02-01T16:19:10.802Z"
 	},
 	"name": "Slovenian Current Research Information System",
 	"organization": "orgunits:ou00067",

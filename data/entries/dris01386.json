@@ -41,11 +41,16 @@
 	"acronym": "SGC ANLIS Malbr\u00e1n",
 	"country": "vocabs:countries/country00633",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01754",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2019-11-05T12:13:06.608Z",
-		"lastModified": "2020-10-19T18:09:08.982Z"
+		"lastModified": "2021-02-01T16:19:25.120Z"
 	},
 	"name": "Sistema de Gesti\u00f3n del Conocimiento ANLIS Malbr\u00e1n",
 	"organization": "orgunits:ou00606",

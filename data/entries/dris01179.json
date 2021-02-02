@@ -41,11 +41,16 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00779",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01764",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2019-03-19T15:32:13.911Z",
-		"lastModified": "2020-10-19T18:08:50.212Z"
+		"lastModified": "2021-02-01T16:19:34.494Z"
 	},
 	"name": "Delft Research Portal",
 	"organization": "orgunits:ou00425",

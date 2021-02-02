@@ -41,11 +41,16 @@
 	"acronym": "GtR",
 	"country": "vocabs:countries/country00857",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01758",
 	"crisPlatformNote": "",
+	"description": "Gateway to Research is a CERIF-compliant database of all research projects funded by the Research Councils UK (nowadays UK Research and Innovation) plus Innovate UK. GtR records provide a project description linked to the researchers and organisations involved in them. The records include further links to the publications arising from such projects",
+	"established": "",
 	"metadata": {
 		"created": "2019-03-08T17:07:42.645Z",
-		"lastModified": "2020-10-19T18:08:33.749Z"
+		"lastModified": "2021-02-01T16:19:12.472Z"
 	},
 	"name": "Gateway to Research",
 	"organization": "orgunits:ou00258",

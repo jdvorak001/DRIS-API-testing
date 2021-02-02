@@ -41,11 +41,16 @@
 	"acronym": "Pure RCS",
 	"country": "vocabs:countries/country00857",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01764",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2019-06-13T16:46:23.683Z",
-		"lastModified": "2020-10-19T18:08:54.427Z"
+		"lastModified": "2021-02-01T16:19:37.671Z"
 	},
 	"name": "Pure RCS",
 	"organization": "orgunits:ou00459",

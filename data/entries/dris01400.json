@@ -41,11 +41,16 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00858",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01767",
 	"crisPlatformNote": "",
+	"description": "The University of California Publication Management System, provided by the California Digital Library, utilizes Symplectic Elements software. It may be used to collect and analyze research outputs and to compile \u2018research profiles\u2019 to keep track of professional activities and publications",
+	"established": "",
 	"metadata": {
 		"created": "2019-12-06T19:32:05.148Z",
-		"lastModified": "2020-10-19T18:09:10.137Z"
+		"lastModified": "2021-02-01T16:19:25.803Z"
 	},
 	"name": "UC Elements",
 	"organization": "orgunits:ou00618",

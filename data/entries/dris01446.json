@@ -41,11 +41,16 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00724",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01764",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2020-01-31T13:14:16.118Z",
-		"lastModified": "2020-10-19T18:09:14.247Z"
+		"lastModified": "2021-02-01T16:19:28.503Z"
 	},
 	"name": "Icelandic National CRIS",
 	"organization": "orgunits:ou00660",

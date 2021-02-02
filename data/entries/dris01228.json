@@ -38,18 +38,23 @@
 		}
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
-	"acronym": "Pure UAB",
+	"acronym": "UAB Research Portal",
 	"country": "vocabs:countries/country00831",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01764",
 	"crisPlatformNote": "",
+	"description": "The purpose of the Universitat Aut\u00f2noma de Barcelona Research Portal is to expand to the fullest the research being done in our University and to make visible the work of our researchers. The Portal is initially in its English version but we hope to have the Catalan and Spanish versions very soon. The contents of the Portal will be progressively increased as the data of the same are checked and validated.",
+	"established": "",
 	"metadata": {
 		"created": "2019-06-13T16:46:23.122Z",
-		"lastModified": "2020-10-19T18:08:54.249Z"
+		"lastModified": "2021-02-01T16:20:05.195Z"
 	},
-	"name": "Pure UA Barcelona",
+	"name": "Universitat Aut\u00f2noma de Barcelona Research Portal",
 	"organization": "orgunits:ou00457",
 	"scope": "vocabs:scopes/classcerif00937",
 	"status": "vocabs:statuses/classcerif00935",
-	"uri": "https://www.uab.cat/en/"
+	"uri": "https://portalrecerca.uab.cat/en/"
 }

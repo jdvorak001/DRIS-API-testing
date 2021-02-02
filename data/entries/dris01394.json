@@ -41,11 +41,16 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00644",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01758",
 	"crisPlatformNote": "In-house-built (Oracle Peoplesoft)",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2019-12-04T19:55:29.917Z",
-		"lastModified": "2020-10-19T18:09:09.523Z"
+		"lastModified": "2021-02-01T16:19:25.472Z"
 	},
 	"name": "Antigoon research database",
 	"organization": "orgunits:ou00612",

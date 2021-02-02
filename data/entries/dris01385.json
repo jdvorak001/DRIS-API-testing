@@ -41,11 +41,16 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00676",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01769",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2019-11-05T11:37:50.295Z",
-		"lastModified": "2020-10-19T18:09:08.895Z"
+		"lastModified": "2021-02-01T16:19:25.063Z"
 	},
 	"name": "UNA Red Acad\u00e9mica",
 	"organization": "orgunits:ou00605",

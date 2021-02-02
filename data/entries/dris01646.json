@@ -41,11 +41,16 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00858",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01764",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2020-04-04T09:40:28.286Z",
-		"lastModified": "2020-10-19T18:09:34.423Z"
+		"lastModified": "2021-02-01T16:19:15.984Z"
 	},
 	"name": "Pure Johns Hopkins University",
 	"organization": "orgunits:ou00852",

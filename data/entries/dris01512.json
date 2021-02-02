@@ -41,11 +41,16 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00788",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01752",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2020-02-24T16:01:02.276Z",
-		"lastModified": "2020-10-19T18:09:21.015Z"
+		"lastModified": "2021-02-01T16:19:18.420Z"
 	},
 	"name": "CRIStin Norwegian Institute of Bioeconomy Research",
 	"organization": "orgunits:ou00720",

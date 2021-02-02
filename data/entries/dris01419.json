@@ -41,11 +41,16 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00766",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01769",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2020-01-03T19:48:48.310Z",
-		"lastModified": "2020-10-19T18:09:11.732Z"
+		"lastModified": "2021-02-01T16:19:26.941Z"
 	},
 	"name": "ORBIS",
 	"organization": "orgunits:ou00635",

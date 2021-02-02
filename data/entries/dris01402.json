@@ -41,11 +41,16 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00858",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01769",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2019-12-07T14:08:18.983Z",
-		"lastModified": "2020-10-19T18:09:10.306Z"
+		"lastModified": "2021-02-01T16:19:25.916Z"
 	},
 	"name": "UF VIVO",
 	"organization": "orgunits:ou00620",

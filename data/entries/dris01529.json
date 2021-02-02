@@ -41,11 +41,16 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00788",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01752",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2020-02-24T19:46:40.727Z",
-		"lastModified": "2020-10-19T18:09:22.746Z"
+		"lastModified": "2021-02-01T16:19:19.109Z"
 	},
 	"name": "CRIStin Nord Trondelag Hospital Trust",
 	"organization": "orgunits:ou00737",

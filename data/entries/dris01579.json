@@ -41,11 +41,16 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00788",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01752",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2020-02-25T19:31:42.774Z",
-		"lastModified": "2020-10-19T18:09:27.510Z"
+		"lastModified": "2021-02-01T16:19:13.484Z"
 	},
 	"name": "CRIStin Tr\u00f8ndelag R&D Institute",
 	"organization": "orgunits:ou00787",

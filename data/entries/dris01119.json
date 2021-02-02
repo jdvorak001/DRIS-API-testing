@@ -41,11 +41,16 @@
 	"acronym": "FIS TU Dresden",
 	"country": "vocabs:countries/country00705",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01758",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2019-03-15T11:39:41.385Z",
-		"lastModified": "2020-10-19T18:08:44.668Z"
+		"lastModified": "2021-02-01T16:19:52.062Z"
 	},
 	"name": "Forschungsinformationssystem TU Dresden",
 	"organization": "orgunits:ou00111",

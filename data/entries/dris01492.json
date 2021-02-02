@@ -41,11 +41,16 @@
 	"acronym": "CroRIS",
 	"country": "vocabs:countries/country00678",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01758",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2020-02-23T10:37:11.271Z",
-		"lastModified": "2020-10-19T18:09:18.905Z"
+		"lastModified": "2021-02-01T16:19:17.595Z"
 	},
 	"name": "Croatian Research Information System",
 	"organization": "orgunits:ou00104",

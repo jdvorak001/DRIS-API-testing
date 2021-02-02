@@ -41,11 +41,16 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00799",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01762",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2019-05-21T11:53:31.731Z",
-		"lastModified": "2020-10-19T18:08:52.363Z"
+		"lastModified": "2021-02-01T16:19:36.044Z"
 	},
 	"name": "UKSW Knowledge Base",
 	"organization": "orgunits:ou00437",

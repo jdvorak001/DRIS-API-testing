@@ -41,11 +41,16 @@
 	"acronym": "IIMV Scholar Profile",
 	"country": "vocabs:countries/country00725",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01759",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2020-03-16T23:03:05.205Z",
-		"lastModified": "2020-10-19T18:09:30.963Z"
+		"lastModified": "2021-02-01T16:19:14.846Z"
 	},
 	"name": "Indian Institute of Management Visakhapatnam Scholar Profile",
 	"organization": "orgunits:ou00821",

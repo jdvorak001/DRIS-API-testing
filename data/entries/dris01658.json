@@ -41,11 +41,16 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00779",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01764",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2020-04-11T11:12:01.931Z",
-		"lastModified": "2020-10-19T18:09:35.564Z"
+		"lastModified": "2021-02-01T16:19:16.429Z"
 	},
 	"name": "BUas Research Portal",
 	"organization": "orgunits:ou00864",

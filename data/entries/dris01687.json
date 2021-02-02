@@ -41,11 +41,16 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00683",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01764",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2020-04-14T10:14:49.443Z",
-		"lastModified": "2020-10-19T18:09:38.359Z"
+		"lastModified": "2021-02-01T16:19:21.998Z"
 	},
 	"name": "ITU Research Portal",
 	"organization": "orgunits:ou00892",

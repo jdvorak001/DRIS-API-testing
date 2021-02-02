@@ -41,11 +41,16 @@
 	"acronym": "BLDEACET Scholar Profile",
 	"country": "vocabs:countries/country00725",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01759",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2020-10-05T11:32:45.296Z",
-		"lastModified": "2020-10-19T18:09:43.795Z"
+		"lastModified": "2021-02-01T16:19:31.219Z"
 	},
 	"name": "BLDEA's V P Dr P G Halakatti College of Engineering and Technology Scholar Profile",
 	"organization": "orgunits:ou00944",

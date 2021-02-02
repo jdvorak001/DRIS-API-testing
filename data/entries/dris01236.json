@@ -41,11 +41,16 @@
 	"acronym": "HM Scholars",
 	"country": "vocabs:countries/country00858",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01764",
 	"crisPlatformNote": "",
+	"description": "Houston Methodist Scholars is our network of faculty profiles, powered by Elsevier Pure. It aggregates the organization's research information from internal and external sources. HM Scholars provides our faculty with access to a global network of collaborators and subject matter experts, and information about their publication record and key areas of expertise",
+	"established": "",
 	"metadata": {
 		"created": "2019-06-13T16:46:25.064Z",
-		"lastModified": "2020-10-19T18:08:54.934Z"
+		"lastModified": "2021-02-01T16:19:38.182Z"
 	},
 	"name": "Houston Methodist Scholars",
 	"organization": "orgunits:ou00465",

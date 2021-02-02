@@ -41,11 +41,16 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00788",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01752",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2020-02-21T21:13:01.519Z",
-		"lastModified": "2020-10-19T18:09:17.257Z"
+		"lastModified": "2021-02-01T16:19:17.007Z"
 	},
 	"name": "CRIStin University of South-Eastern Norway",
 	"organization": "orgunits:ou00686",

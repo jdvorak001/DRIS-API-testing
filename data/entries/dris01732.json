@@ -41,11 +41,16 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00828",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01751",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2020-08-29T12:35:34.468Z",
-		"lastModified": "2020-10-19T18:09:42.629Z"
+		"lastModified": "2021-02-01T16:19:30.360Z"
 	},
 	"name": "UCT Research Portal",
 	"organization": "orgunits:ou00934",

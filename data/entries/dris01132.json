@@ -41,11 +41,16 @@
 	"acronym": "PRC",
 	"country": "vocabs:countries/country00831",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01754",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2019-03-15T11:39:45.884Z",
-		"lastModified": "2020-10-19T18:08:45.902Z"
+		"lastModified": "2021-02-01T16:19:53.333Z"
 	},
 	"name": "PRC (Catalan Research Portal/Portal de la Recerca de Catalunya)",
 	"organization": "orgunits:ou00395",

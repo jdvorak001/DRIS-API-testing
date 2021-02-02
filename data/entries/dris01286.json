@@ -41,11 +41,16 @@
 	"acronym": "Alagappa University Scholar Profile",
 	"country": "vocabs:countries/country00725",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01759",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2019-08-16T19:03:33.256Z",
-		"lastModified": "2020-10-19T18:08:59.660Z"
+		"lastModified": "2021-02-01T16:19:42.240Z"
 	},
 	"name": "Alagappa University Karaikudi Scholars Profile",
 	"organization": "orgunits:ou00511",

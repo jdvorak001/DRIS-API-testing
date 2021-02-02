@@ -41,11 +41,16 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00857",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01764",
 	"crisPlatformNote": "",
+	"description": "The Birmingham Research Portal provides a publicly accessible, fully searchable interface to explore the research undertaken at the University",
+	"established": "",
 	"metadata": {
 		"created": "2019-03-08T17:07:47.867Z",
-		"lastModified": "2020-10-19T18:08:35.349Z"
+		"lastModified": "2021-02-01T16:19:12.922Z"
 	},
 	"name": "Birmingham Research Portal",
 	"organization": "orgunits:ou00272",

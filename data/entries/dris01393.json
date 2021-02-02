@@ -41,11 +41,16 @@
 	"acronym": "QFRD Pure Portal",
 	"country": "vocabs:countries/country00802",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01764",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2019-12-03T16:05:04.238Z",
-		"lastModified": "2020-10-19T18:09:09.426Z"
+		"lastModified": "2021-02-01T16:19:25.410Z"
 	},
 	"name": "Pure Researcher Portal Qatar Foundation Research and Development",
 	"organization": "orgunits:ou00611",

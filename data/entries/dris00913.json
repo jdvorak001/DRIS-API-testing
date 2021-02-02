@@ -29,11 +29,16 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00708",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01758",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2015-05-10T00:44:53.578Z",
-		"lastModified": "2020-10-19T18:08:30.161Z"
+		"lastModified": "2021-02-01T16:19:11.405Z"
 	},
 	"name": "EuroRIs-Net+ Research Infrastructures Observatory",
 	"organization": "orgunits:ou00083",

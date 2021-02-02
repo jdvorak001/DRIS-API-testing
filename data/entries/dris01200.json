@@ -41,11 +41,16 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00857",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01767",
 	"crisPlatformNote": "",
+	"description": "Symplectic is a Current Research Information System. It was initially purchased for use within the Faculty of Science and Technology. In February 2017, the first phase of a project to roll out access to staff institution-wide was completed. At this time, access to a new reporting module, and links with ORCID identifiers were also enabled. We subsequently enabled the impact module to capture basic impact information, and in June 2018 enabled an integration with the EPrints-based repository ARRO, so that ARRO is treated as a data source by Symplectic and it's possible to deposit into ARRO via a Symplectic account.",
+	"established": "",
 	"metadata": {
 		"created": "2019-04-18T13:42:12.547Z",
-		"lastModified": "2020-10-19T18:08:52.066Z"
+		"lastModified": "2021-02-01T16:19:35.894Z"
 	},
 	"name": "Anglia Ruskin Symplectic",
 	"organization": "orgunits:ou00435",

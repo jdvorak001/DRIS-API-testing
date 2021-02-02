@@ -41,11 +41,16 @@
 	"acronym": "NJ Pure",
 	"country": "vocabs:countries/country00858",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01764",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2019-06-13T16:46:18.070Z",
-		"lastModified": "2020-10-19T18:08:52.588Z"
+		"lastModified": "2021-02-01T16:19:36.213Z"
 	},
 	"name": "Pure Community New Jersey",
 	"organization": "orgunits:ou00439",

@@ -41,11 +41,16 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00824",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01758",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2019-04-05T13:16:16.461Z",
-		"lastModified": "2020-10-19T18:08:51.095Z"
+		"lastModified": "2021-02-01T16:19:35.115Z"
 	},
 	"name": "STU Academic Information System",
 	"organization": "orgunits:ou00430",

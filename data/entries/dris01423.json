@@ -35,11 +35,16 @@
 	"acronym": "RUG Research Database",
 	"country": "vocabs:countries/country00779",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01758",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2020-01-28T09:25:08.395Z",
-		"lastModified": "2020-10-19T18:09:12.020Z"
+		"lastModified": "2021-02-01T16:19:27.073Z"
 	},
 	"name": "University of Groningen Research Database",
 	"organization": "orgunits:ou00638",

@@ -41,11 +41,16 @@
 	"acronym": "NITK Scholars Profile",
 	"country": "vocabs:countries/country00725",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01759",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2019-08-16T19:03:31.357Z",
-		"lastModified": "2020-10-19T18:08:59.138Z"
+		"lastModified": "2021-02-01T16:19:41.742Z"
 	},
 	"name": "National Institute of Technology Karnataka Scholars Profile",
 	"organization": "orgunits:ou00505",

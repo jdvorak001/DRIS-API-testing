@@ -41,11 +41,16 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00788",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01752",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2020-02-21T21:13:02.695Z",
-		"lastModified": "2020-10-19T18:09:18.009Z"
+		"lastModified": "2021-02-01T16:19:17.297Z"
 	},
 	"name": "CRIStin Queen Maud University College of Early Childhood Education",
 	"organization": "orgunits:ou00693",

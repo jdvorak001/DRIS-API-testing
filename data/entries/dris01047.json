@@ -41,11 +41,16 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00732",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01760",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2019-03-08T17:12:23.436Z",
-		"lastModified": "2020-10-19T18:08:38.061Z"
+		"lastModified": "2021-02-01T16:19:55.565Z"
 	},
 	"name": "IRIS Universit\u00e0 degli Studi di Bergamo",
 	"organization": "orgunits:ou00295",

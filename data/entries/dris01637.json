@@ -41,11 +41,16 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00858",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01764",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2020-04-04T09:40:26.938Z",
-		"lastModified": "2020-10-19T18:09:33.444Z"
+		"lastModified": "2021-02-01T16:19:15.607Z"
 	},
 	"name": "Experts@Syracuse",
 	"organization": "orgunits:ou00843",

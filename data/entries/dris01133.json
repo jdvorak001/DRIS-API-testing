@@ -41,11 +41,16 @@
 	"acronym": "SICA",
 	"country": "vocabs:countries/country00831",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01758",
 	"crisPlatformNote": "",
+	"description": "SICA is a centralised CRIS covering universities and research centres in the Spanish region of Andalusia. Since 2001 SICA provides CV services to a large researcher community, also answering the demands of policy managers, institutional supervisors, productive sector agents and the society at large. See presentation at http://hdl.handle.net/11366/163 for more information",
+	"established": "",
 	"metadata": {
 		"created": "2019-03-15T11:39:46.077Z",
-		"lastModified": "2020-10-19T18:08:45.983Z"
+		"lastModified": "2021-02-01T16:19:53.434Z"
 	},
 	"name": "SICA (Andalusian Research Information System)",
 	"organization": "orgunits:ou00396",

@@ -41,11 +41,16 @@
 	"acronym": "Baza Wiedzy PO",
 	"country": "vocabs:countries/country00799",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01762",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2019-04-18T10:23:58.305Z",
-		"lastModified": "2020-10-19T18:08:51.324Z"
+		"lastModified": "2021-02-01T16:19:35.279Z"
 	},
 	"name": "Baza Wiedzy PO",
 	"organization": "orgunits:ou00394",

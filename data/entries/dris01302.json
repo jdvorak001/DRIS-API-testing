@@ -41,11 +41,16 @@
 	"acronym": "NIT Andra Scholar Profile",
 	"country": "vocabs:countries/country00725",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01759",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2019-08-18T15:23:06.164Z",
-		"lastModified": "2020-10-19T18:09:01.070Z"
+		"lastModified": "2021-02-01T16:19:43.624Z"
 	},
 	"name": "National Institute of Technology Andhra Pradesh Scholars Profile",
 	"organization": "orgunits:ou00527",

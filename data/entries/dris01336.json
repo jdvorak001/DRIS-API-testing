@@ -41,11 +41,16 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00796",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01754",
 	"crisPlatformNote": "",
+	"description": "The system contains a subset of funded research projects, programmes and calls issued by the Peruvian National Fund for Research and Technological Development (FONDECYT). It also includes publications from such projects and other works resulting from the research information management activities conducted by the CONCYTEC",
+	"established": "",
 	"metadata": {
 		"created": "2019-11-03T11:03:54.977Z",
-		"lastModified": "2020-10-19T18:09:03.986Z"
+		"lastModified": "2021-02-01T16:19:46.325Z"
 	},
 	"name": "Repositorio Institucional CONCYTEC",
 	"organization": "orgunits:ou00556",

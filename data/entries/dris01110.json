@@ -41,11 +41,16 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00799",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01762",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2019-03-10T01:11:55.674Z",
-		"lastModified": "2020-10-19T18:08:43.864Z"
+		"lastModified": "2021-02-01T16:19:51.291Z"
 	},
 	"name": "SWPS Research Knowledge Base",
 	"organization": "orgunits:ou00359",

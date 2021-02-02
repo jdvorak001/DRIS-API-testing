@@ -41,11 +41,16 @@
 	"acronym": "SIGPRO UCR",
 	"country": "vocabs:countries/country00676",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01758",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2019-11-05T11:24:13.362Z",
-		"lastModified": "2020-10-19T18:09:08.810Z"
+		"lastModified": "2021-02-01T16:19:24.961Z"
 	},
 	"name": "Portal de la Investigaci\u00f3n UCR",
 	"organization": "orgunits:ou00604",

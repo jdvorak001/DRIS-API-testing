@@ -41,11 +41,16 @@
 	"acronym": "E-CRIS.MK",
 	"country": "vocabs:countries/country00754",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01750",
 	"crisPlatformNote": "",
+	"description": "E-CRIS.MK is the Macedonian National CRIS, managed at the National and University Library \"St. Klement of Ohrid\" in Skopje. The National E-CRIS system includes interconnected databases comprising data on research organisations, researchers and research projects. The register is essential for research monitoring and evaluation. The National E-CRIS system is linked to the national COBISS library information systems, thus allowing direct access to the bibliographies of researchers and institutions. Data entry into the E-CRIS.MK system is mandatory for research organisations and researchers participating in the publicly funded research projects. It is, however, desirable that the E-CRIS.MK system includes all research and development providers in Macedonia and thus contributes to their promotion and collaboration on the national and international level.",
+	"established": "",
 	"metadata": {
 		"created": "2017-06-26T08:43:08.798Z",
-		"lastModified": "2020-10-19T18:08:32.659Z"
+		"lastModified": "2021-02-01T16:19:12.180Z"
 	},
 	"name": "E-CRIS.MK",
 	"organization": "orgunits:ou00247",

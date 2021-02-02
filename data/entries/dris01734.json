@@ -41,11 +41,16 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00789",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01751",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2020-08-29T12:35:38.144Z",
-		"lastModified": "2020-10-19T18:09:42.828Z"
+		"lastModified": "2021-02-01T16:19:30.500Z"
 	},
 	"name": "Oman Research Portal",
 	"organization": "orgunits:ou00936",

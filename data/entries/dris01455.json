@@ -41,11 +41,16 @@
 	"acronym": "PPC UPNA",
 	"country": "vocabs:countries/country00831",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01765",
 	"crisPlatformNote": "",
+	"description": "El Portal de Producci\u00f3n Cient\u00edfica de la UPNA incluye proyectos de investigaci\u00f3n, publicaciones, congresos, tesis dirigidas, y otras actividades acad\u00e9micas y de investigaci\u00f3n de sus investigadores.",
+	"established": "",
 	"metadata": {
 		"created": "2020-02-16T20:10:46.648Z",
-		"lastModified": "2020-10-19T18:09:15.164Z"
+		"lastModified": "2021-02-01T16:19:29.027Z"
 	},
 	"name": "Portal de Producci\u00f3n Cient\u00edfica UPNA",
 	"organization": "orgunits:ou00668",

@@ -41,11 +41,16 @@
 	"acronym": "Pure Bangor",
 	"country": "vocabs:countries/country00857",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01764",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2019-03-08T17:07:44.551Z",
-		"lastModified": "2020-10-19T18:08:34.243Z"
+		"lastModified": "2021-02-01T16:19:12.622Z"
 	},
 	"name": "Pure@Bangor",
 	"organization": "orgunits:ou00264",

@@ -41,11 +41,16 @@
 	"acronym": "Forskning RUC",
 	"country": "vocabs:countries/country00683",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01764",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2020-04-14T10:14:50.777Z",
-		"lastModified": "2020-10-19T18:09:38.459Z"
+		"lastModified": "2021-02-01T16:19:22.046Z"
 	},
 	"name": "Roskilde University Research Portal",
 	"organization": "orgunits:ou00893",

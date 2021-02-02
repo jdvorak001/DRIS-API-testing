@@ -41,11 +41,16 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00683",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01764",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2017-05-24T16:08:42.550Z",
-		"lastModified": "2020-10-19T18:08:31.210Z"
+		"lastModified": "2021-02-01T16:19:11.791Z"
 	},
 	"name": "Research@CBS",
 	"organization": "orgunits:ou00243",

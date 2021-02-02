@@ -41,11 +41,16 @@
 	"acronym": "NIPER Scholars Profile",
 	"country": "vocabs:countries/country00725",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01759",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2019-11-05T10:28:39.862Z",
-		"lastModified": "2020-10-19T18:09:04.080Z"
+		"lastModified": "2021-02-01T16:19:46.412Z"
 	},
 	"name": "NIPER Mohali Scholars Profile",
 	"organization": "orgunits:ou00557",

@@ -41,11 +41,16 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00857",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01767",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2019-06-16T01:15:21.932Z",
-		"lastModified": "2020-10-19T18:08:56.231Z"
+		"lastModified": "2021-02-01T16:19:39.327Z"
 	},
 	"name": "UAL Elements",
 	"organization": "orgunits:ou00478",

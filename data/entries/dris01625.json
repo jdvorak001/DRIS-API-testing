@@ -41,11 +41,16 @@
 	"acronym": "UKE Research",
 	"country": "vocabs:countries/country00705",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01764",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2020-03-20T09:59:56.752Z",
-		"lastModified": "2020-10-19T18:09:32.198Z"
+		"lastModified": "2021-02-01T16:19:15.209Z"
 	},
 	"name": "University Medical Center Hamburg-Eppendorf Research Portal",
 	"organization": "orgunits:ou00832",

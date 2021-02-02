@@ -41,11 +41,16 @@
 	"acronym": "InvestigarPUJ",
 	"country": "vocabs:countries/country00671",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01763",
 	"crisPlatformNote": "",
+	"description": "La Investigaci\u00f3n en la Javeriana Cali busca dentro de sus prop\u00f3sitos cient\u00edficos aportar soluciones a las necesidades fundamentales de la realidad regional y nacional. Siendo una de las tres labores sustantivas de la universidad, tiene todo el respaldo acad\u00e9mico y administrativo de la comunidad universitaria",
+	"established": "",
 	"metadata": {
 		"created": "2017-05-26T21:19:08.714Z",
-		"lastModified": "2020-10-19T18:08:32.090Z"
+		"lastModified": "2021-02-01T16:19:11.977Z"
 	},
 	"name": "Sistema de Informaci\u00f3n para la Gesti\u00f3n de la Investigaci\u00f3n PUJ",
 	"organization": "orgunits:ou00220",

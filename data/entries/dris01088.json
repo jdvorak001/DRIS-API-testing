@@ -41,11 +41,16 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00732",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01760",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2019-03-08T17:12:31.754Z",
-		"lastModified": "2020-10-19T18:08:41.853Z"
+		"lastModified": "2021-02-01T16:19:49.186Z"
 	},
 	"name": "IRIS LUISS Libera Universit\u00e0 (Roma)",
 	"organization": "orgunits:ou00336",

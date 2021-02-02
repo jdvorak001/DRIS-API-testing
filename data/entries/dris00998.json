@@ -41,11 +41,16 @@
 	"acronym": "HARIS",
 	"country": "vocabs:countries/country00697",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01758",
 	"crisPlatformNote": "",
+	"description": "The database includes information about the School's researchers and their research output, such as projects, publications and activities from the year 2006 onwards. The researchers register their research output themselves and are responsible for the information. The library validate and correct the bibliographic information about the publications using for instance ISI Web of Science, ScienceDirect, Business Source Complete. Also bibliometrics, such as impact factors and Julkaisufoorumi-ranking points are added. The publications are classified using the \"Ministry of Education Publication Type Classification. Handbook 2010\"",
+	"established": "",
 	"metadata": {
 		"created": "2019-03-04T14:51:19.103Z",
-		"lastModified": "2020-10-19T18:08:33.659Z"
+		"lastModified": "2021-02-01T16:19:12.443Z"
 	},
 	"name": "Hanken Research Information System",
 	"organization": "orgunits:ou00062",

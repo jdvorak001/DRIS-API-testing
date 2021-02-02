@@ -41,11 +41,16 @@
 	"acronym": "NIPERRAEBARELI Scholar Profile",
 	"country": "vocabs:countries/country00725",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01759",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2020-04-13T20:50:21.681Z",
-		"lastModified": "2020-10-19T18:09:37.768Z"
+		"lastModified": "2021-02-01T16:19:21.569Z"
 	},
 	"name": "National Institute of Pharmaceutical Education and Research, Raebareli Scholar Profile",
 	"organization": "orgunits:ou00886",

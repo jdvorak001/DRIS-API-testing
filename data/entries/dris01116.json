@@ -41,11 +41,16 @@
 	"acronym": "KU.fordoc",
 	"country": "vocabs:countries/country00705",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01755",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2019-03-15T11:39:40.748Z",
-		"lastModified": "2020-10-19T18:08:44.396Z"
+		"lastModified": "2021-02-01T16:19:51.779Z"
 	},
 	"name": "Forschungsdatenbank der Katholischen Universit\u00e4t Eichst\u00e4tt-Ingolstadt",
 	"organization": "orgunits:ou00246",

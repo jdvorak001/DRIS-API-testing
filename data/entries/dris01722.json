@@ -41,11 +41,16 @@
 	"acronym": "GBPUAT Scholar Profile",
 	"country": "vocabs:countries/country00725",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01759",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2020-07-29T14:17:04.751Z",
-		"lastModified": "2020-10-19T18:09:41.627Z"
+		"lastModified": "2021-02-01T16:19:23.736Z"
 	},
 	"name": "G. B. Pant University of Agriculture and Technology Pantnagar Scholar Profile",
 	"organization": "orgunits:ou00925",

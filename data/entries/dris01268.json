@@ -41,11 +41,16 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00857",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01751",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2019-06-28T18:31:04.931Z",
-		"lastModified": "2020-10-19T18:08:57.673Z"
+		"lastModified": "2021-02-01T16:19:40.715Z"
 	},
 	"name": "Oxford Brookes Research Portal",
 	"organization": "orgunits:ou00493",

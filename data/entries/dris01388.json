@@ -41,11 +41,16 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00667",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01751",
 	"crisPlatformNote": "Converis + VIVO",
+	"description": "Scholars@UC is a VIVO portal sitting on top of a Converis CRIS that provides the data to the portal",
+	"established": "",
 	"metadata": {
 		"created": "2019-11-06T12:32:54.496Z",
-		"lastModified": "2020-10-19T18:09:09.155Z"
+		"lastModified": "2021-02-01T16:19:25.232Z"
 	},
 	"name": "Scholars@UC",
 	"organization": "orgunits:ou00608",

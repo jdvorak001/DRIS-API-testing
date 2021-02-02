@@ -41,11 +41,16 @@
 	"acronym": "PPC UPF",
 	"country": "vocabs:countries/country00831",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01765",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2019-03-15T11:39:46.505Z",
-		"lastModified": "2020-10-19T18:08:46.149Z"
+		"lastModified": "2021-02-01T16:19:53.629Z"
 	},
 	"name": "Portal de la Producci\u00f3 Cient\u00edfica UPF",
 	"organization": "orgunits:ou00398",

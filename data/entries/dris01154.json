@@ -41,11 +41,16 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00799",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01762",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2019-03-15T12:03:53.662Z",
-		"lastModified": "2020-10-19T18:08:47.900Z"
+		"lastModified": "2021-02-01T16:19:32.704Z"
 	},
 	"name": "Omega-PSIR UMK",
 	"organization": "orgunits:ou00393",

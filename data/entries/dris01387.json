@@ -41,11 +41,16 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00633",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01754",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2019-11-05T12:19:25.843Z",
-		"lastModified": "2020-10-19T18:09:09.069Z"
+		"lastModified": "2021-02-01T16:19:25.175Z"
 	},
 	"name": "Repositorio CEDES",
 	"organization": "orgunits:ou00607",

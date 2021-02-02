@@ -41,11 +41,16 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00705",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01751",
 	"crisPlatformNote": "Converis + VIVO",
+	"description": "The major goals of the CRIS at the University of M\u00fcnster are the University-wide harmonization and consolidation of the decentralized pools of research information, establishment of a central instrument for a consistent and continuous communication, documentation and reporting of the research activities and results as well as the strengthening of the perception and visibility of the university-wide research profile. To this end, the CRIS covers information about the researchers (CV), their affiliations to organizations of the University, their publications, projects, awards, supervised PhD-thesis and habilitation as well as patents. To get information about the context, in which research results are obtained, all this entities are related to each other",
+	"established": "",
 	"metadata": {
 		"created": "2019-03-15T11:39:40.146Z",
-		"lastModified": "2020-10-19T18:08:44.140Z"
+		"lastModified": "2021-02-01T16:19:51.481Z"
 	},
 	"name": "Converis WWU M\u00fcnster",
 	"organization": "orgunits:ou00361",

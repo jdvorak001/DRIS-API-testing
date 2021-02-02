@@ -38,14 +38,19 @@
 		}
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
-	"acronym": "CRISrael",
+	"acronym": "CRIS-IL",
 	"country": "vocabs:countries/country00731",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01764",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2020-01-31T13:20:52.644Z",
-		"lastModified": "2020-10-19T18:09:14.335Z"
+		"lastModified": "2021-02-01T16:20:01.500Z"
 	},
 	"name": "Israeli National CRIS",
 	"organization": "orgunits:ou00661",

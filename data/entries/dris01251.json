@@ -41,11 +41,16 @@
 	"acronym": "RIS Essex",
 	"country": "vocabs:countries/country00857",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01767",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2019-06-16T01:15:22.298Z",
-		"lastModified": "2020-10-19T18:08:56.316Z"
+		"lastModified": "2021-02-01T16:19:39.407Z"
 	},
 	"name": "Research Information System Essex",
 	"organization": "orgunits:ou00479",

@@ -41,11 +41,16 @@
 	"acronym": "NITW Scholars Profile",
 	"country": "vocabs:countries/country00725",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01759",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2019-08-18T15:30:16.464Z",
-		"lastModified": "2020-10-19T18:09:02.513Z"
+		"lastModified": "2021-02-01T16:19:44.833Z"
 	},
 	"name": "National Institute of Technology Warangal Scholars Profile",
 	"organization": "orgunits:ou00541",

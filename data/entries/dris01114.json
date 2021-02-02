@@ -41,11 +41,16 @@
 	"acronym": "FOX",
 	"country": "vocabs:countries/country00705",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01764",
 	"crisPlatformNote": "",
+	"description": "Pure serves as the central database for publications, projects and experts of the University, including repository functionality for the deposit of fulltexts. We use it both for reporting (performance indicators) and marketing (web display of selected information)",
+	"established": "",
 	"metadata": {
 		"created": "2019-03-15T11:39:40.360Z",
-		"lastModified": "2020-10-19T18:08:44.223Z"
+		"lastModified": "2021-02-01T16:19:51.592Z"
 	},
 	"name": "FOX",
 	"organization": "orgunits:ou00013",

@@ -41,11 +41,16 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00732",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01760",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2019-03-08T17:12:21.389Z",
-		"lastModified": "2020-10-19T18:08:37.222Z"
+		"lastModified": "2021-02-01T16:19:54.700Z"
 	},
 	"name": "IRIS Universit\u00e0 Telematica eCampus",
 	"organization": "orgunits:ou00286",

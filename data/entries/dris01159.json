@@ -3,9 +3,9 @@
 	"@id": "https://api.eurocris.org/dris/entries/dris01159",
 	"@included": [
 		{
-			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00392",
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00935",
 			"label": {
-				"en": "Under Construction                                              "
+				"en": "Operational"
 			}
 		},
 		{
@@ -38,18 +38,23 @@
 		}
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
-	"acronym": "",
+	"acronym": "CAU CRIS",
 	"country": "vocabs:countries/country00705",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01764",
 	"crisPlatformNote": "",
+	"description": "The Kiel University\u2019s Current Research Information System (CRIS) is a central database system. It combines, depicts and administrates Kiel University\u2019s multifaceted research activities. The CRIS facilitates registering, mapping and reuse  of publications, speeches, projects, memberships, awards and other research activities. More information on how the CRIS can be used and how it is operated can be accessed at <a href=\"https://www.fis.uni-kiel.de/en/about-cris\" target=\"_blank\">https://www.fis.uni-kiel.de/en/about-cris</a>",
+	"established": "",
 	"metadata": {
 		"created": "2019-03-17T01:32:11.977Z",
-		"lastModified": "2020-10-19T18:08:48.346Z"
+		"lastModified": "2021-02-01T16:20:09.470Z"
 	},
-	"name": "CAU CRIS",
+	"name": "Christian-Albrecht-University Kiel Research Information System",
 	"organization": "orgunits:ou00375",
 	"scope": "vocabs:scopes/classcerif00937",
-	"status": "vocabs:statuses/classcerif00392",
+	"status": "vocabs:statuses/classcerif00935",
 	"uri": "https://www.fis.uni-kiel.de"
 }

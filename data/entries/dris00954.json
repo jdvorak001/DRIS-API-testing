@@ -41,11 +41,16 @@
 	"acronym": "Ci\u00eancia-IUL",
 	"country": "vocabs:countries/country00800",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01758",
 	"crisPlatformNote": "",
+	"description": "Ci\u00eancia-IUL is the CRIS system of ISCTE-University Institute of Lisbon (ISCTE-IUL). It is used by the teaching and research staff as a way to maintain all the information regarding their scientific production up to date.  Users can fill their profiles in the system with information regarding publications, talks, awards, event organization, professional associations, external profile links and other external (outside of the scope of the University) professional and teaching activities.  Ci\u00eancia-IUL is integrated with the academic management system of the University, allowing it to automatically retrieve information regarding MSc and PhD supervisions, research interests, qualifications, teaching activities and academic management. It is also integrated with the University's evaluation system in order to provide the necessary information for the yearly evaluation process and with the Institutional Repository to provide data for properly archiving all publications (based on access policies).  Ci\u00eancia-IUL is also integrated with external systems like Thomson Reuters Web of Science and Scopus for automatically retrieving citation count for the publications, OrcID (and other nationally-based CRIS systems) for importing publications and SHERPA/ROMEO for automatically retrieving data on journals access policies",
+	"established": "",
 	"metadata": {
 		"created": "2017-05-18T12:51:45.061Z",
-		"lastModified": "2020-10-19T18:08:30.869Z"
+		"lastModified": "2021-02-01T16:19:11.611Z"
 	},
 	"name": "Ci\u00eancia-IUL",
 	"organization": "orgunits:ou00240",

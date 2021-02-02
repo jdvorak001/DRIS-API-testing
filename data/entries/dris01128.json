@@ -41,11 +41,16 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00799",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01762",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2019-03-15T11:39:44.621Z",
-		"lastModified": "2020-10-19T18:08:45.503Z"
+		"lastModified": "2021-02-01T16:19:52.930Z"
 	},
 	"name": "PB Research Base",
 	"organization": "orgunits:ou00387",

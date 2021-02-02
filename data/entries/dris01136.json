@@ -41,11 +41,16 @@
 	"acronym": "GREC UB",
 	"country": "vocabs:countries/country00831",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01758",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2019-03-15T11:39:46.713Z",
-		"lastModified": "2020-10-19T18:08:46.236Z"
+		"lastModified": "2021-02-01T16:19:53.726Z"
 	},
 	"name": "GREC UB (Gesti\u00f3 de la Recerca)",
 	"organization": "orgunits:ou00399",

@@ -41,11 +41,16 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00857",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01764",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2019-03-15T11:39:41.213Z",
-		"lastModified": "2020-10-19T18:08:44.588Z"
+		"lastModified": "2021-02-01T16:19:51.970Z"
 	},
 	"name": "Pure Northumbria University",
 	"organization": "orgunits:ou00491",

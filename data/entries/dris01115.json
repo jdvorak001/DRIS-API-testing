@@ -41,11 +41,16 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00705",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01751",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2019-03-15T11:39:40.543Z",
-		"lastModified": "2020-10-19T18:08:44.307Z"
+		"lastModified": "2021-02-01T16:19:51.686Z"
 	},
 	"name": "Converis Uni Kassel",
 	"organization": "orgunits:ou00363",

@@ -41,11 +41,16 @@
 	"acronym": "PondiUniv Scholar Profile",
 	"country": "vocabs:countries/country00725",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01759",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2019-08-16T19:03:32.093Z",
-		"lastModified": "2020-10-19T18:08:59.305Z"
+		"lastModified": "2021-02-01T16:19:41.900Z"
 	},
 	"name": "Central University of Pondicherry Scholars Profile",
 	"organization": "orgunits:ou00507",

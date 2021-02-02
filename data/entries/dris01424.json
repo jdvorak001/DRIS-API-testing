@@ -41,11 +41,16 @@
 	"acronym": "IS VaVaI",
 	"country": "vocabs:countries/country00682",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01758",
 	"crisPlatformNote": "In-house-built solution MS SQL",
+	"description": "IS VaVaI is an information system of the Czech public administration for the collection, processing, publication and utilization of information about the research and development supported by public budgets. The aim, content, rights, responsibilities and the way the data is provided into the Information System, the integration of the data into the Information System database, the processing of the data and the way data is made public are determined by the R&D Act (Code number 130/2002) together with the regulation of the Czech government (Code number 397/2009) about the R&D Information System, by some other rules and by the Standard operating procedure manual of the R&D Information System.",
+	"established": "",
 	"metadata": {
 		"created": "2020-01-30T12:13:05.644Z",
-		"lastModified": "2020-10-19T18:09:12.146Z"
+		"lastModified": "2021-02-01T16:20:09.585Z"
 	},
 	"name": "Research, Development and Innovation Information System of the Czech Republic",
 	"organization": "orgunits:ou00089",

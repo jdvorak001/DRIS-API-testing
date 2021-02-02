@@ -41,11 +41,16 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00838",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01758",
 	"crisPlatformNote": "",
+	"description": "The database P3 contains data on research projects approved by the SNSF",
+	"established": "",
 	"metadata": {
 		"created": "2019-03-17T12:44:19.366Z",
-		"lastModified": "2020-10-19T18:08:48.438Z"
+		"lastModified": "2021-02-01T16:19:33.031Z"
 	},
 	"name": "P3 SNSF",
 	"organization": "orgunits:ou00108",

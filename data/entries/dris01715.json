@@ -41,11 +41,16 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00732",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01769",
 	"crisPlatformNote": "",
+	"description": "VIVO portal running on top of the institutional IRIS CRIS at Universit\u00e0 degli Studi di Brescia, DRIS entry 1049 at https://dspacecris.eurocris.org/cris/dris/dris01049",
+	"established": "",
 	"metadata": {
 		"created": "2020-06-13T13:27:54.722Z",
-		"lastModified": "2020-10-19T18:09:41.155Z"
+		"lastModified": "2021-02-01T16:19:23.446Z"
 	},
 	"name": "Expertise UNIBS",
 	"organization": "orgunits:ou00920",

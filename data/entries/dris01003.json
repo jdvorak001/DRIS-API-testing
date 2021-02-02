@@ -41,11 +41,16 @@
 	"acronym": "Pure Aberystwyth",
 	"country": "vocabs:countries/country00857",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01764",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2019-03-08T17:07:43.708Z",
-		"lastModified": "2020-10-19T18:08:33.998Z"
+		"lastModified": "2021-02-01T16:19:12.549Z"
 	},
 	"name": "Pure Aberystwyth University",
 	"organization": "orgunits:ou00261",

@@ -41,11 +41,16 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00857",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01757",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2019-06-28T19:03:33.134Z",
-		"lastModified": "2020-10-19T18:08:57.844Z"
+		"lastModified": "2021-02-01T16:19:40.896Z"
 	},
 	"name": "Warwick Ideate",
 	"organization": "orgunits:ou00495",

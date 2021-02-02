@@ -41,11 +41,16 @@
 	"acronym": "SK CRIS",
 	"country": "vocabs:countries/country00824",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01758",
 	"crisPlatformNote": "In-house solution MS SQL+ Liferay",
+	"description": "As a part of the Central Information Portal for Research, Development and Innovation (CIP RDI), the Slovak Current Research Information System (SK CRIS) has the status of Information system of public administration, defined by the Act 275/2006 on information systems of public administration. The Slovak Centre of Scientific and Technical Information (SCSTI) is responsible for operating, maintaining and providing technical support to this system on behalf of the Ministry of Education, Science, Research and Sport of the Slovak Republic.",
+	"established": "",
 	"metadata": {
 		"created": "2015-05-10T00:44:52.662Z",
-		"lastModified": "2020-10-19T18:08:26.945Z"
+		"lastModified": "2021-02-01T16:19:10.759Z"
 	},
 	"name": "Slovak Current Research Information System",
 	"organization": "orgunits:ou00102",

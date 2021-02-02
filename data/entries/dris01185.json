@@ -41,11 +41,16 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00745",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01758",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2019-03-19T16:02:46.079Z",
-		"lastModified": "2020-10-19T18:08:50.888Z"
+		"lastModified": "2021-02-01T16:19:34.950Z"
 	},
 	"name": "Science Latvia",
 	"organization": "orgunits:ou00428",

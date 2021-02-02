@@ -26,26 +26,31 @@
 			"label": "The University of Hong Kong"
 		},
 		{
-			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00722",
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00668",
 			"iso_3166_codes": {
-				"Alpha2": "HK",
-				"Alpha3": "HKG",
-				"Numeric": "344"
+				"Alpha2": "CN",
+				"Alpha3": "CHN",
+				"Numeric": "156"
 			},
 			"label": {
-				"en": "Hong Kong"
+				"en": "China"
 			}
 		}
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "",
-	"country": "vocabs:countries/country00722",
+	"country": "vocabs:countries/country00668",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01754",
 	"crisPlatformNote": "",
+	"description": "Hosted in DSpace-CRIS, enabling discovery and re-use of data describing HKU publications, research projects, and researchers",
+	"established": "",
 	"metadata": {
 		"created": "2015-05-10T00:44:53.471Z",
-		"lastModified": "2020-10-19T18:08:29.820Z"
+		"lastModified": "2021-02-01T16:20:03.240Z"
 	},
 	"name": "The HKU Scholars Hub",
 	"organization": "orgunits:ou00189",

@@ -18,11 +18,16 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00732",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "",
 	"crisPlatformNote": "",
+	"description": "DSpace-CRIS consists of a data model describing objects of interest to Research and Development and a set of tools to manage the data. Standard DSpace used to deal with publications and data sets, whereas DSpace-CRIS involves other CRIS entities: Researcher Pages, Projects, Organization Units and Second Level Dynamic Objects (single entities specialized by a profile, such as Journal, Prize, Event etc; because any profile can define its own set of properties and nested objects)",
+	"established": "",
 	"metadata": {
 		"created": "2015-05-10T00:44:53.768Z",
-		"lastModified": "2020-10-19T18:08:30.654Z"
+		"lastModified": "2021-02-01T16:19:11.578Z"
 	},
 	"name": "DSpace-CRIS",
 	"organization": "",

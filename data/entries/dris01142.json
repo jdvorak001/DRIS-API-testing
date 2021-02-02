@@ -41,11 +41,16 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00831",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01768",
 	"crisPlatformNote": "UXXI-INV + VIVO",
+	"description": "The institutional research portal at Carlos III University Madrid has a VIVO implementation on top of an underlying Universitas XXI Investigaci\u00f3n CRIS, where the research information data is fed from into the VIVO portal",
+	"established": "",
 	"metadata": {
 		"created": "2019-03-15T11:39:47.776Z",
-		"lastModified": "2020-10-19T18:08:46.751Z"
+		"lastModified": "2021-02-01T16:19:31.824Z"
 	},
 	"name": "UC3M Research Portal",
 	"organization": "orgunits:ou00405",

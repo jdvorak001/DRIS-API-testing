@@ -41,11 +41,16 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00657",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01758",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2017-05-24T16:23:01.771Z",
-		"lastModified": "2020-10-19T18:08:31.378Z"
+		"lastModified": "2021-02-01T16:19:11.838Z"
 	},
 	"name": "Sofia University Projects",
 	"organization": "orgunits:ou00242",

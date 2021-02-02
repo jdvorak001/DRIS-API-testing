@@ -41,11 +41,16 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00636",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01764",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2020-04-11T10:50:05.317Z",
-		"lastModified": "2020-10-19T18:09:35.111Z"
+		"lastModified": "2021-02-01T16:19:16.247Z"
 	},
 	"name": "Pure QUT",
 	"organization": "orgunits:ou00859",

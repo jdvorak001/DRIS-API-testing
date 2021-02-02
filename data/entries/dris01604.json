@@ -41,11 +41,16 @@
 	"acronym": "E-CRIS.CG",
 	"country": "vocabs:countries/country00771",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01750",
 	"crisPlatformNote": "",
+	"description": "The E-CRIS.CG system includes basic information on more than 500 international projects (source: CORDIS, ERASMUS, COST). You can perform basic search and print the list of international projects of research organisations (where it was possible to establish link)",
+	"established": "",
 	"metadata": {
 		"created": "2020-02-25T20:31:36.687Z",
-		"lastModified": "2020-10-19T18:09:30.139Z"
+		"lastModified": "2021-02-01T16:19:14.501Z"
 	},
 	"name": "Current Research Information System in Montenegro",
 	"organization": "orgunits:ou00812",

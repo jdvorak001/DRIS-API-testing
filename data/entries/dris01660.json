@@ -41,11 +41,16 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00652",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01764",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2020-04-13T20:33:36.853Z",
-		"lastModified": "2020-10-19T18:09:35.740Z"
+		"lastModified": "2021-02-01T16:19:16.509Z"
 	},
 	"name": "BIUST Research Portal",
 	"organization": "orgunits:ou00866",

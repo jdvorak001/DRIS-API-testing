@@ -41,11 +41,16 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00831",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01768",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2019-03-15T11:39:47.933Z",
-		"lastModified": "2020-10-19T18:08:46.882Z"
+		"lastModified": "2021-02-01T16:19:31.890Z"
 	},
 	"name": "UAM Research Portal",
 	"organization": "orgunits:ou00406",

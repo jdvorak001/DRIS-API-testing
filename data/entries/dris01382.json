@@ -41,11 +41,16 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00671",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01764",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2019-11-05T11:04:18.616Z",
-		"lastModified": "2020-10-19T18:09:08.616Z"
+		"lastModified": "2021-02-01T16:19:24.847Z"
 	},
 	"name": "Sistema de Investigaci\u00f3n e Innovaci\u00f3n de la Universidad de Medell\u00edn",
 	"organization": "orgunits:ou00602",

@@ -41,11 +41,16 @@
 	"acronym": "BMSIT Scholar Profile",
 	"country": "vocabs:countries/country00725",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01759",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2020-02-25T19:57:51.924Z",
-		"lastModified": "2020-10-19T18:09:29.184Z"
+		"lastModified": "2021-02-01T16:19:14.189Z"
 	},
 	"name": "BMS Institute of Technology and Management",
 	"organization": "orgunits:ou00803",

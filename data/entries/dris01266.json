@@ -41,11 +41,16 @@
 	"acronym": "Nottigham RIS",
 	"country": "vocabs:countries/country00857",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01770",
 	"crisPlatformNote": "",
+	"description": "Research Information System (RIS) is a University wide service available to researchers across our UK, Malaysia and China campuses. The aim of RIS is to replace the numerous, existing research management systems with a single integrated system. RIS will improve the experience of applying for and managing grants and outputs.",
+	"established": "",
 	"metadata": {
 		"created": "2019-06-28T18:17:23.789Z",
-		"lastModified": "2020-10-19T18:08:57.509Z"
+		"lastModified": "2021-02-01T16:19:40.538Z"
 	},
 	"name": "University of Nottingham Research Information System",
 	"organization": "orgunits:ou00145",

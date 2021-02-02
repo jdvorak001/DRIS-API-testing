@@ -41,11 +41,16 @@
 	"acronym": "IIESTS Scholar Profile",
 	"country": "vocabs:countries/country00725",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01759",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2019-11-05T10:28:44.207Z",
-		"lastModified": "2020-10-19T18:09:05.487Z"
+		"lastModified": "2021-02-01T16:19:47.988Z"
 	},
 	"name": "Indian Institute of Engineering Science and Technology Shibpur Scholars Profile",
 	"organization": "orgunits:ou00573",

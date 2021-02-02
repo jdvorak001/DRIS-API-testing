@@ -29,11 +29,16 @@
 	"acronym": "Socionet",
 	"country": "vocabs:countries/country00805",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01758",
 	"crisPlatformNote": "",
+	"description": "Socionet is a CRIS driven by a community of Russian speaking scientists. It provides: (a) an information hub as aggregation service for about 4.5 collections over many scientific disciplines; (b) research data and information space (DIS); (c) personal online workbench for scientist to deposite materials, create collections, semantic linkages, etc.; (d) monitoring, notification and scientometric services.",
+	"established": "",
 	"metadata": {
 		"created": "2015-05-10T00:44:53.154Z",
-		"lastModified": "2020-10-19T18:08:29.535Z"
+		"lastModified": "2021-02-01T16:19:11.209Z"
 	},
 	"name": "Socionet",
 	"organization": "orgunits:ou00036",

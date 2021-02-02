@@ -41,11 +41,16 @@
 	"acronym": "PSGTECH Scholars Profile",
 	"country": "vocabs:countries/country00725",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01759",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2019-12-13T12:12:23.761Z",
-		"lastModified": "2020-10-19T18:09:10.652Z"
+		"lastModified": "2021-02-01T16:19:26.172Z"
 	},
 	"name": "PSG College of Technology Scholars Profile",
 	"organization": "orgunits:ou00624",

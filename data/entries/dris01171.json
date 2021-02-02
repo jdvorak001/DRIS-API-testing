@@ -30,11 +30,16 @@
 	"acronym": "HEFIS",
 	"country": "vocabs:countries/country00705",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "",
 	"crisPlatformNote": "",
+	"description": "Collaborative effort of 11 HEI in the federal state of Hesse: Justus-Liebig-Universit\u00e4t Gie\u00dfen, Philipps-Universit\u00e4t Marburg, Universit\u00e4t Kassel, Johann Wolfgang Goethe-Universit\u00e4t Frankfurt am Main, Frankfurt University of Applied Sciences, Hochschule Fulda, Hochschule Geisenheim, Hochschule Darmstadt, Technische Hochschule Mittelhessen, Technische Universit\u00e4t Darmstadt, Hochschule RheinMain",
+	"established": "",
 	"metadata": {
 		"created": "2019-03-18T20:52:26.674Z",
-		"lastModified": "2020-10-19T18:08:49.451Z"
+		"lastModified": "2021-02-01T16:19:33.833Z"
 	},
 	"name": "HEFIS-Verbund",
 	"organization": "",

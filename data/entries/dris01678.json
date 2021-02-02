@@ -41,11 +41,16 @@
 	"acronym": "CFTRI Scholar Profile",
 	"country": "vocabs:countries/country00725",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01759",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2020-04-13T20:50:21.215Z",
-		"lastModified": "2020-10-19T18:09:37.468Z"
+		"lastModified": "2021-02-01T16:19:21.425Z"
 	},
 	"name": "Central Food Technological Research Institute Scholar Profile",
 	"organization": "orgunits:ou00883",

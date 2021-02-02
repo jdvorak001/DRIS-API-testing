@@ -41,11 +41,16 @@
 	"acronym": "UNIGOA Scholar Profile",
 	"country": "vocabs:countries/country00725",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01759",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2020-10-05T11:32:44.857Z",
-		"lastModified": "2020-10-19T18:09:43.594Z"
+		"lastModified": "2021-02-01T16:19:31.071Z"
 	},
 	"name": "Goa University Scholar Profile",
 	"organization": "orgunits:ou00942",

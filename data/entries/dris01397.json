@@ -41,11 +41,16 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00705",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01769",
 	"crisPlatformNote": "",
+	"description": "The Hochschule Mittweida research portal features a VIVO implementation on top of an in-house-built Research Information System (FIS) at https://www.forschung.hs-mittweida.de/forschungsinformationssystem.html",
+	"established": "",
 	"metadata": {
 		"created": "2019-12-06T09:44:40.300Z",
-		"lastModified": "2020-10-19T18:09:09.834Z"
+		"lastModified": "2021-02-01T16:19:25.637Z"
 	},
 	"name": "VIVO@HSMW",
 	"organization": "orgunits:ou00615",

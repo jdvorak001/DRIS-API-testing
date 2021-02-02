@@ -41,11 +41,16 @@
 	"acronym": "LUPIN",
 	"country": "vocabs:countries/country00857",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01767",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2019-06-16T01:15:23.568Z",
-		"lastModified": "2020-10-19T18:08:56.749Z"
+		"lastModified": "2021-02-01T16:19:39.684Z"
 	},
 	"name": "Loughborough University Publications Information",
 	"organization": "orgunits:ou00484",

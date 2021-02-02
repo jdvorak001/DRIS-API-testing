@@ -41,11 +41,16 @@
 	"acronym": "ZDAS",
 	"country": "vocabs:countries/country00745",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01758",
 	"crisPlatformNote": "",
+	"description": "The Publications module provides information about publications by RTU researchers and doctoral students. Information about scientific monographs, education methodology monographs, publications in scientific journals, publication in conference proceedings and doctoral theses comprise abstracts of publications by RTU researchers, academic personnel and doctoral students. The Patents module provides information about patents by RTU researchers. The Scientific CV module integrates information about publication, patents and projects and generates scientific CV of RTU researchers.",
+	"established": "",
 	"metadata": {
 		"created": "2015-05-10T00:44:53.038Z",
-		"lastModified": "2020-10-19T18:08:29.120Z"
+		"lastModified": "2021-02-01T16:19:11.110Z"
 	},
 	"name": "Research Information System of Riga Technical University",
 	"organization": "orgunits:ou00096",

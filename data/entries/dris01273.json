@@ -41,11 +41,16 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00817",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01764",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2019-07-25T19:41:58.517Z",
-		"lastModified": "2020-10-19T18:08:58.134Z"
+		"lastModified": "2021-02-01T16:19:41.157Z"
 	},
 	"name": "KAUST Research Portal",
 	"organization": "orgunits:ou00498",

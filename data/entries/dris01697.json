@@ -41,11 +41,16 @@
 	"acronym": "NIPERAHM  Scholar Profile",
 	"country": "vocabs:countries/country00725",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01759",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2020-05-10T17:43:18.330Z",
-		"lastModified": "2020-10-19T18:09:39.406Z"
+		"lastModified": "2021-02-01T16:19:22.484Z"
 	},
 	"name": "National Institute of Pharmaceutical Education and Research Ahmedabad Scholar Profile",
 	"organization": "orgunits:ou00902",

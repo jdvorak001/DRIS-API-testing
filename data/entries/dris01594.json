@@ -41,11 +41,16 @@
 	"acronym": "YSPUNIVERSITY Scholar Profile",
 	"country": "vocabs:countries/country00725",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01759",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2020-02-25T19:57:51.370Z",
-		"lastModified": "2020-10-19T18:09:29.081Z"
+		"lastModified": "2021-02-01T16:19:14.156Z"
 	},
 	"name": "Dr. Y. S. Parmar University of Horticulture & Forestry",
 	"organization": "orgunits:ou00802",

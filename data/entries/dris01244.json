@@ -41,11 +41,16 @@
 	"acronym": "Pure CONACYT",
 	"country": "vocabs:countries/country00766",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01764",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2019-06-13T16:46:26.927Z",
-		"lastModified": "2020-10-19T18:08:55.643Z"
+		"lastModified": "2021-02-01T16:19:38.812Z"
 	},
 	"name": "Pure CONACYT",
 	"organization": "orgunits:ou00472",

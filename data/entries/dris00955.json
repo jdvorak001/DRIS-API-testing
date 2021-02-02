@@ -41,11 +41,16 @@
 	"acronym": "FRIS",
 	"country": "vocabs:countries/country00644",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01758",
 	"crisPlatformNote": "In-house-built (Java/Webservices)",
+	"description": "FRIS is the CRIS system for the Flanders region. FRIS aggregates all the publicly funded research in Flanders. 5 Flemish universities and 9 research institutions have already linked their systems to FRIS. FRIS aims to deepen and share expertise in Flanders so it can lead to new insights and create an innovation-driven economy. See the FRIS brochure at https://www.ewi-vlaanderen.be/sites/default/files/flanders_research_information_space_-_a_wealth_of_research_information.pdf for more information",
+	"established": "",
 	"metadata": {
 		"created": "2017-05-18T13:04:12.187Z",
-		"lastModified": "2020-10-19T18:08:30.965Z"
+		"lastModified": "2021-02-01T16:19:11.647Z"
 	},
 	"name": "Flanders Research Information Space",
 	"organization": "orgunits:ou00027",

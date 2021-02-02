@@ -41,11 +41,16 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00683",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01764",
 	"crisPlatformNote": "",
+	"description": "The Royal Danish Academy of Fine Arts, Schools of Architecture, Design and Conservation (KADK) All scholars conducting research at the three institutions register their research publications, activities and projects on this portal",
+	"established": "",
 	"metadata": {
 		"created": "2020-04-14T10:14:50.934Z",
-		"lastModified": "2020-10-19T18:09:38.559Z"
+		"lastModified": "2021-02-01T16:19:22.094Z"
 	},
 	"name": "Scientific and Artistic Research Portal in architecture, design and conservation",
 	"organization": "orgunits:ou00894",

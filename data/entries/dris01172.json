@@ -41,11 +41,16 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00705",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01758",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2019-03-18T20:59:46.039Z",
-		"lastModified": "2020-10-19T18:08:49.531Z"
+		"lastModified": "2021-02-01T16:19:33.923Z"
 	},
 	"name": "FIS HSZG",
 	"organization": "orgunits:ou00373",

@@ -41,11 +41,16 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00779",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01764",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2020-04-11T11:12:01.682Z",
-		"lastModified": "2020-10-19T18:09:35.476Z"
+		"lastModified": "2021-02-01T16:19:16.393Z"
 	},
 	"name": "Research@WUR",
 	"organization": "orgunits:ou00863",

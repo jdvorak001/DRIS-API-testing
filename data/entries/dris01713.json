@@ -41,11 +41,16 @@
 	"acronym": "RGIPT Scholar Profile",
 	"country": "vocabs:countries/country00725",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01759",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2020-06-04T09:48:49.894Z",
-		"lastModified": "2020-10-19T18:09:40.966Z"
+		"lastModified": "2021-02-01T16:19:23.343Z"
 	},
 	"name": "Rajiv Gandhi Institute of Petroleum Technology, Amethi Scholar Profile",
 	"organization": "orgunits:ou00918",

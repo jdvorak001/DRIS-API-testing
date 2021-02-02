@@ -41,11 +41,16 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00788",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01752",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2020-02-21T21:13:02.224Z",
-		"lastModified": "2020-10-19T18:09:17.678Z"
+		"lastModified": "2021-02-01T16:19:17.178Z"
 	},
 	"name": "CRIStin S\u00e1mi University of Applied Sciences",
 	"organization": "orgunits:ou00690",

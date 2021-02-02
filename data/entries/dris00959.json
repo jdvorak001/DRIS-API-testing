@@ -41,11 +41,16 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00644",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01758",
 	"crisPlatformNote": "",
+	"description": "Gismo is the institutional research information management system at the University of Ghent, https://www.ugent.be/intranet/en/research/organisation/gismo.htm. It's currently an internal-use-only platform, but its content is being harvested by the Flemish Government FRIS and may be searched there",
+	"established": "",
 	"metadata": {
 		"created": "2017-05-24T16:14:52.239Z",
-		"lastModified": "2020-10-19T18:08:31.289Z"
+		"lastModified": "2021-02-01T16:19:11.812Z"
 	},
 	"name": "GISMO",
 	"organization": "orgunits:ou00060",

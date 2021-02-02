@@ -41,11 +41,16 @@
 	"acronym": "Worktribe Napier",
 	"country": "vocabs:countries/country00857",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01770",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2019-03-08T17:07:44.023Z",
-		"lastModified": "2020-10-19T18:08:34.080Z"
+		"lastModified": "2021-02-01T16:19:12.574Z"
 	},
 	"name": "Worktribe Edinburgh Napier University",
 	"organization": "orgunits:ou00262",

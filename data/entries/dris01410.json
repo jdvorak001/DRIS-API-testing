@@ -41,11 +41,16 @@
 	"acronym": "IIITD Scholars Profile",
 	"country": "vocabs:countries/country00725",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01759",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2019-12-13T12:12:24.654Z",
-		"lastModified": "2020-10-19T18:09:11.015Z"
+		"lastModified": "2021-02-01T16:19:26.438Z"
 	},
 	"name": "IIIT (Indraprastha Institute of Information Technology) Delhi Scholars Profile",
 	"organization": "orgunits:ou00628",

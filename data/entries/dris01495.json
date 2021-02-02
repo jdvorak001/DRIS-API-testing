@@ -41,11 +41,16 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00788",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01752",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2020-02-24T16:00:59.353Z",
-		"lastModified": "2020-10-19T18:09:19.206Z"
+		"lastModified": "2021-02-01T16:19:17.713Z"
 	},
 	"name": "CRIStin Norwegian Veterinary Institute",
 	"organization": "orgunits:ou00703",

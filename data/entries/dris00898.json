@@ -41,11 +41,16 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00831",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01754",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2015-05-10T00:44:52.836Z",
-		"lastModified": "2020-10-19T18:08:28.280Z"
+		"lastModified": "2021-02-01T16:19:10.923Z"
 	},
 	"name": "Acceda",
 	"organization": "orgunits:ou00438",

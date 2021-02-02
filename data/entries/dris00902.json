@@ -41,11 +41,16 @@
 	"acronym": "METIS Radboud",
 	"country": "vocabs:countries/country00779",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01761",
 	"crisPlatformNote": "",
+	"description": "METIS is the CRIS of Radboud University It was implemented already in 1994 and as such is one of the oldest fully fledged CRIS's in Europe.",
+	"established": "",
 	"metadata": {
 		"created": "2015-05-10T00:44:52.973Z",
-		"lastModified": "2020-10-19T18:08:28.835Z"
+		"lastModified": "2021-02-02T11:43:22.730Z"
 	},
 	"name": "METIS Research Information System",
 	"organization": "orgunits:ou00093",

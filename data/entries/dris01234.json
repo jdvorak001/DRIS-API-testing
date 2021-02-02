@@ -41,11 +41,16 @@
 	"acronym": "Pure OSU",
 	"country": "vocabs:countries/country00858",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01764",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2019-06-13T16:46:24.680Z",
-		"lastModified": "2020-10-19T18:08:54.767Z"
+		"lastModified": "2021-02-01T16:19:38.033Z"
 	},
 	"name": "Pure Oklahoma State University",
 	"organization": "orgunits:ou00463",

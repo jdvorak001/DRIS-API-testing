@@ -29,11 +29,16 @@
 	"acronym": "SIGARRA",
 	"country": "vocabs:countries/country00800",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01758",
 	"crisPlatformNote": "",
+	"description": "U.PORTO,including all its Organic Units (14) and organizations, benefits from the use of a quality academic information system that promotes the efficiency and effectiveness of its activities, at various levels of administration and management, teaching, research and development and university cooperation activity. It is an integrated information system, facilitating access to information relevant to the institution, of a pedagogical, scientific, technical and administrative nature, and to streamline internal cooperation and cooperation with the academic and business communities outside the U.PORTO. The system provides comprehensive information on the academic records of students, course curricula, schedules and availability of classrooms, the location of people, authors of publications, ongoing processes, etc. It also provides answers to external browsing on the courses offered and the activities offered by the institution. Being the base platform for the management of information at the U.PORTO, the SIGARRA management system interacts with other applications and systems within the University, such as library, learning, financial and attendance management systems, access control in facilities, among others.",
+	"established": "",
 	"metadata": {
 		"created": "2015-05-10T00:44:53.118Z",
-		"lastModified": "2020-10-19T18:08:29.429Z"
+		"lastModified": "2021-02-01T16:19:11.173Z"
 	},
 	"name": "Sistema de Informa\u00e7\u00e3o para a Gest\u00e3o Agregada dos Recursos e dos Registos Acad\u00e9micos",
 	"organization": "orgunits:ou00129",

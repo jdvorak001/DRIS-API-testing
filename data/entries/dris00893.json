@@ -41,11 +41,16 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00779",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01758",
 	"crisPlatformNote": "",
+	"description": "NARCIS provides access to scholarly information in the Netherlands including descriptions of research projects, researchers and research institutes (CRIS), as well as (open access) publications from the repositories of all the Dutch universities, the Royal Netherlands Academy of Art and Sciences (KNAW), the National Research Foundation (NWO), Universities of Applied Sciences (HBO)  and a large number of research institutes, and datasets from many data archives (by harvesting).",
+	"established": "",
 	"metadata": {
 		"created": "2015-05-10T00:44:52.614Z",
-		"lastModified": "2020-10-19T18:08:26.772Z"
+		"lastModified": "2021-02-02T11:48:16.387Z"
 	},
 	"name": "NARCIS",
 	"organization": "orgunits:ou00045",

@@ -41,11 +41,16 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00788",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01752",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2020-02-19T21:06:22.517Z",
-		"lastModified": "2020-10-19T18:09:16.159Z"
+		"lastModified": "2021-02-01T16:19:29.638Z"
 	},
 	"name": "CRIStin Norwegian School of Economics",
 	"organization": "orgunits:ou00675",

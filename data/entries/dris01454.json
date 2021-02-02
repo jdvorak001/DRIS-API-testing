@@ -41,11 +41,16 @@
 	"acronym": "PPC Uva",
 	"country": "vocabs:countries/country00831",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01765",
 	"crisPlatformNote": "",
+	"description": "El portal de investigaci\u00f3n de la Universidad de Valladolid contiene informaci\u00f3n sobre publicaciones, proyectos de investigaci\u00f3n, congresos, tesis, y otras actividades incluidas en el curriculum vitae de nuestro personal docente e investigador",
+	"established": "",
 	"metadata": {
 		"created": "2020-02-16T19:42:40.893Z",
-		"lastModified": "2020-10-19T18:09:15.025Z"
+		"lastModified": "2021-02-01T16:19:28.967Z"
 	},
 	"name": "Producci\u00f3n Investigadora UVa",
 	"organization": "orgunits:ou00667",

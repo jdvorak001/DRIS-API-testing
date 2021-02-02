@@ -41,11 +41,16 @@
 	"acronym": "SoleCRIS Tampere",
 	"country": "vocabs:countries/country00697",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01766",
 	"crisPlatformNote": "",
+	"description": "SoleCRIS is the Current Research Information System of the University of Tampere. The database introduces the University's researchers and their publications, areas of expertise, teaching qualifications, visits, artistic activities",
+	"established": "",
 	"metadata": {
 		"created": "2019-03-04T14:51:18.292Z",
-		"lastModified": "2020-10-19T18:08:33.330Z"
+		"lastModified": "2021-02-01T16:19:12.341Z"
 	},
 	"name": "University of Tampere SoleCRIS",
 	"organization": "orgunits:ou00153",

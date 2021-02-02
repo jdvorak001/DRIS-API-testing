@@ -41,15 +41,20 @@
 	"acronym": "POL-on",
 	"country": "vocabs:countries/country00799",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01758",
 	"crisPlatformNote": "",
+	"description": "National-level Polish Current Research Information System operated by the Ministry for Science and Higher Education. Developed and implemented by the Polish National Information Processing Institute (OPI) in Warsaw. More information at http://hdl.handle.net/11366/716",
+	"established": "",
 	"metadata": {
 		"created": "2019-03-16T22:26:20.716Z",
-		"lastModified": "2020-10-19T18:08:48.157Z"
+		"lastModified": "2021-02-01T16:20:04.438Z"
 	},
 	"name": "POL-on",
 	"organization": "orgunits:ou00415",
 	"scope": "vocabs:scopes/classcerif00939",
 	"status": "vocabs:statuses/classcerif00392",
-	"uri": "https://polon.nauka.gov.pl/ \u00a0"
+	"uri": "https://polon.nauka.gov.pl/"
 }

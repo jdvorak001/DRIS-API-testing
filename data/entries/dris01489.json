@@ -41,11 +41,16 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00705",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01758",
 	"crisPlatformNote": "",
+	"description": "The portal records the locations and professorships for the so-called small subjects at German universities. The comprehensive surveys begin in 1997 and are now updated annually. The basis for the mapping is the working definition \"small subject\". The portal database contains information on the institutional affiliation of small subjects at the respective universities as well as the names and denominations of the job holders of the respective subject",
+	"established": "",
 	"metadata": {
 		"created": "2020-02-23T10:37:09.266Z",
-		"lastModified": "2020-10-19T18:09:18.590Z"
+		"lastModified": "2021-02-01T16:19:17.480Z"
 	},
 	"name": "Portal Kleine F\u00e4cher (PKF) - Portal for Small Disciplines",
 	"organization": "orgunits:ou00698",

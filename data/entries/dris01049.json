@@ -41,11 +41,16 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00732",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01760",
 	"crisPlatformNote": "",
+	"description": "Institutional Research Information System at Universit\u00e0 degli Studi di Brescia. A VIVO portal runs on top of IRIS as a means of displaying the research information kept in the system, DRIS entry 1715 at https://dspacecris.eurocris.org/cris/dris/dris01715",
+	"established": "",
 	"metadata": {
 		"created": "2019-03-08T17:12:23.892Z",
-		"lastModified": "2020-10-19T18:08:38.239Z"
+		"lastModified": "2021-02-01T16:19:55.778Z"
 	},
 	"name": "IRIS Universit\u00e0 degli Studi di Brescia",
 	"organization": "orgunits:ou00297",

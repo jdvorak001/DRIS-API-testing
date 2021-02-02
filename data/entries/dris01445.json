@@ -41,11 +41,16 @@
 	"acronym": "MSUBARODA Scholar Profile",
 	"country": "vocabs:countries/country00725",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01759",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2020-01-30T19:51:50.188Z",
-		"lastModified": "2020-10-19T18:09:14.158Z"
+		"lastModified": "2021-02-01T16:19:28.439Z"
 	},
 	"name": "Maharaja Sayajirao University of Baroda Scholar Profile",
 	"organization": "orgunits:ou00659",

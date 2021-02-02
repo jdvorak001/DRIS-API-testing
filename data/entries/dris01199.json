@@ -41,11 +41,16 @@
 	"acronym": "BRAD",
 	"country": "vocabs:countries/country00857",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01767",
 	"crisPlatformNote": "",
+	"description": "BRAD is the University\u2019s internal research database and aims to provide a comprehensive record of all publications for research staff. Data from BRAD is also used to produce up-to-date research profiles for academic staff on the University website and is used to prepare submissions for the Research Excellence Framework (REF). It is only visible internally to registered Brunel researchers and research administrators.",
+	"established": "",
 	"metadata": {
 		"created": "2019-04-18T13:34:40.610Z",
-		"lastModified": "2020-10-19T18:08:51.966Z"
+		"lastModified": "2021-02-01T16:19:35.821Z"
 	},
 	"name": "Brunel Research Database",
 	"organization": "orgunits:ou00434",

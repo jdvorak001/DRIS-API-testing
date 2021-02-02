@@ -41,11 +41,16 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00779",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01761",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2019-03-19T15:26:25.392Z",
-		"lastModified": "2020-10-19T18:08:49.994Z"
+		"lastModified": "2021-02-01T16:19:34.323Z"
 	},
 	"name": "METIS EUR",
 	"organization": "orgunits:ou00052",

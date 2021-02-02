@@ -41,11 +41,16 @@
 	"acronym": "Pure VTT",
 	"country": "vocabs:countries/country00697",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01764",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2019-06-13T16:46:23.409Z",
-		"lastModified": "2020-10-19T18:08:54.343Z"
+		"lastModified": "2021-02-02T11:51:46.401Z"
 	},
 	"name": "Pure VTT Finland",
 	"organization": "orgunits:ou00458",

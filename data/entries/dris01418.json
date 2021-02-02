@@ -41,11 +41,16 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00732",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01769",
 	"crisPlatformNote": "",
+	"description": "VIVO portal running on top of the institutional IRIS CRIS at Universit\u00e0 degli Studi di Milano, DRIS entry 1071 at https://dspacecris.eurocris.org/cris/dris/dris01071",
+	"established": "",
 	"metadata": {
 		"created": "2019-12-26T08:46:13.716Z",
-		"lastModified": "2020-10-19T18:09:11.646Z"
+		"lastModified": "2021-02-01T16:19:26.868Z"
 	},
 	"name": "Expertise UNIMI",
 	"organization": "orgunits:ou00319",

@@ -41,11 +41,16 @@
 	"acronym": "IISER Mohali Scholar Profile",
 	"country": "vocabs:countries/country00725",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01759",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2019-08-16T19:03:30.993Z",
-		"lastModified": "2020-10-19T18:08:58.942Z"
+		"lastModified": "2021-02-01T16:19:41.581Z"
 	},
 	"name": "Indian Institute of Science Education and Research Mohali Scholars Profile",
 	"organization": "orgunits:ou00503",

@@ -29,11 +29,16 @@
 	"acronym": "IRIS",
 	"country": "vocabs:countries/country00732",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01758",
 	"crisPlatformNote": "",
+	"description": "IRIS, Institutional Research Information System, is the new CRIS solution developed by Cineca. After the merge with the other 2 Italian Consortia, the so called \u201cCineca 2.0\u201d decided to get the best out of the different Research Information Systems already in place (U-GOV, SURplus) to create a unique solution. Cineca\u2019s IRIS is a CRIS, a Current Research Information System. It is compliant with the European standard CERIF and it is based on open-source technologies that the Consortium contributes to develop and maintain.",
+	"established": "",
 	"metadata": {
 		"created": "2015-05-10T00:44:53.735Z",
-		"lastModified": "2020-10-19T18:08:30.570Z"
+		"lastModified": "2021-02-01T16:19:11.550Z"
 	},
 	"name": "IRIS - Institutional Research Information System",
 	"organization": "orgunits:ou00004",

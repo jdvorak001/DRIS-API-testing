@@ -41,11 +41,16 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00857",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01751",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2015-05-10T00:44:53.435Z",
-		"lastModified": "2020-10-19T18:08:29.731Z"
+		"lastModified": "2021-02-01T16:19:11.278Z"
 	},
 	"name": "Cardiff University Research Portal",
 	"organization": "orgunits:ou00492",

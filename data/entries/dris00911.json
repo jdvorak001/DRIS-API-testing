@@ -29,11 +29,16 @@
 	"acronym": "u:cris",
 	"country": "vocabs:countries/country00637",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01764",
 	"crisPlatformNote": "",
+	"description": "u:cris is the central database for research output, activities and projects at the University of Vienna. It aims to provide a tool for reporting on performance indicators, as well as to promote research at the University of Vienna to the public. Until 2013 the university used for this purpose an in-house developed system. In 2013 a vendor system was adopted as replacement.  u:cris is currently in its final stages of implementation. The next major task will be the integration of u:cris with the institutional repository u:scholar and the university's digital asset management system PHAIDRA",
+	"established": "",
 	"metadata": {
 		"created": "2015-05-10T00:44:53.499Z",
-		"lastModified": "2020-10-19T18:08:29.929Z"
+		"lastModified": "2021-02-01T16:19:11.340Z"
 	},
 	"name": "u:cris",
 	"organization": "orgunits:ou00155",

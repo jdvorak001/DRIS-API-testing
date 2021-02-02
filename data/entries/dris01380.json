@@ -41,11 +41,16 @@
 	"acronym": "",
 	"country": "vocabs:countries/country00667",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01764",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2019-11-05T10:53:11.987Z",
-		"lastModified": "2020-10-19T18:09:08.319Z"
+		"lastModified": "2021-02-01T16:19:24.730Z"
 	},
 	"name": "Portal de Investigadores Universidad Andr\u00e9s Bello",
 	"organization": "orgunits:ou00600",

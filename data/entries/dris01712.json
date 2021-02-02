@@ -41,11 +41,16 @@
 	"acronym": "DBUNIVERSITY Scholar Profile",
 	"country": "vocabs:countries/country00725",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01759",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2020-06-04T09:48:49.671Z",
-		"lastModified": "2020-10-19T18:09:40.860Z"
+		"lastModified": "2021-02-01T16:19:23.270Z"
 	},
 	"name": "Assam Don Bosco University, Guwahati Scholar Profile",
 	"organization": "orgunits:ou00917",

@@ -3,9 +3,9 @@
 	"@id": "https://api.eurocris.org/dris/entries/dris00964",
 	"@included": [
 		{
-			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00392",
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00935",
 			"label": {
-				"en": "Under Construction                                              "
+				"en": "Operational"
 			}
 		},
 		{
@@ -41,15 +41,20 @@
 	"acronym": "GEPRIS",
 	"country": "vocabs:countries/country00705",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01758",
 	"crisPlatformNote": "",
+	"description": "GEPRIS is a bilingual (German/English) database of research funding actions administered by the DFG. You can search the database for research projects, participating researchers and their institutions.",
+	"established": "",
 	"metadata": {
 		"created": "2017-05-26T20:34:59.768Z",
-		"lastModified": "2020-10-19T18:08:31.846Z"
+		"lastModified": "2021-02-01T16:20:05.730Z"
 	},
 	"name": "German Project Information System",
 	"organization": "orgunits:ou00058",
 	"scope": "vocabs:scopes/classcerif00386",
-	"status": "vocabs:statuses/classcerif00392",
+	"status": "vocabs:statuses/classcerif00935",
 	"uri": "http://gepris.dfg.de/"
 }

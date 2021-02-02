@@ -36,11 +36,16 @@
 	"acronym": "SINBAW",
 	"country": "vocabs:countries/country00799",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01762",
 	"crisPlatformNote": "",
+	"description": "SINBAW is a distributed knowledge base system based on a network of institutional knowledge bases running on Omega-PSIR. The essence of the system is  the exchange and aggregation of resources deposited in local systems. These resources currently include journals, authors and orgUnits. The next phase will cover additional resources such as publications, projects and others. The end-user will be able to browse, search, etc. in a uniform manner using the standard Omega-PSIR interface, regardless of the place where the content was deposited.",
+	"established": "",
 	"metadata": {
 		"created": "2019-05-22T19:29:00.592Z",
-		"lastModified": "2020-10-19T18:08:52.451Z"
+		"lastModified": "2021-02-01T16:19:36.120Z"
 	},
 	"name": "Polish Network of University Knowledge Bases",
 	"organization": "",

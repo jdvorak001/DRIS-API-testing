@@ -41,11 +41,16 @@
 	"acronym": "PPC UVic-UCC",
 	"country": "vocabs:countries/country00831",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01765",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2020-02-15T15:59:34.508Z",
-		"lastModified": "2020-10-19T18:09:14.918Z"
+		"lastModified": "2021-02-01T16:19:28.900Z"
 	},
 	"name": "Portal de la Producci\u00f3 Cient\u00edfica de la UVic-UCC",
 	"organization": "orgunits:ou00666",

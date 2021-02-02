@@ -3,9 +3,9 @@
 	"@id": "https://api.eurocris.org/dris/entries/dris01421",
 	"@included": [
 		{
-			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00392",
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00935",
 			"label": {
-				"en": "Under Construction                                              "
+				"en": "Operational"
 			}
 		},
 		{
@@ -41,15 +41,20 @@
 	"acronym": "Pure UP",
 	"country": "vocabs:countries/country00796",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01764",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2020-01-21T20:42:27.729Z",
-		"lastModified": "2020-10-19T18:09:11.835Z"
+		"lastModified": "2021-02-01T16:20:05.345Z"
 	},
 	"name": "Pure Universidad del Pac\u00edfico",
 	"organization": "orgunits:ou00636",
 	"scope": "vocabs:scopes/classcerif00889",
-	"status": "vocabs:statuses/classcerif00392",
-	"uri": ""
+	"status": "vocabs:statuses/classcerif00935",
+	"uri": "https://faculty.up.edu.pe/"
 }

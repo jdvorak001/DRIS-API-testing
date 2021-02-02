@@ -41,11 +41,16 @@
 	"acronym": "KNU Scholar Profile",
 	"country": "vocabs:countries/country00725",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01759",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2020-03-16T23:03:04.415Z",
-		"lastModified": "2020-10-19T18:09:30.510Z"
+		"lastModified": "2021-02-01T16:19:14.651Z"
 	},
 	"name": "Kazi Nazrul University Scholar Profile",
 	"organization": "orgunits:ou00816",

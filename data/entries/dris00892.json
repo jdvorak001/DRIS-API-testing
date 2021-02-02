@@ -41,11 +41,16 @@
 	"acronym": "ETIS",
 	"country": "vocabs:countries/country00692",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01758",
 	"crisPlatformNote": "",
+	"description": "Estonian National CRIS System",
+	"established": "",
 	"metadata": {
 		"created": "2015-05-10T00:44:51.980Z",
-		"lastModified": "2020-10-19T18:08:26.382Z"
+		"lastModified": "2021-02-01T16:19:10.669Z"
 	},
 	"name": "Estonian National Research Information System",
 	"organization": "orgunits:ou00169",

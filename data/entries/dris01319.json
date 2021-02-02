@@ -41,11 +41,16 @@
 	"acronym": "IISER TIrupathi Scholars Profile",
 	"country": "vocabs:countries/country00725",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01759",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2019-08-18T15:30:17.044Z",
-		"lastModified": "2020-10-19T18:09:02.808Z"
+		"lastModified": "2021-02-01T16:19:45.098Z"
 	},
 	"name": "Indian Institute of Science Education and Research Tirupati Scholars Profile",
 	"organization": "orgunits:ou00544",

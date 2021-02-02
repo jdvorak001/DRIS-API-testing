@@ -41,11 +41,16 @@
 	"acronym": "LaCRIS",
 	"country": "vocabs:countries/country00697",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01764",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2019-09-18T08:48:52.242Z",
-		"lastModified": "2020-10-19T18:09:03.337Z"
+		"lastModified": "2021-02-01T16:19:45.809Z"
 	},
 	"name": "University of Lapland Current Research Information System",
 	"organization": "orgunits:ou00550",

@@ -41,11 +41,16 @@
 	"acronym": "IIM Nagpur Scholars Profile",
 	"country": "vocabs:countries/country00725",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01759",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2019-08-18T15:30:14.106Z",
-		"lastModified": "2020-10-19T18:09:01.284Z"
+		"lastModified": "2021-02-01T16:19:43.792Z"
 	},
 	"name": "Indian Institute of Management Nagpur Scholars Profile",
 	"organization": "orgunits:ou00529",

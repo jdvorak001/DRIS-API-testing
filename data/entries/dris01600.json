@@ -41,11 +41,16 @@
 	"acronym": "KIIT Scholar Profile",
 	"country": "vocabs:countries/country00725",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01759",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2020-02-25T19:57:52.815Z",
-		"lastModified": "2020-10-19T18:09:29.724Z"
+		"lastModified": "2021-02-01T16:19:14.357Z"
 	},
 	"name": "Kalinga Institute of Industrial Technology",
 	"organization": "orgunits:ou00808",

@@ -41,11 +41,16 @@
 	"acronym": "SIIUE",
 	"country": "vocabs:countries/country00800",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01758",
 	"crisPlatformNote": "PHP Open Source Framework",
+	"description": "SIIUE is now a solid platform that aggregates information in several areas of action of the University of Evora. It is essential in linking platforms and managed services (Academic Management, Moodle, Gesdoc, Performance Evaluation, Email, etc..) and a central platform to the dayly staff, students and university work.",
+	"established": "",
 	"metadata": {
 		"created": "2015-05-10T00:44:52.912Z",
-		"lastModified": "2020-10-19T18:08:28.506Z"
+		"lastModified": "2021-02-01T16:19:10.987Z"
 	},
 	"name": "Integrated Information System of University of \u00c9vora",
 	"organization": "orgunits:ou00239",

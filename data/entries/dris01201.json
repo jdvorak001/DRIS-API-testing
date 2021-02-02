@@ -41,11 +41,16 @@
 	"acronym": "IMIS",
 	"country": "vocabs:countries/country00644",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01758",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2019-05-20T15:57:43.570Z",
-		"lastModified": "2020-10-19T18:08:52.238Z"
+		"lastModified": "2021-02-01T16:19:35.969Z"
 	},
 	"name": "Integrated Marine Information System",
 	"organization": "orgunits:ou00436",

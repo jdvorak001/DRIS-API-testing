@@ -41,11 +41,16 @@
 	"acronym": "TORE",
 	"country": "vocabs:countries/country00705",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01754",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2019-03-18T20:49:42.717Z",
-		"lastModified": "2020-10-19T18:08:49.367Z"
+		"lastModified": "2021-02-02T11:47:38.708Z"
 	},
 	"name": "TUHH Open Research",
 	"organization": "orgunits:ou00366",

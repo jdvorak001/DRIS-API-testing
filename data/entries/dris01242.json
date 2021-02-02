@@ -41,11 +41,16 @@
 	"acronym": "Pure TU Graz",
 	"country": "vocabs:countries/country00637",
 	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01764",
 	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
 	"metadata": {
 		"created": "2019-06-13T16:46:26.296Z",
-		"lastModified": "2020-10-19T18:08:55.473Z"
+		"lastModified": "2021-02-01T16:19:38.658Z"
 	},
 	"name": "Pure TU Graz",
 	"organization": "orgunits:ou00470",
