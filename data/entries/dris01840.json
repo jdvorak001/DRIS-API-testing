@@ -1,0 +1,60 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris01840",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00935",
+			"label": {
+				"en": "Operational"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif01205",
+			"label": {
+				"en": "Aggregation"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01762",
+			"label": {
+				"en": "Omega-PSIR"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou01011",
+			"country": "vocabs:countries/country00799",
+			"label": "Partnership of 8 Polish medical scientific institutions"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00799",
+			"iso_3166_codes": {
+				"Alpha2": "PL",
+				"Alpha3": "POL",
+				"Numeric": "616"
+			},
+			"label": {
+				"en": "Poland"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "PPM",
+	"country": "vocabs:countries/country00799",
+	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01762",
+	"crisPlatformNote": "",
+	"description": "The Polish Platform of Medical Research (PPM) is a digital platform presenting the scientific achievements and research potential of 7 medical universities from Bialystok, Gdansk, Katowice, Lublin, Szczecin, Warsaw, Wroclaw and the Nofer Institute of Occupational Medicine in Lodz. These institutions have teamed up for the PPM Project, whose platform incorporates the features of a Current Research Information System and a consortium repository and uses OMEGA-PSIR software. It provides Open Access to full texts of publications, doctoral theses, research data and other documents. The PPM is a central platform that aggregates data from the local platforms of the PPM Project Partners. The PPM showcases the research profiles of the academic staff of the Project Partners, provides access to a database of experts from various medical fields and allows reports and analyses to be generated based on the data stored in the repository. The PPM also provides information on the research potential \u2013 patents, projects, infrastructure and laboratories. The PPM is accessible for any Internet user.",
+	"established": "",
+	"metadata": {
+		"created": "2021-01-11T10:47:58.081Z",
+		"lastModified": "2021-02-01T16:20:09.341Z"
+	},
+	"name": "Polish Platform of Medical Research (Polska Platforma Medyczna, PPM)",
+	"organization": "orgunits:ou01011",
+	"scope": "vocabs:scopes/classcerif01205",
+	"status": "vocabs:statuses/classcerif00935",
+	"uri": "https://ppm.edu.pl/index.seam"
+}

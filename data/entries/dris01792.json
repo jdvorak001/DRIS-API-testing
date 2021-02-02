@@ -1,0 +1,60 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris01792",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00935",
+			"label": {
+				"en": "Operational"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00937",
+			"label": {
+				"en": "Institutional"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01762",
+			"label": {
+				"en": "Omega-PSIR"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00968",
+			"country": "vocabs:countries/country00799",
+			"label": "Military University of Technology"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00799",
+			"iso_3166_codes": {
+				"Alpha2": "PL",
+				"Alpha3": "POL",
+				"Numeric": "616"
+			},
+			"label": {
+				"en": "Poland"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "Baza Wiedzy WAT",
+	"country": "vocabs:countries/country00799",
+	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01762",
+	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
+	"metadata": {
+		"created": "2020-11-20T08:37:20.389Z",
+		"lastModified": "2021-02-01T16:20:02.763Z"
+	},
+	"name": "Knowledge Base Military University of Technology",
+	"organization": "orgunits:ou00968",
+	"scope": "vocabs:scopes/classcerif00937",
+	"status": "vocabs:statuses/classcerif00935",
+	"uri": "https://repo.bg.wat.edu.pl/"
+}

@@ -1,0 +1,60 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris01798",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00935",
+			"label": {
+				"en": "Operational"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00937",
+			"label": {
+				"en": "Institutional"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01751",
+			"label": {
+				"en": "Converis"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00972",
+			"country": "vocabs:countries/country00722",
+			"label": "Chinese University of Hong Kong"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00668",
+			"iso_3166_codes": {
+				"Alpha2": "CN",
+				"Alpha3": "CHN",
+				"Numeric": "156"
+			},
+			"label": {
+				"en": "China"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "CUHK Research Portal",
+	"country": "vocabs:countries/country00668",
+	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01751",
+	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
+	"metadata": {
+		"created": "2020-12-01T20:55:43.699Z",
+		"lastModified": "2021-02-01T16:20:03.350Z"
+	},
+	"name": "Chinese University of Hong Kong Research Portal",
+	"organization": "orgunits:ou00972",
+	"scope": "vocabs:scopes/classcerif00937",
+	"status": "vocabs:statuses/classcerif00935",
+	"uri": "https://aims.cuhk.edu.hk/converis/portal/overview?lang=en_GB"
+}

@@ -1,0 +1,60 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris01812",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00935",
+			"label": {
+				"en": "Operational"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00937",
+			"label": {
+				"en": "Institutional"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01764",
+			"label": {
+				"en": "Pure"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00983",
+			"country": "vocabs:countries/country00671",
+			"label": "National Changhua University of Education"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00840",
+			"iso_3166_codes": {
+				"Alpha2": "TW",
+				"Alpha3": "TWN",
+				"Numeric": "158"
+			},
+			"label": {
+				"en": "Taiwan"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "NCUE Academic Hub/PURE Experts",
+	"country": "vocabs:countries/country00840",
+	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01764",
+	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
+	"metadata": {
+		"created": "2020-12-23T19:33:18.414Z",
+		"lastModified": "2021-02-01T16:20:06.644Z"
+	},
+	"name": "National Changhua University of Education Academic Hub",
+	"organization": "orgunits:ou00983",
+	"scope": "vocabs:scopes/classcerif00937",
+	"status": "vocabs:statuses/classcerif00935",
+	"uri": "https://pure.ncue.edu.tw/"
+}

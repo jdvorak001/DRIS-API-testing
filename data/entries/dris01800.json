@@ -1,0 +1,60 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris01800",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00935",
+			"label": {
+				"en": "Operational"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00937",
+			"label": {
+				"en": "Institutional"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01753",
+			"label": {
+				"en": "CSpace"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00975",
+			"country": "vocabs:countries/country00668",
+			"label": "Chinese Academy of Sciences, Shanghai Institute of Optics and Fine Mechanics"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00668",
+			"iso_3166_codes": {
+				"Alpha2": "CN",
+				"Alpha3": "CHN",
+				"Numeric": "156"
+			},
+			"label": {
+				"en": "China"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "",
+	"country": "vocabs:countries/country00668",
+	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01753",
+	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
+	"metadata": {
+		"created": "2020-12-02T17:20:40.649Z",
+		"lastModified": "2021-02-01T16:20:04.105Z"
+	},
+	"name": "KMS Shanghai Institute of Optics and Fine Mechanics, Chinese Academy of Sciences",
+	"organization": "orgunits:ou00975",
+	"scope": "vocabs:scopes/classcerif00937",
+	"status": "vocabs:statuses/classcerif00935",
+	"uri": "http://ir.siom.ac.cn/"
+}

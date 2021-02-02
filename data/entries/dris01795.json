@@ -1,0 +1,60 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris01795",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00935",
+			"label": {
+				"en": "Operational"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00937",
+			"label": {
+				"en": "Institutional"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01770",
+			"label": {
+				"en": "Worktribe"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00970",
+			"country": "vocabs:countries/country00857",
+			"label": "Robert Gordon University Aberdeen"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00857",
+			"iso_3166_codes": {
+				"Alpha2": "GB",
+				"Alpha3": "GBR",
+				"Numeric": "826"
+			},
+			"label": {
+				"en": "United Kingdom"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "RGU RIS",
+	"country": "vocabs:countries/country00857",
+	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01770",
+	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
+	"metadata": {
+		"created": "2020-12-01T19:53:05.491Z",
+		"lastModified": "2021-02-01T16:20:02.997Z"
+	},
+	"name": "RGU Research Information System",
+	"organization": "orgunits:ou00970",
+	"scope": "vocabs:scopes/classcerif00937",
+	"status": "vocabs:statuses/classcerif00935",
+	"uri": "https://library.rgu.ac.uk/worktribe-outputs"
+}

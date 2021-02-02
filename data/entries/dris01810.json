@@ -1,0 +1,60 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris01810",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00935",
+			"label": {
+				"en": "Operational"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00937",
+			"label": {
+				"en": "Institutional"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01764",
+			"label": {
+				"en": "Pure"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00981",
+			"country": "vocabs:countries/country00668",
+			"label": "Shanghai University of Finance and Economics"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00668",
+			"iso_3166_codes": {
+				"Alpha2": "CN",
+				"Alpha3": "CHN",
+				"Numeric": "156"
+			},
+			"label": {
+				"en": "China"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "WAPE Scholar",
+	"country": "vocabs:countries/country00668",
+	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01764",
+	"crisPlatformNote": "",
+	"description": "The inspiration for the World Association for Political Economy (WAPE) Scholar originates from the WAPE Library at the Shanghai University of Finance and Economics. WAPE Scholar presents the opportunity for Marxist economists to reach out to each other, across the divide of language and geography around the dynamics of Political Economy.The aim of WAPE Scholar is to unite Marxist economists of the world to work together, to facilitate this exchange of knowledge, new thought and research and to develop Marxist political economy and strengthen the influence of Marxist Political Economy in the world across all languages and cultural boundaries.",
+	"established": "",
+	"metadata": {
+		"created": "2020-12-21T12:31:33.773Z",
+		"lastModified": "2021-02-01T16:20:05.050Z"
+	},
+	"name": "World Association for Political Economy (WAPE) Scholar",
+	"organization": "orgunits:ou00981",
+	"scope": "vocabs:scopes/classcerif00937",
+	"status": "vocabs:statuses/classcerif00935",
+	"uri": "https://wapescholar.pure.elsevier.com/"
+}

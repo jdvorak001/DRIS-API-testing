@@ -1,0 +1,60 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris01791",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00935",
+			"label": {
+				"en": "Operational"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00937",
+			"label": {
+				"en": "Institutional"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01762",
+			"label": {
+				"en": "Omega-PSIR"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00967",
+			"country": "vocabs:countries/country00799",
+			"label": "Medical University of Gda\u0144sk"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00799",
+			"iso_3166_codes": {
+				"Alpha2": "PL",
+				"Alpha3": "POL",
+				"Numeric": "616"
+			},
+			"label": {
+				"en": "Poland"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "PPM-GUMed",
+	"country": "vocabs:countries/country00799",
+	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01762",
+	"crisPlatformNote": "",
+	"description": "The Polish Platform of Medical Research (PPM) of the Medical University of Gda\u0144sk is a digital platform presenting the scientific achievements and research potential of the Medical University of Gda\u0144sk. It incorporates the features of a Current Research Information System and an institutional repository and uses OMEGA-PSIR software. It provides open access to full texts of publications, doctoral theses, research data and other documents. PPM showcases research profiles of the academic staff at the Medical University of Gda\u0144sk, provides access to a database of experts from various medical fields and enables generating reports and analyses based on the data stored in the repository. PPM also provides information on the research potential of the University \u2013 patents, projects, infrastructure and laboratories. PPM is accessible for any Internet user, however, certain features are only available for registered staff at the Medical University of Gda\u0144sk.",
+	"established": "",
+	"metadata": {
+		"created": "2020-11-19T23:10:47.548Z",
+		"lastModified": "2021-02-01T16:20:02.379Z"
+	},
+	"name": "Polish Platform of Medical Research of Medical University of Gda\u0144sk",
+	"organization": "orgunits:ou00967",
+	"scope": "vocabs:scopes/classcerif00937",
+	"status": "vocabs:statuses/classcerif00935",
+	"uri": "https://ppm.gumed.edu.pl"
+}

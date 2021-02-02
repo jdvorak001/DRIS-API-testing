@@ -1,0 +1,60 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris01786",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00935",
+			"label": {
+				"en": "Operational"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00937",
+			"label": {
+				"en": "Institutional"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01762",
+			"label": {
+				"en": "Omega-PSIR"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00962",
+			"country": "vocabs:countries/country00799",
+			"label": "Medical University of Lublin"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00799",
+			"iso_3166_codes": {
+				"Alpha2": "PL",
+				"Alpha3": "POL",
+				"Numeric": "616"
+			},
+			"label": {
+				"en": "Poland"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "PPM-UML",
+	"country": "vocabs:countries/country00799",
+	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01762",
+	"crisPlatformNote": "",
+	"description": "The Polish Platform of Medical Research (PPM) by the Medical University of Lublin is a digital platform presenting the scientific achievements and research potential of the Medical University of Lublin. It incorporates the features of a Current Research Information System and an institutional repository and uses OMEGA-PSIR software. It provides open access to full texts of publications, doctoral theses, research data and other documents. PPM showcases research profiles of the academic staff affiliated with the Medical University of Lublin, provides access to a database of experts from various medical fields and enables generating reports and analyses based on the data stored in the repository. PPM also provides information on the research potential of the University \u2013 patents, projects, infrastructure and laboratories. PPM is widely accessible on the Internet, however, certain features are only available for the Medical University of Lublin registered staff members.",
+	"established": "",
+	"metadata": {
+		"created": "2020-11-19T22:36:32.536Z",
+		"lastModified": "2021-02-01T16:20:01.606Z"
+	},
+	"name": "Polish Platform of Medical Research by Medical University of Lublin",
+	"organization": "orgunits:ou00962",
+	"scope": "vocabs:scopes/classcerif00937",
+	"status": "vocabs:statuses/classcerif00935",
+	"uri": "https://ppm.umlub.pl"
+}

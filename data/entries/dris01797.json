@@ -1,0 +1,60 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris01797",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00935",
+			"label": {
+				"en": "Operational"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00937",
+			"label": {
+				"en": "Institutional"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01758",
+			"label": {
+				"en": "In-house-built"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00971",
+			"country": "vocabs:countries/country00637",
+			"label": "Universit\u00e4t f\u00fcr Bodenkultur Wien"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00637",
+			"iso_3166_codes": {
+				"Alpha2": "AT",
+				"Alpha3": "AUT",
+				"Numeric": "40"
+			},
+			"label": {
+				"en": "Austria"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "BOKU Wien FIS",
+	"country": "vocabs:countries/country00637",
+	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01758",
+	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
+	"metadata": {
+		"created": "2020-12-01T20:55:28.292Z",
+		"lastModified": "2021-02-01T16:20:03.118Z"
+	},
+	"name": "Universit\u00e4t f\u00fcr Bodenkultur Wien Forschungsinformationssystem",
+	"organization": "orgunits:ou00971",
+	"scope": "vocabs:scopes/classcerif00937",
+	"status": "vocabs:statuses/classcerif00935",
+	"uri": "https://forschung.boku.ac.at/fis/suchen.startseite?sprache_in=en"
+}

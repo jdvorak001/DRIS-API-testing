@@ -1,0 +1,60 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris01790",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00935",
+			"label": {
+				"en": "Operational"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00937",
+			"label": {
+				"en": "Institutional"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01762",
+			"label": {
+				"en": "Omega-PSIR"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00966",
+			"country": "vocabs:countries/country00799",
+			"label": "Nofer Institute of Occupational Medicine in \u0141\u00f3d\u017a"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00799",
+			"iso_3166_codes": {
+				"Alpha2": "PL",
+				"Alpha3": "POL",
+				"Numeric": "616"
+			},
+			"label": {
+				"en": "Poland"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "PPM-IMP",
+	"country": "vocabs:countries/country00799",
+	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01762",
+	"crisPlatformNote": "",
+	"description": "The Polish Platform of Medical Research (PPM) of the Nofer Institute of Occupational Medicine in \u0141\u00f3d\u017a is a digital platform presenting the scientific achievements and research potential of the Nofer Institute of Occupational Medicine in \u0141\u00f3d\u017a, Poland. It incorporates the features of a Current Research Information System and an institutional repository and uses OMEGA-PSIR software. It provides open access to full texts of publications, doctoral theses, research data and other documents. PPM showcases profiles of the research staff at the Nofer Institute of Occupational Medicine in \u0141\u00f3d\u017a, provides access to a database of experts from various medical fields and enables generating reports and analyses based on the data stored in the repository. PPM also provides information on the research potential of the Institute \u2013 patents, projects, infrastructure and laboratories. PPM is accessible for any Internet user, however, certain features are only available for registered staff at the Nofer Institute of Occupational Medicine in \u0141\u00f3d\u017a.",
+	"established": "",
+	"metadata": {
+		"created": "2020-11-19T23:10:47.161Z",
+		"lastModified": "2021-02-01T16:20:02.007Z"
+	},
+	"name": "Polish Platform of Medical Research of Nofer Institute of Occupational Medicine",
+	"organization": "orgunits:ou00966",
+	"scope": "vocabs:scopes/classcerif00937",
+	"status": "vocabs:statuses/classcerif00935",
+	"uri": "https://ppm.imp.lodz.pl"
+}

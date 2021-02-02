@@ -1,0 +1,60 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris01806",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00935",
+			"label": {
+				"en": "Operational"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00122",
+			"label": {
+				"en": "Funder                                                          "
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01758",
+			"label": {
+				"en": "In-house-built"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00058",
+			"country": "vocabs:countries/country00705",
+			"label": "German Research Foundation (DFG)"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00705",
+			"iso_3166_codes": {
+				"Alpha2": "DE",
+				"Alpha3": "DEU",
+				"Numeric": "276"
+			},
+			"label": {
+				"en": "Germany"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "GEPRIS Historisch",
+	"country": "vocabs:countries/country00705",
+	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01758",
+	"crisPlatformNote": "",
+	"description": "\u201cGEPRIS Historisch\u201d is the new comprehensive information portal provided by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) that makes the history of the DFG and of research between 1920 and 1945 publicly accessible. The online content comprises approximately 50,000 approved and rejected proposals submitted to the \u201cNotgemeinschaft der Deutschen Wissenschaft\u201d (Emergency Association of German Science) and its successor organisation DFG.",
+	"established": "",
+	"metadata": {
+		"created": "2020-12-11T11:49:28.373Z",
+		"lastModified": "2021-02-01T16:20:05.592Z"
+	},
+	"name": "Historical German Project Information System",
+	"organization": "orgunits:ou00058",
+	"scope": "vocabs:scopes/classcerif00122",
+	"status": "vocabs:statuses/classcerif00935",
+	"uri": "https://gepris-historisch.dfg.de/"
+}

@@ -1,0 +1,60 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris01805",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00935",
+			"label": {
+				"en": "Operational"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00937",
+			"label": {
+				"en": "Institutional"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01758",
+			"label": {
+				"en": "In-house-built"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00978",
+			"country": "vocabs:countries/country00682",
+			"label": "Czech Technical University in Prague"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00682",
+			"iso_3166_codes": {
+				"Alpha2": "CZ",
+				"Alpha3": "CZE",
+				"Numeric": "203"
+			},
+			"label": {
+				"en": "Czech Republic"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "\u010cVUT RIS",
+	"country": "vocabs:countries/country00682",
+	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01758",
+	"crisPlatformNote": "",
+	"description": "The CRIS of the Czech Technical University (CTU/\u010cVUT) has three components: <b>V3S</b> records research results (publications and other outputs) and researchers' merits or 'recognition', e.g. reviewing for a journal, editorial board memberships, programme committee membership or chairing, etc. <b>EZOP</b> records research projects, it tracks funding applications and ensures proper internal approval of funding applications before these are submitted to the funders, and it also records contractual research projects. <b>SGS</b> is a mini funder CRIS: the CTU itself distributes a funding stream from the Ministry for student research projects, so the University organises its own calls and proposal evaluations.",
+	"established": "",
+	"metadata": {
+		"created": "2020-12-08T17:02:33.357Z",
+		"lastModified": "2021-02-01T16:20:04.815Z"
+	},
+	"name": "Czech Technical University Research Information System",
+	"organization": "orgunits:ou00978",
+	"scope": "vocabs:scopes/classcerif00937",
+	"status": "vocabs:statuses/classcerif00935",
+	"uri": "https://ist.cvut.cz/en/our-services/v3s/"
+}

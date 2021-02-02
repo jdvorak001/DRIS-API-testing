@@ -1,0 +1,60 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris01807",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00935",
+			"label": {
+				"en": "Operational"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00937",
+			"label": {
+				"en": "Institutional"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01764",
+			"label": {
+				"en": "Pure"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00979",
+			"country": "vocabs:countries/country00796",
+			"label": "Universidad de Lima"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00796",
+			"iso_3166_codes": {
+				"Alpha2": "PE",
+				"Alpha3": "PER",
+				"Numeric": "604"
+			},
+			"label": {
+				"en": "Peru"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "CRIS Ulima",
+	"country": "vocabs:countries/country00796",
+	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01764",
+	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
+	"metadata": {
+		"created": "2020-12-11T11:49:33.713Z",
+		"lastModified": "2021-02-01T16:20:04.925Z"
+	},
+	"name": "Current Research Information System of University of Lima",
+	"organization": "orgunits:ou00979",
+	"scope": "vocabs:scopes/classcerif00937",
+	"status": "vocabs:statuses/classcerif00935",
+	"uri": "https://cris.ulima.edu.pe/"
+}

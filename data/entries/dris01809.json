@@ -1,0 +1,60 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris01809",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00935",
+			"label": {
+				"en": "Operational"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00937",
+			"label": {
+				"en": "Institutional"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01764",
+			"label": {
+				"en": "Pure"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00980",
+			"country": "vocabs:countries/country00671",
+			"label": "Universidad de Ibagu\u00e9"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00671",
+			"iso_3166_codes": {
+				"Alpha2": "CO",
+				"Alpha3": "COL",
+				"Numeric": "170"
+			},
+			"label": {
+				"en": "Colombia"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "PURE Universidad de Ibagu\u00e9",
+	"country": "vocabs:countries/country00671",
+	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01764",
+	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
+	"metadata": {
+		"created": "2020-12-21T12:31:29.951Z",
+		"lastModified": "2021-02-01T16:20:05.455Z"
+	},
+	"name": "Sistema de Informaci\u00f3n de Investigaci\u00f3n e Innovaci\u00f3n Universidad de Ibagu\u00e9",
+	"organization": "orgunits:ou00980",
+	"scope": "vocabs:scopes/classcerif00937",
+	"status": "vocabs:statuses/classcerif00935",
+	"uri": "https://pure.unibague.edu.co/"
+}

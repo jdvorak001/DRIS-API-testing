@@ -1,0 +1,60 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris01802",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00935",
+			"label": {
+				"en": "Operational"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00937",
+			"label": {
+				"en": "Institutional"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01753",
+			"label": {
+				"en": "CSpace"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00974",
+			"country": "vocabs:countries/country00668",
+			"label": "Chinese Academy of Sciences, Institute of Geographic Sciences and Natural Resources Research"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00668",
+			"iso_3166_codes": {
+				"Alpha2": "CN",
+				"Alpha3": "CHN",
+				"Numeric": "156"
+			},
+			"label": {
+				"en": "China"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "",
+	"country": "vocabs:countries/country00668",
+	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01753",
+	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
+	"metadata": {
+		"created": "2020-12-02T17:33:58.488Z",
+		"lastModified": "2021-02-01T16:20:03.962Z"
+	},
+	"name": "KMS Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences",
+	"organization": "orgunits:ou00974",
+	"scope": "vocabs:scopes/classcerif00937",
+	"status": "vocabs:statuses/classcerif00935",
+	"uri": "http://ir.igsnrr.ac.cn/"
+}

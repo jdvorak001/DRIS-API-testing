@@ -1,0 +1,60 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris01796",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00935",
+			"label": {
+				"en": "Operational"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00937",
+			"label": {
+				"en": "Institutional"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01770",
+			"label": {
+				"en": "Worktribe"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00137",
+			"country": "vocabs:countries/country00857",
+			"label": "University of Edinburgh"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00857",
+			"iso_3166_codes": {
+				"Alpha2": "GB",
+				"Alpha3": "GBR",
+				"Numeric": "826"
+			},
+			"label": {
+				"en": "United Kingdom"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "",
+	"country": "vocabs:countries/country00857",
+	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01770",
+	"crisPlatformNote": "",
+	"description": "Worktribe is the University system to manage externally-funded research projects. Researchers can use it from the ideas stage to help them construct a bid for funding, and then help them to run the research project and highlight its outcomes when the project ends.",
+	"established": "",
+	"metadata": {
+		"created": "2020-12-01T19:53:26.273Z",
+		"lastModified": "2021-02-01T16:20:02.886Z"
+	},
+	"name": "University of Edinburgh Worktribe",
+	"organization": "orgunits:ou00137",
+	"scope": "vocabs:scopes/classcerif00937",
+	"status": "vocabs:statuses/classcerif00935",
+	"uri": "https://www.digitalresearchservices.ed.ac.uk/resources/worktribe"
+}
