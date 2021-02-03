@@ -11,11 +11,12 @@ import json
 
 url_base = "https://api.eurocris.org/dris"
 input_output_dir = "data"
+limit_dir = "/entries"
 
 s = requests.Session()
 n_files = 0
-for x in sorted( pathlib.Path( input_output_dir ).rglob( "*.json" ), key=os.path.getmtime ):
-    url = url_base + "/entries/" + re.sub( r'\.json$', '', x.name )
+for x in sorted( pathlib.Path( input_output_dir + limit_dir ).rglob( "*.json" ), key=os.path.getmtime ):
+    url = url_base + re.sub( '^' + input_output_dir, '', re.sub( r'\.json$', '', x.as_posix() ) )
     print( url )
     r = s.get( url, stream=True, headers = { "Accept": "application/json" } )
     r.raise_for_status()
