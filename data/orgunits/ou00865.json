@@ -1,5 +1,6 @@
 {
+	"@context": "https://api.eurocris.org/dris/contexts/orgunits.jsonld",
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00865",
-	"country": "vocabs:countries/country00779",
-	"label": "Hanze University of Applied Sciences"
+	"country": "https://api.eurocris.org/dris/vocabs/countries/country00779",
+	"name": "Hanze University of Applied Sciences"
 }

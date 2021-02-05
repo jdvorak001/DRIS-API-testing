@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00699",
 			"country": "vocabs:countries/country00636",
-			"label": "Griffith University"
+			"name": "Griffith University"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00636",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00636",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +57,7 @@
 		"lastModified": "2021-02-01T16:19:17.517Z"
 	},
 	"name": "Griffith Elements",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00699",
 	"scope": "vocabs:scopes/classcerif00937",
 	"status": "vocabs:statuses/classcerif00935",

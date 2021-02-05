@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00859",
 			"country": "vocabs:countries/country00636",
-			"label": "Queensland University of Technology"
+			"name": "Queensland University of Technology"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00636",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00636",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +57,7 @@
 		"lastModified": "2021-02-01T16:19:16.247Z"
 	},
 	"name": "Pure QUT",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00859",
 	"scope": "vocabs:scopes/classcerif00937",
 	"status": "vocabs:statuses/classcerif00392",

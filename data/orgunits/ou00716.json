@@ -1,5 +1,6 @@
 {
+	"@context": "https://api.eurocris.org/dris/contexts/orgunits.jsonld",
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00716",
-	"country": "vocabs:countries/country00788",
-	"label": "Norwegian Centre for Organic Agriculture"
+	"country": "https://api.eurocris.org/dris/vocabs/countries/country00788",
+	"name": "Norwegian Centre for Organic Agriculture"
 }

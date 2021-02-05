@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00543",
 			"country": "vocabs:countries/country00725",
-			"label": "People's Education Society University Bengaluru"
+			"name": "People's Education Society University Bengaluru"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00725",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "PES Scholars Profile",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00725",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +57,7 @@
 		"lastModified": "2021-02-01T16:19:45.001Z"
 	},
 	"name": "People's Education Society University Bengaluru Scholars Profile",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00543",
 	"scope": "vocabs:scopes/classcerif00937",
 	"status": "vocabs:statuses/classcerif00935",

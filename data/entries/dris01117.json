@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00365",
 			"country": "vocabs:countries/country00705",
-			"label": "Fraunhofer Gesellschaft, M\u00fcnchen"
+			"name": "Fraunhofer Gesellschaft, M\u00fcnchen"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00705",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "Fraunhofer-FIS",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00705",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +57,7 @@
 		"lastModified": "2021-02-01T16:19:51.876Z"
 	},
 	"name": "Fraunhofer Forschungsinformationssystem (FIS)",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00365",
 	"scope": "vocabs:scopes/classcerif00937",
 	"status": "vocabs:statuses/classcerif00935",

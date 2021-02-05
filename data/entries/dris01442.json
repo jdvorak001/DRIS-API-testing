@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00656",
 			"country": "vocabs:countries/country00725",
-			"label": "National Institute of Technology Raipur"
+			"name": "National Institute of Technology Raipur"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00725",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "NITRR Scholar Profile",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00725",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +57,7 @@
 		"lastModified": "2021-02-01T16:19:28.238Z"
 	},
 	"name": "National Institute of Technology Raipur Scholar Profile",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00656",
 	"scope": "vocabs:scopes/classcerif00937",
 	"status": "vocabs:statuses/classcerif00935",

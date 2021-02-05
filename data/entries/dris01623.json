@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00830",
 			"country": "vocabs:countries/country00705",
-			"label": "University of Stuttgart"
+			"name": "University of Stuttgart"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00705",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00705",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +57,7 @@
 		"lastModified": "2021-02-01T16:19:15.147Z"
 	},
 	"name": "Research Portal University of Stuttgart",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00830",
 	"scope": "vocabs:scopes/classcerif00937",
 	"status": "vocabs:statuses/classcerif00935",

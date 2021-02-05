@@ -1,5 +1,6 @@
 {
+	"@context": "https://api.eurocris.org/dris/contexts/orgunits.jsonld",
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00970",
-	"country": "vocabs:countries/country00857",
-	"label": "Robert Gordon University Aberdeen"
+	"country": "https://api.eurocris.org/dris/vocabs/countries/country00857",
+	"name": "Robert Gordon University Aberdeen"
 }

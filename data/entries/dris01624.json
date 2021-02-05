@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00831",
 			"country": "vocabs:countries/country00705",
-			"label": "Helmut-Schmidt-University / University of the German Federal Armed Forces"
+			"name": "Helmut-Schmidt-University / University of the German Federal Armed Forces"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00705",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "OpenHSU",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00705",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +57,7 @@
 		"lastModified": "2021-02-01T16:19:15.178Z"
 	},
 	"name": "Research Information System HSU",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00831",
 	"scope": "vocabs:scopes/classcerif00937",
 	"status": "vocabs:statuses/classcerif00392",

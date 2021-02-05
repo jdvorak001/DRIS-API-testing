@@ -1,5 +1,6 @@
 {
+	"@context": "https://api.eurocris.org/dris/contexts/orgunits.jsonld",
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00964",
-	"country": "vocabs:countries/country00799",
-	"label": "Medical University of Silesia"
+	"country": "https://api.eurocris.org/dris/vocabs/countries/country00799",
+	"name": "Medical University of Silesia"
 }

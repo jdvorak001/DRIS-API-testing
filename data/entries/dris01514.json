@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00722",
 			"country": "vocabs:countries/country00788",
-			"label": "National Museum of Art, Architecture and Design"
+			"name": "National Museum of Art, Architecture and Design"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00788",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00788",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +57,7 @@
 		"lastModified": "2021-02-01T16:19:18.497Z"
 	},
 	"name": "CRIStin National Museum of Art, Architecture and Design",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00722",
 	"scope": "vocabs:scopes/classcerif00937",
 	"status": "vocabs:statuses/classcerif00935",

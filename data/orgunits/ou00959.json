@@ -1,5 +1,6 @@
 {
+	"@context": "https://api.eurocris.org/dris/contexts/orgunits.jsonld",
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00959",
-	"country": "vocabs:countries/country00725",
-	"label": "Charotar University of Science and Technology, Gujarat"
+	"country": "https://api.eurocris.org/dris/vocabs/countries/country00725",
+	"name": "Charotar University of Science and Technology, Gujarat"
 }

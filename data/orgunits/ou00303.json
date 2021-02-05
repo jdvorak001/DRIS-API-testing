@@ -1,5 +1,6 @@
 {
+	"@context": "https://api.eurocris.org/dris/contexts/orgunits.jsonld",
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00303",
-	"country": "vocabs:countries/country00732",
-	"label": "Universit\u00e0 della Calabria"
+	"country": "https://api.eurocris.org/dris/vocabs/countries/country00732",
+	"name": "Universit\u00e0 della Calabria"
 }

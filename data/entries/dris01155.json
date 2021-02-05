@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00391",
 			"country": "vocabs:countries/country00799",
-			"label": "Wroc\u0142aw University of Economics"
+			"name": "Wroc\u0142aw University of Economics"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00799",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "WIR UE",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00799",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +57,7 @@
 		"lastModified": "2021-02-01T16:19:32.801Z"
 	},
 	"name": "WIR UE",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00391",
 	"scope": "vocabs:scopes/classcerif00937",
 	"status": "vocabs:statuses/classcerif00935",

@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00249",
 			"country": "vocabs:countries/country00799",
-			"label": "Warsaw University of Technology"
+			"name": "Warsaw University of Technology"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00799",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "WUT Base of Knowledge",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00799",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -50,9 +54,10 @@
 	"established": "",
 	"metadata": {
 		"created": "2017-12-19T09:07:37.367Z",
-		"lastModified": "2021-02-02T11:49:00.306Z"
+		"lastModified": "2021-02-03T21:18:16.782Z"
 	},
 	"name": "WUT Base of Knowledge",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00249",
 	"scope": "vocabs:scopes/classcerif00495",
 	"status": "vocabs:statuses/classcerif00935",

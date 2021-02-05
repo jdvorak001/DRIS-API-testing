@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00565",
 			"country": "vocabs:countries/country00725",
-			"label": "Indian Institute of Technology (ISM) Dhanbad"
+			"name": "Indian Institute of Technology (ISM) Dhanbad"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00725",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "IITISM Scholar Profile",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00725",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +57,7 @@
 		"lastModified": "2021-02-01T16:19:47.221Z"
 	},
 	"name": "Indian Institute of Technology (ISM) Dhanbad Scholars Profile",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00565",
 	"scope": "vocabs:scopes/classcerif00937",
 	"status": "vocabs:statuses/classcerif00935",

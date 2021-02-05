@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00406",
 			"country": "vocabs:countries/country00831",
-			"label": "Autonomous University Madrid (UAM)"
+			"name": "Autonomous University Madrid (UAM)"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00831",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00831",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +57,7 @@
 		"lastModified": "2021-02-01T16:19:31.890Z"
 	},
 	"name": "UAM Research Portal",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00406",
 	"scope": "vocabs:scopes/classcerif00937",
 	"status": "vocabs:statuses/classcerif00935",

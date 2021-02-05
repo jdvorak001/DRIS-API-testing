@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00419",
 			"country": "vocabs:countries/country00838",
-			"label": "University of Lucerne"
+			"name": "University of Lucerne"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00838",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00838",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -50,9 +54,10 @@
 	"established": "",
 	"metadata": {
 		"created": "2019-03-17T12:53:17.694Z",
-		"lastModified": "2021-02-01T16:19:33.169Z"
+		"lastModified": "2021-02-03T17:33:44.660Z"
 	},
 	"name": "FIS Unilu",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00419",
 	"scope": "vocabs:scopes/classcerif00937",
 	"status": "vocabs:statuses/classcerif00935",

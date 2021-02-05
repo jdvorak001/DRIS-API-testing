@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00853",
 			"country": "vocabs:countries/country00858",
-			"label": "Mayo Foundation for Medical Education and Research"
+			"name": "Mayo Foundation for Medical Education and Research"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00858",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00858",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +57,7 @@
 		"lastModified": "2021-02-01T16:19:16.017Z"
 	},
 	"name": "Pure Mayo Clinic",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00853",
 	"scope": "vocabs:scopes/classcerif00937",
 	"status": "vocabs:statuses/classcerif00935",

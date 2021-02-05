@@ -1,5 +1,6 @@
 {
+	"@context": "https://api.eurocris.org/dris/contexts/orgunits.jsonld",
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00456",
-	"country": "vocabs:countries/country00636",
-	"label": "The University of Western Australia"
+	"country": "https://api.eurocris.org/dris/vocabs/countries/country00636",
+	"name": "The University of Western Australia"
 }

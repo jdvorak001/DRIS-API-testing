@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00606",
 			"country": "vocabs:countries/country00633",
-			"label": "ANLIS Malbr\u00e1n - Administraci\u00f3n Nacional de Laboratorios e Institutos de Salud \"Carlos G Malbr\u00e1n\""
+			"name": "ANLIS Malbr\u00e1n - Administraci\u00f3n Nacional de Laboratorios e Institutos de Salud \"Carlos G Malbr\u00e1n\""
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00633",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "SGC ANLIS Malbr\u00e1n",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00633",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +57,7 @@
 		"lastModified": "2021-02-01T16:19:25.120Z"
 	},
 	"name": "Sistema de Gesti\u00f3n del Conocimiento ANLIS Malbr\u00e1n",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00606",
 	"scope": "vocabs:scopes/classcerif00889",
 	"status": "vocabs:statuses/classcerif00935",

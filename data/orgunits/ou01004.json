@@ -1,5 +1,6 @@
 {
+	"@context": "https://api.eurocris.org/dris/contexts/orgunits.jsonld",
 	"@id": "https://api.eurocris.org/dris/orgunits/ou01004",
-	"country": "vocabs:countries/country00725",
-	"label": "Sri Ramakrishna Engineering College, Tamilnadu"
+	"country": "https://api.eurocris.org/dris/vocabs/countries/country00725",
+	"name": "Sri Ramakrishna Engineering College, Tamilnadu"
 }

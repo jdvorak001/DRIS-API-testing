@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00753",
 			"country": "vocabs:countries/country00788",
-			"label": "South Eastern Norway Hospital Pharmacies Regional Health Authority"
+			"name": "South Eastern Norway Hospital Pharmacies Regional Health Authority"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00788",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00788",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +57,7 @@
 		"lastModified": "2021-02-01T16:19:19.806Z"
 	},
 	"name": "CRIStin South Eastern Norway Hospital Pharmacies Regional Health Authority",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00753",
 	"scope": "vocabs:scopes/classcerif00937",
 	"status": "vocabs:statuses/classcerif00935",

@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00415",
 			"country": "vocabs:countries/country00799",
-			"label": "Polish National Information Processing Institute (OPI)"
+			"name": "Polish National Information Processing Institute (OPI)"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00799",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "POL-on",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00799",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +57,7 @@
 		"lastModified": "2021-02-01T16:20:04.438Z"
 	},
 	"name": "POL-on",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00415",
 	"scope": "vocabs:scopes/classcerif00939",
 	"status": "vocabs:statuses/classcerif00392",

@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00436",
 			"country": "vocabs:countries/country00644",
-			"label": "Flanders Marine Institute"
+			"name": "Flanders Marine Institute"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00644",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "IMIS",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00644",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +57,7 @@
 		"lastModified": "2021-02-01T16:19:35.969Z"
 	},
 	"name": "Integrated Marine Information System",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00436",
 	"scope": "vocabs:scopes/classcerif00937",
 	"status": "vocabs:statuses/classcerif00935",

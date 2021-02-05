@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00366",
 			"country": "vocabs:countries/country00705",
-			"label": "Hamburg University of Technology"
+			"name": "Hamburg University of Technology"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00705",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "TORE",
+	"badge": {
+		"openAIRECheck": "true",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00705",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +57,7 @@
 		"lastModified": "2021-02-02T11:47:38.708Z"
 	},
 	"name": "TUHH Open Research",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00366",
 	"scope": "vocabs:scopes/classcerif00937",
 	"status": "vocabs:statuses/classcerif00935",

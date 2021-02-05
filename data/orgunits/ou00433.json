@@ -1,5 +1,6 @@
 {
+	"@context": "https://api.eurocris.org/dris/contexts/orgunits.jsonld",
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00433",
-	"country": "vocabs:countries/country00857",
-	"label": "University of Liverpool"
+	"country": "https://api.eurocris.org/dris/vocabs/countries/country00857",
+	"name": "University of Liverpool"
 }

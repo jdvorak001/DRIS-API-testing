@@ -1,5 +1,6 @@
 {
+	"@context": "https://api.eurocris.org/dris/contexts/orgunits.jsonld",
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00439",
-	"country": "vocabs:countries/country00858",
-	"label": "New Jersey Economic Developement Authority"
+	"country": "https://api.eurocris.org/dris/vocabs/countries/country00858",
+	"name": "New Jersey Economic Developement Authority"
 }

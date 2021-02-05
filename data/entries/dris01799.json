@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00973",
 			"country": "vocabs:countries/country00668",
-			"label": "Chinese Academy of Sciences, Chongqing Institute of Green and Intelligent Technology"
+			"name": "Chinese Academy of Sciences, Chongqing Institute of Green and Intelligent Technology"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00668",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00668",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +57,7 @@
 		"lastModified": "2021-02-01T16:20:04.213Z"
 	},
 	"name": "KMS Chongqing Institute of Green and Intelligent Technology, Chinese Academy of Sciences",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00973",
 	"scope": "vocabs:scopes/classcerif00937",
 	"status": "vocabs:statuses/classcerif00935",

@@ -1,5 +1,6 @@
 {
+	"@context": "https://api.eurocris.org/dris/contexts/orgunits.jsonld",
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00749",
-	"country": "vocabs:countries/country00788",
-	"label": "S\ufffdrlandet Hospital Trust"
+	"country": "https://api.eurocris.org/dris/vocabs/countries/country00788",
+	"name": "S\ufffdrlandet Hospital Trust"
 }

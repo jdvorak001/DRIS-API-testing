@@ -1,5 +1,6 @@
 {
+	"@context": "https://api.eurocris.org/dris/contexts/orgunits.jsonld",
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00312",
-	"country": "vocabs:countries/country00732",
-	"label": "Scuola IMT Alti Studi Lucca"
+	"country": "https://api.eurocris.org/dris/vocabs/countries/country00732",
+	"name": "Scuola IMT Alti Studi Lucca"
 }

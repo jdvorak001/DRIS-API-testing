@@ -11,7 +11,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00083",
 			"country": "vocabs:countries/country00708",
-			"label": "National Documentation Centre (EKT) / National Hellenic Research Foundation"
+			"name": "National Documentation Centre (EKT) / National Hellenic Research Foundation"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00708",
@@ -27,6 +27,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00708",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -41,6 +45,7 @@
 		"lastModified": "2021-02-01T16:19:11.405Z"
 	},
 	"name": "EuroRIs-Net+ Research Infrastructures Observatory",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00083",
 	"scope": "",
 	"status": "",

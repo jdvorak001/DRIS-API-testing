@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00986",
 			"country": "vocabs:countries/country00725",
-			"label": "Birla Vishvakarma Mahavidyalaya Engineering College, Gujarat"
+			"name": "Birla Vishvakarma Mahavidyalaya Engineering College, Gujarat"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00725",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "BVMEC Scholar Profile",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00725",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +57,7 @@
 		"lastModified": "2021-02-01T16:20:05.840Z"
 	},
 	"name": "Birla Vishvakarma Mahavidyalaya Engineering College Scholar Profile",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00986",
 	"scope": "vocabs:scopes/classcerif00937",
 	"status": "vocabs:statuses/classcerif00935",

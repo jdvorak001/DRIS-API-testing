@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00911",
 			"country": "vocabs:countries/country00654",
-			"label": "CAPES - Brazilian Federal Agency for Support and Evaluation of\nGraduate Education"
+			"name": "CAPES - Brazilian Federal Agency for Support and Evaluation of\nGraduate Education"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00654",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00654",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +57,7 @@
 		"lastModified": "2021-02-01T16:19:22.940Z"
 	},
 	"name": "Sucupira Platform",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00911",
 	"scope": "vocabs:scopes/classcerif00939",
 	"status": "vocabs:statuses/classcerif00935",

@@ -1,5 +1,6 @@
 {
+	"@context": "https://api.eurocris.org/dris/contexts/orgunits.jsonld",
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00700",
-	"country": "vocabs:countries/country00781",
-	"label": "New Zealand Ministry of Business, Innovation & Employment"
+	"country": "https://api.eurocris.org/dris/vocabs/countries/country00781",
+	"name": "New Zealand Ministry of Business, Innovation & Employment"
 }

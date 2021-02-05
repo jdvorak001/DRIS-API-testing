@@ -28,6 +28,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "HEFIS",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00705",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -42,6 +46,7 @@
 		"lastModified": "2021-02-01T16:19:33.833Z"
 	},
 	"name": "HEFIS-Verbund",
+	"openaireCrisEndpointURL": "",
 	"organization": "",
 	"scope": "vocabs:scopes/classcerif00937",
 	"status": "vocabs:statuses/classcerif00392",

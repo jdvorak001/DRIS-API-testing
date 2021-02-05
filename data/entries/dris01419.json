@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00635",
 			"country": "vocabs:countries/country00766",
-			"label": "Universidad Aut\u00f3noma San Luis Potos\u00ed (UASLP)"
+			"name": "Universidad Aut\u00f3noma San Luis Potos\u00ed (UASLP)"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00766",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00766",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +57,7 @@
 		"lastModified": "2021-02-01T16:19:26.941Z"
 	},
 	"name": "ORBIS",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00635",
 	"scope": "vocabs:scopes/classcerif00889",
 	"status": "vocabs:statuses/classcerif00935",

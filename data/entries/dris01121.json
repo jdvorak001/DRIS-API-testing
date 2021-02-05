@@ -4,6 +4,10 @@
 	"@included": [],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -18,6 +22,7 @@
 		"lastModified": "2021-02-01T16:19:52.246Z"
 	},
 	"name": "FIS",
+	"openaireCrisEndpointURL": "",
 	"organization": "",
 	"scope": "",
 	"status": "",

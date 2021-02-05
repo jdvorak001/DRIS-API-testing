@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00551",
 			"country": "vocabs:countries/country00697",
-			"label": "University of Eastern Finland"
+			"name": "University of Eastern Finland"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00697",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "SoleCRIS UEF",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00697",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +57,7 @@
 		"lastModified": "2021-02-01T16:19:45.895Z"
 	},
 	"name": "University of Eastern Finland SoleCRIS",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00551",
 	"scope": "vocabs:scopes/classcerif00889",
 	"status": "vocabs:statuses/classcerif00935",

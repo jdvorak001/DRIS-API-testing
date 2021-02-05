@@ -1,5 +1,6 @@
 {
+	"@context": "https://api.eurocris.org/dris/contexts/orgunits.jsonld",
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00726",
-	"country": "vocabs:countries/country00788",
-	"label": "Bj\u00f8rknes College"
+	"country": "https://api.eurocris.org/dris/vocabs/countries/country00788",
+	"name": "Bj\u00f8rknes College"
 }

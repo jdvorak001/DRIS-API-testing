@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00789",
 			"country": "vocabs:countries/country00788",
-			"label": "Norwegian Geotechnical Institute"
+			"name": "Norwegian Geotechnical Institute"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00788",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00788",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +57,7 @@
 		"lastModified": "2021-02-01T16:19:13.544Z"
 	},
 	"name": "CRIStin Norwegian Geotechnical Institute",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00789",
 	"scope": "vocabs:scopes/classcerif00937",
 	"status": "vocabs:statuses/classcerif00935",

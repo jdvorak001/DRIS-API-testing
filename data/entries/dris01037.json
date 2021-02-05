@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00285",
 			"country": "vocabs:countries/country00732",
-			"label": "Regione Autonoma Friuli Venezia Giulia"
+			"name": "Regione Autonoma Friuli Venezia Giulia"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00732",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "UnityFVG",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00732",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +57,7 @@
 		"lastModified": "2021-02-01T16:19:54.591Z"
 	},
 	"name": "UnityFVG - Friuli Venezia Giulia",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00285",
 	"scope": "vocabs:scopes/classcerif00938",
 	"status": "vocabs:statuses/classcerif00935",

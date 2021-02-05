@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00264",
 			"country": "vocabs:countries/country00857",
-			"label": "Bangor University"
+			"name": "Bangor University"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00857",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "Pure Bangor",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00857",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +57,7 @@
 		"lastModified": "2021-02-01T16:19:12.622Z"
 	},
 	"name": "Pure@Bangor",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00264",
 	"scope": "vocabs:scopes/classcerif00937",
 	"status": "vocabs:statuses/classcerif00935",

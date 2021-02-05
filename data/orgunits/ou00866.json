@@ -1,5 +1,6 @@
 {
+	"@context": "https://api.eurocris.org/dris/contexts/orgunits.jsonld",
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00866",
-	"country": "vocabs:countries/country00652",
-	"label": "Botswana International University of Science and Tecnology"
+	"country": "https://api.eurocris.org/dris/vocabs/countries/country00652",
+	"name": "Botswana International University of Science and Tecnology"
 }

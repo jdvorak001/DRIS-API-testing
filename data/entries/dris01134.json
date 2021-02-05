@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00227",
 			"country": "vocabs:countries/country00831",
-			"label": "Universitat Polit\u00e8cnica de Catalunya"
+			"name": "Universitat Polit\u00e8cnica de Catalunya"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00831",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "FUTUR",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00831",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +57,7 @@
 		"lastModified": "2021-02-01T16:19:53.531Z"
 	},
 	"name": "FUTUR",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00227",
 	"scope": "vocabs:scopes/classcerif00937",
 	"status": "vocabs:statuses/classcerif00935",

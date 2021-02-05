@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00998",
 			"country": "vocabs:countries/country00840",
-			"label": "National Taiwan Normal University"
+			"name": "National Taiwan Normal University"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00840",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "NTNU Researcher Portal",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00840",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +57,7 @@
 		"lastModified": "2021-02-01T16:20:07.827Z"
 	},
 	"name": "National Taiwan Normal University Researcher Portal",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00998",
 	"scope": "vocabs:scopes/classcerif00937",
 	"status": "vocabs:statuses/classcerif00935",

@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00966",
 			"country": "vocabs:countries/country00799",
-			"label": "Nofer Institute of Occupational Medicine in \u0141\u00f3d\u017a"
+			"name": "Nofer Institute of Occupational Medicine in \u0141\u00f3d\u017a"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00799",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "PPM-IMP",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00799",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +57,7 @@
 		"lastModified": "2021-02-01T16:20:02.007Z"
 	},
 	"name": "Polish Platform of Medical Research of Nofer Institute of Occupational Medicine",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00966",
 	"scope": "vocabs:scopes/classcerif00937",
 	"status": "vocabs:statuses/classcerif00935",

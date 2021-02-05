@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00812",
 			"country": "vocabs:countries/country00771",
-			"label": "Ministry of Science Montenegro"
+			"name": "Ministry of Science Montenegro"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00771",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "E-CRIS.CG",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00771",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +57,7 @@
 		"lastModified": "2021-02-01T16:19:14.501Z"
 	},
 	"name": "Current Research Information System in Montenegro",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00812",
 	"scope": "vocabs:scopes/classcerif00939",
 	"status": "vocabs:statuses/classcerif00935",

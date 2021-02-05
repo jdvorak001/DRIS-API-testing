@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00982",
 			"country": "vocabs:countries/country00671",
-			"label": "Taipei Medical University"
+			"name": "Taipei Medical University"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00840",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "TMU Academic Hub/PURE Experts",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00840",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +57,7 @@
 		"lastModified": "2021-02-01T16:20:07.348Z"
 	},
 	"name": "Taipei Medical University Academic Hub",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00982",
 	"scope": "vocabs:scopes/classcerif00937",
 	"status": "vocabs:statuses/classcerif00935",

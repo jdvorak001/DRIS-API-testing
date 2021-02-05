@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00279",
 			"country": "vocabs:countries/country00857",
-			"label": "University of Strathclyde"
+			"name": "University of Strathclyde"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00857",
@@ -35,12 +35,24 @@
 			"label": {
 				"en": "United Kingdom"
 			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/coverages/classcerif01841",
+			"label": {
+				"en": "Dataset"
+			}
 		}
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "Pure Strathclyde",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "true"
+	},
 	"country": "vocabs:countries/country00857",
-	"coverages": [],
+	"coverages": [
+		"vocabs:coverages/classcerif01841"
+	],
 	"crisDataOutput": "",
 	"crisDataSupply": "",
 	"crisDataValidation": "",
@@ -50,9 +62,10 @@
 	"established": "",
 	"metadata": {
 		"created": "2019-03-08T17:07:51.058Z",
-		"lastModified": "2021-02-01T16:19:59.976Z"
+		"lastModified": "2021-02-04T23:54:50.278Z"
 	},
 	"name": "Strathclyde Research Portal",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00279",
 	"scope": "vocabs:scopes/classcerif00937",
 	"status": "vocabs:statuses/classcerif00935",

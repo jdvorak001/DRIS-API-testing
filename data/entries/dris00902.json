@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00093",
 			"country": "vocabs:countries/country00779",
-			"label": "Radboud University Nijmegen"
+			"name": "Radboud University Nijmegen"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00779",
@@ -35,12 +35,24 @@
 			"label": {
 				"en": "Netherlands"
 			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/coverages/classcerif01841",
+			"label": {
+				"en": "Dataset"
+			}
 		}
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "METIS Radboud",
+	"badge": {
+		"openAIRECheck": "true",
+		"rdmCheck": "true"
+	},
 	"country": "vocabs:countries/country00779",
-	"coverages": [],
+	"coverages": [
+		"vocabs:coverages/classcerif01841"
+	],
 	"crisDataOutput": "",
 	"crisDataSupply": "",
 	"crisDataValidation": "",
@@ -50,9 +62,10 @@
 	"established": "",
 	"metadata": {
 		"created": "2015-05-10T00:44:52.973Z",
-		"lastModified": "2021-02-02T11:43:22.730Z"
+		"lastModified": "2021-02-04T23:55:21.389Z"
 	},
 	"name": "METIS Research Information System",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00093",
 	"scope": "vocabs:scopes/classcerif00937",
 	"status": "vocabs:statuses/classcerif00935",

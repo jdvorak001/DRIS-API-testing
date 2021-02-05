@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00605",
 			"country": "vocabs:countries/country00676",
-			"label": "Universidad Nacional de Costa Rica (UNA)"
+			"name": "Universidad Nacional de Costa Rica (UNA)"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00676",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00676",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +57,7 @@
 		"lastModified": "2021-02-01T16:19:25.063Z"
 	},
 	"name": "UNA Red Acad\u00e9mica",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00605",
 	"scope": "vocabs:scopes/classcerif00889",
 	"status": "vocabs:statuses/classcerif00935",

@@ -1,5 +1,6 @@
 {
+	"@context": "https://api.eurocris.org/dris/contexts/orgunits.jsonld",
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00976",
-	"country": "vocabs:countries/country00668",
-	"label": "Chinese Academy of Sciences, Tianjin Institute of Industrial Biotechnology"
+	"country": "https://api.eurocris.org/dris/vocabs/countries/country00668",
+	"name": "Chinese Academy of Sciences, Tianjin Institute of Industrial Biotechnology"
 }

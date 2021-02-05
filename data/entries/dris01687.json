@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00892",
 			"country": "vocabs:countries/country00683",
-			"label": "IT University of Copenhagen"
+			"name": "IT University of Copenhagen"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00683",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00683",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +57,7 @@
 		"lastModified": "2021-02-01T16:19:21.998Z"
 	},
 	"name": "ITU Research Portal",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00892",
 	"scope": "vocabs:scopes/classcerif00937",
 	"status": "vocabs:statuses/classcerif00935",

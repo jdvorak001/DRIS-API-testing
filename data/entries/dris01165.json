@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00421",
 			"country": "vocabs:countries/country00644",
-			"label": "Institute of Tropical Medicine Antwerp"
+			"name": "Institute of Tropical Medicine Antwerp"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00644",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00644",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +57,7 @@
 		"lastModified": "2021-02-01T16:19:33.381Z"
 	},
 	"name": "Pure ITG Antwerpen",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00421",
 	"scope": "vocabs:scopes/classcerif00937",
 	"status": "vocabs:statuses/classcerif00935",

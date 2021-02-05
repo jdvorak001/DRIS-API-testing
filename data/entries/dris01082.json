@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00330",
 			"country": "vocabs:countries/country00732",
-			"label": "Universit\u00e0 degli Studi di Pavia"
+			"name": "Universit\u00e0 degli Studi di Pavia"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00732",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00732",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +57,7 @@
 		"lastModified": "2021-02-01T16:19:59.223Z"
 	},
 	"name": "IRIS Universit\u00e0 degli Studi di Pavia",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00330",
 	"scope": "vocabs:scopes/classcerif00937",
 	"status": "vocabs:statuses/classcerif00935",

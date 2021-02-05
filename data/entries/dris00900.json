@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00239",
 			"country": "vocabs:countries/country00800",
-			"label": "Universidade de \u00c9vora"
+			"name": "Universidade de \u00c9vora"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00800",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "SIIUE",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00800",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +57,7 @@
 		"lastModified": "2021-02-01T16:19:10.987Z"
 	},
 	"name": "Integrated Information System of University of \u00c9vora",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00239",
 	"scope": "vocabs:scopes/classcerif00937",
 	"status": "vocabs:statuses/classcerif00935",

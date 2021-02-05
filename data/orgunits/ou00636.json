@@ -1,5 +1,6 @@
 {
+	"@context": "https://api.eurocris.org/dris/contexts/orgunits.jsonld",
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00636",
-	"country": "vocabs:countries/country00796",
-	"label": "Universidad del Pac\u00edfico (Per\u00fa)"
+	"country": "https://api.eurocris.org/dris/vocabs/countries/country00796",
+	"name": "Universidad del Pac\u00edfico (Per\u00fa)"
 }

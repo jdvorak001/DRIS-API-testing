@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00908",
 			"country": "vocabs:countries/country00725",
-			"label": "Sri Devaraj Urs Medical College, Kolar"
+			"name": "Sri Devaraj Urs Medical College, Kolar"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00725",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "SDUMC Scholar Profile",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00725",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +57,7 @@
 		"lastModified": "2021-02-01T16:19:22.787Z"
 	},
 	"name": "Sri Devaraj Urs Medical College Kolar Scholar Profile",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00908",
 	"scope": "vocabs:scopes/classcerif00937",
 	"status": "vocabs:statuses/classcerif00935",

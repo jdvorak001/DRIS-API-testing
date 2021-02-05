@@ -1,5 +1,6 @@
 {
+	"@context": "https://api.eurocris.org/dris/contexts/orgunits.jsonld",
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00321",
-	"country": "vocabs:countries/country00732",
-	"label": "Universit\u00e0 Vita e Salute S. Raffaele"
+	"country": "https://api.eurocris.org/dris/vocabs/countries/country00732",
+	"name": "Universit\u00e0 Vita e Salute S. Raffaele"
 }

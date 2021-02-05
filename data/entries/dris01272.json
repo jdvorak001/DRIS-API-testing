@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00497",
 			"country": "vocabs:countries/country00805",
-			"label": "Tomsk Polytechnic University"
+			"name": "Tomsk Polytechnic University"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00805",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00805",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +57,7 @@
 		"lastModified": "2021-02-01T16:19:41.067Z"
 	},
 	"name": "Tomsk Polytechnic University Research Portal",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00497",
 	"scope": "vocabs:scopes/classcerif00937",
 	"status": "vocabs:statuses/classcerif00935",

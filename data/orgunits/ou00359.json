@@ -1,5 +1,6 @@
 {
+	"@context": "https://api.eurocris.org/dris/contexts/orgunits.jsonld",
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00359",
-	"country": "vocabs:countries/country00799",
-	"label": "University of Social Sciences and Humanities (SWPS)"
+	"country": "https://api.eurocris.org/dris/vocabs/countries/country00799",
+	"name": "University of Social Sciences and Humanities (SWPS)"
 }

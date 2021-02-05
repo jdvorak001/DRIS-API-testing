@@ -1,5 +1,6 @@
 {
+	"@context": "https://api.eurocris.org/dris/contexts/orgunits.jsonld",
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00429",
-	"country": "vocabs:countries/country00752",
-	"label": "Luxembourg National Research Fund"
+	"country": "https://api.eurocris.org/dris/vocabs/countries/country00752",
+	"name": "Luxembourg National Research Fund"
 }

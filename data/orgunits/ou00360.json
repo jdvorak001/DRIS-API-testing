@@ -1,5 +1,6 @@
 {
+	"@context": "https://api.eurocris.org/dris/contexts/orgunits.jsonld",
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00360",
-	"country": "vocabs:countries/country00705",
-	"label": "Bundesregierung / National Government"
+	"country": "https://api.eurocris.org/dris/vocabs/countries/country00705",
+	"name": "Bundesregierung / National Government"
 }

@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00146",
 			"country": "vocabs:countries/country00819",
-			"label": "University of Novi Sad, Faculty of Sciences"
+			"name": "University of Novi Sad, Faculty of Sciences"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00819",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "CRIS UNS",
+	"badge": {
+		"openAIRECheck": "true",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00819",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +57,7 @@
 		"lastModified": "2021-02-02T11:50:25.635Z"
 	},
 	"name": "CRIS University of Novi Sad",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00146",
 	"scope": "vocabs:scopes/classcerif00937",
 	"status": "vocabs:statuses/classcerif00935",

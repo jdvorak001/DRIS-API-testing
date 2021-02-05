@@ -1,5 +1,6 @@
 {
+	"@context": "https://api.eurocris.org/dris/contexts/orgunits.jsonld",
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00875",
-	"country": "vocabs:countries/country00741",
-	"label": "Seoul National University College of Medicine"
+	"country": "https://api.eurocris.org/dris/vocabs/countries/country00741",
+	"name": "Seoul National University College of Medicine"
 }

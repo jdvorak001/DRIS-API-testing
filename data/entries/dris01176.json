@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00116",
 			"country": "vocabs:countries/country00779",
-			"label": "The Netherlands Organisation for Scientific Research"
+			"name": "The Netherlands Organisation for Scientific Research"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00779",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00779",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +57,7 @@
 		"lastModified": "2021-02-01T16:19:34.250Z"
 	},
 	"name": "NWO Research Projects",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00116",
 	"scope": "vocabs:scopes/classcerif00386",
 	"status": "vocabs:statuses/classcerif00935",

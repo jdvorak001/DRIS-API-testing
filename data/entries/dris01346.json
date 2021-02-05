@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00566",
 			"country": "vocabs:countries/country00725",
-			"label": "Indian Institute of Technology Bhilai"
+			"name": "Indian Institute of Technology Bhilai"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00725",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "IITBHILAI Scholar Profile",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00725",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +57,7 @@
 		"lastModified": "2021-02-01T16:19:47.318Z"
 	},
 	"name": "Indian Institute of Technology Bhilai Scholars Profile",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00566",
 	"scope": "vocabs:scopes/classcerif00937",
 	"status": "vocabs:statuses/classcerif00935",

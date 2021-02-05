@@ -1,5 +1,6 @@
 {
+	"@context": "https://api.eurocris.org/dris/contexts/orgunits.jsonld",
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00435",
-	"country": "vocabs:countries/country00857",
-	"label": "Anglia Ruskin University"
+	"country": "https://api.eurocris.org/dris/vocabs/countries/country00857",
+	"name": "Anglia Ruskin University"
 }

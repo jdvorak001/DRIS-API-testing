@@ -1,5 +1,6 @@
 {
+	"@context": "https://api.eurocris.org/dris/contexts/orgunits.jsonld",
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00123",
-	"country": "vocabs:countries/country00729",
-	"label": "Trinity College Library Dublin"
+	"country": "https://api.eurocris.org/dris/vocabs/countries/country00729",
+	"name": "Trinity College Library Dublin"
 }

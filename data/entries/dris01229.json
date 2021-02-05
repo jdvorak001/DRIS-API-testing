@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00458",
 			"country": "vocabs:countries/country00697",
-			"label": "VTT Technical Research Centre of Finland"
+			"name": "VTT Technical Research Centre of Finland"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00697",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "Pure VTT",
+	"badge": {
+		"openAIRECheck": "true",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00697",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +57,7 @@
 		"lastModified": "2021-02-02T11:51:46.401Z"
 	},
 	"name": "Pure VTT Finland",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00458",
 	"scope": "vocabs:scopes/classcerif00937",
 	"status": "vocabs:statuses/classcerif00935",

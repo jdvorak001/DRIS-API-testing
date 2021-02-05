@@ -22,8 +22,7 @@
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00242",
-			"country": "vocabs:countries/country00657",
-			"label": "Sofia University St. Kliment Ohridski"
+			"name": "Sofia University St. Kliment Ohridski"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00657",
@@ -39,6 +38,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00657",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +56,7 @@
 		"lastModified": "2021-02-01T16:19:11.838Z"
 	},
 	"name": "Sofia University Projects",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00242",
 	"scope": "vocabs:scopes/classcerif00937",
 	"status": "vocabs:statuses/classcerif00935",

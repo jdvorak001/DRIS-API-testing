@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00661",
 			"country": "vocabs:countries/country00731",
-			"label": "Inter-University Computation Center-IUCC"
+			"name": "Inter-University Computation Center-IUCC"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00731",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "CRIS-IL",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00731",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +57,7 @@
 		"lastModified": "2021-02-01T16:20:01.500Z"
 	},
 	"name": "Israeli National CRIS",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00661",
 	"scope": "vocabs:scopes/classcerif00939",
 	"status": "vocabs:statuses/classcerif00392",

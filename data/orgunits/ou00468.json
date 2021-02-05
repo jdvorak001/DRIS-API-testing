@@ -1,5 +1,6 @@
 {
+	"@context": "https://api.eurocris.org/dris/contexts/orgunits.jsonld",
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00468",
-	"country": "vocabs:countries/country00805",
-	"label": "Saint Petersburg State University"
+	"country": "https://api.eurocris.org/dris/vocabs/countries/country00805",
+	"name": "Saint Petersburg State University"
 }

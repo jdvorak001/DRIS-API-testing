@@ -1,5 +1,6 @@
 {
+	"@context": "https://api.eurocris.org/dris/contexts/orgunits.jsonld",
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00971",
-	"country": "vocabs:countries/country00637",
-	"label": "Universit\u00e4t f\u00fcr Bodenkultur Wien"
+	"country": "https://api.eurocris.org/dris/vocabs/countries/country00637",
+	"name": "Universit\u00e4t f\u00fcr Bodenkultur Wien"
 }

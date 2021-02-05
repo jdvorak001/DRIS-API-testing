@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00376",
 			"country": "vocabs:countries/country00705",
-			"label": "Leibniz Universit\u00e4t Hannover"
+			"name": "Leibniz Universit\u00e4t Hannover"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00705",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "LUH FIS",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00705",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +57,7 @@
 		"lastModified": "2021-02-01T16:19:34.170Z"
 	},
 	"name": "Leibniz University Hannover Research Information System",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00376",
 	"scope": "vocabs:scopes/classcerif00937",
 	"status": "vocabs:statuses/classcerif00392",

@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00980",
 			"country": "vocabs:countries/country00671",
-			"label": "Universidad de Ibagu\u00e9"
+			"name": "Universidad de Ibagu\u00e9"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00671",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "PURE Universidad de Ibagu\u00e9",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00671",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +57,7 @@
 		"lastModified": "2021-02-01T16:20:05.455Z"
 	},
 	"name": "Sistema de Informaci\u00f3n de Investigaci\u00f3n e Innovaci\u00f3n Universidad de Ibagu\u00e9",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00980",
 	"scope": "vocabs:scopes/classcerif00937",
 	"status": "vocabs:statuses/classcerif00935",

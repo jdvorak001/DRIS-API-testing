@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00411",
 			"country": "vocabs:countries/country00831",
-			"label": "Spanish National Research Council (CSIC)"
+			"name": "Spanish National Research Council (CSIC)"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00831",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00831",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +57,7 @@
 		"lastModified": "2021-02-01T16:19:32.273Z"
 	},
 	"name": "ConCiencia+Digital.CSIC",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00411",
 	"scope": "vocabs:scopes/classcerif00937",
 	"status": "vocabs:statuses/classcerif00935",

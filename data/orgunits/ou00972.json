@@ -1,5 +1,6 @@
 {
+	"@context": "https://api.eurocris.org/dris/contexts/orgunits.jsonld",
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00972",
-	"country": "vocabs:countries/country00722",
-	"label": "Chinese University of Hong Kong"
+	"country": "https://api.eurocris.org/dris/vocabs/countries/country00722",
+	"name": "Chinese University of Hong Kong"
 }

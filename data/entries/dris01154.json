@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00393",
 			"country": "vocabs:countries/country00799",
-			"label": "The Nicolaus Copernicus University in Toru\u0144"
+			"name": "The Nicolaus Copernicus University in Toru\u0144"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00799",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00799",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +57,7 @@
 		"lastModified": "2021-02-01T16:19:32.704Z"
 	},
 	"name": "Omega-PSIR UMK",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00393",
 	"scope": "vocabs:scopes/classcerif00937",
 	"status": "vocabs:statuses/classcerif00392",

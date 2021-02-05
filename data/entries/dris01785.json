@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00961",
 			"country": "vocabs:countries/country00799",
-			"label": "Wroclaw Medical University"
+			"name": "Wroclaw Medical University"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00799",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "PPM-UMW",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00799",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +57,7 @@
 		"lastModified": "2021-02-01T16:20:01.754Z"
 	},
 	"name": "Polish Platform of Medical Research of Wroclaw Medical University",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00961",
 	"scope": "vocabs:scopes/classcerif00937",
 	"status": "vocabs:statuses/classcerif00935",

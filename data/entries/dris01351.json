@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00571",
 			"country": "vocabs:countries/country00725",
-			"label": "Indian Institute of Management Jammu"
+			"name": "Indian Institute of Management Jammu"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00725",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "IIMJ Scholars Profile",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00725",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +57,7 @@
 		"lastModified": "2021-02-01T16:19:47.813Z"
 	},
 	"name": "Indian Institute of Management Jammu Scholars Profile",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00571",
 	"scope": "vocabs:scopes/classcerif00937",
 	"status": "vocabs:statuses/classcerif00935",

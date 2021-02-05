@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00045",
 			"country": "vocabs:countries/country00779",
-			"label": "Digital Archiving and Networked Services (DANS)"
+			"name": "Digital Archiving and Networked Services (DANS)"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00779",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "",
+	"badge": {
+		"openAIRECheck": "true",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00779",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +57,7 @@
 		"lastModified": "2021-02-02T11:48:16.387Z"
 	},
 	"name": "NARCIS",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00045",
 	"scope": "vocabs:scopes/classcerif00939",
 	"status": "vocabs:statuses/classcerif00935",

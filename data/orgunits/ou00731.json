@@ -1,5 +1,6 @@
 {
+	"@context": "https://api.eurocris.org/dris/contexts/orgunits.jsonld",
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00731",
-	"country": "vocabs:countries/country00788",
-	"label": "Northern Norway Regional Health Authority"
+	"country": "https://api.eurocris.org/dris/vocabs/countries/country00788",
+	"name": "Northern Norway Regional Health Authority"
 }

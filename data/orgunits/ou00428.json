@@ -1,5 +1,6 @@
 {
+	"@context": "https://api.eurocris.org/dris/contexts/orgunits.jsonld",
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00428",
-	"country": "vocabs:countries/country00745",
-	"label": "Latvian Ministry of Science and Education"
+	"country": "https://api.eurocris.org/dris/vocabs/countries/country00745",
+	"name": "Latvian Ministry of Science and Education"
 }

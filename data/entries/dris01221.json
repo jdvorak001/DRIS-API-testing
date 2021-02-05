@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00450",
 			"country": "vocabs:countries/country00779",
-			"label": "Consortium of Universities in Amsterdam"
+			"name": "Consortium of Universities in Amsterdam"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00779",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "A5 Pure",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00779",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +57,7 @@
 		"lastModified": "2021-02-01T16:19:36.983Z"
 	},
 	"name": "Pure Amsterdam 5",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00450",
 	"scope": "vocabs:scopes/classcerif01205",
 	"status": "vocabs:statuses/classcerif00935",

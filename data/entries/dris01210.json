@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00439",
 			"country": "vocabs:countries/country00858",
-			"label": "New Jersey Economic Developement Authority"
+			"name": "New Jersey Economic Developement Authority"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00858",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "NJ Pure",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00858",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +57,7 @@
 		"lastModified": "2021-02-01T16:19:36.213Z"
 	},
 	"name": "Pure Community New Jersey",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00439",
 	"scope": "vocabs:scopes/classcerif01205",
 	"status": "vocabs:statuses/classcerif00935",

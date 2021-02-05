@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00891",
 			"country": "vocabs:countries/country00683",
-			"label": "Danish School of Media and Journalism"
+			"name": "Danish School of Media and Journalism"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00683",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "UC Viden",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00683",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +57,7 @@
 		"lastModified": "2021-02-01T16:19:21.940Z"
 	},
 	"name": "University Colleges Knowledge Database",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00891",
 	"scope": "vocabs:scopes/classcerif00937",
 	"status": "vocabs:statuses/classcerif00935",

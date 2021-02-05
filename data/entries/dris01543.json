@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00751",
 			"country": "vocabs:countries/country00788",
-			"label": "Sunnaas Rehabilitation Hospital"
+			"name": "Sunnaas Rehabilitation Hospital"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00788",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00788",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +57,7 @@
 		"lastModified": "2021-02-01T16:19:19.719Z"
 	},
 	"name": "CRIStin Sunnaas Rehabilitation Hospital",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00751",
 	"scope": "vocabs:scopes/classcerif00937",
 	"status": "vocabs:statuses/classcerif00935",

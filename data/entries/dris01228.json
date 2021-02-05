@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00457",
 			"country": "vocabs:countries/country00831",
-			"label": "Universitat Aut\u00f2noma de Barcelona"
+			"name": "Universitat Aut\u00f2noma de Barcelona"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00831",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "UAB Research Portal",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00831",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +57,7 @@
 		"lastModified": "2021-02-01T16:20:05.195Z"
 	},
 	"name": "Universitat Aut\u00f2noma de Barcelona Research Portal",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00457",
 	"scope": "vocabs:scopes/classcerif00937",
 	"status": "vocabs:statuses/classcerif00935",

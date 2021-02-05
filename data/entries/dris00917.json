@@ -11,7 +11,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00004",
 			"country": "vocabs:countries/country00732",
-			"label": "CINECA"
+			"name": "CINECA"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00732",
@@ -27,6 +27,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "IRIS",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00732",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -41,6 +45,7 @@
 		"lastModified": "2021-02-01T16:19:11.550Z"
 	},
 	"name": "IRIS - Institutional Research Information System",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00004",
 	"scope": "",
 	"status": "",

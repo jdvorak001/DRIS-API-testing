@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00392",
 			"country": "vocabs:countries/country00799",
-			"label": "The Maria Grzegorzewska University in Warsaw"
+			"name": "The Maria Grzegorzewska University in Warsaw"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00799",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "Baza Wiedzy APS",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00799",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +57,7 @@
 		"lastModified": "2021-02-01T16:19:35.355Z"
 	},
 	"name": "Baza Wiedzy APS",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00392",
 	"scope": "vocabs:scopes/classcerif00889",
 	"status": "vocabs:statuses/classcerif00935",

@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00972",
 			"country": "vocabs:countries/country00722",
-			"label": "Chinese University of Hong Kong"
+			"name": "Chinese University of Hong Kong"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00668",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "CUHK Research Portal",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00668",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +57,7 @@
 		"lastModified": "2021-02-01T16:20:03.350Z"
 	},
 	"name": "Chinese University of Hong Kong Research Portal",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00972",
 	"scope": "vocabs:scopes/classcerif00937",
 	"status": "vocabs:statuses/classcerif00935",

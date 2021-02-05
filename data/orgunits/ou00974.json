@@ -1,5 +1,6 @@
 {
+	"@context": "https://api.eurocris.org/dris/contexts/orgunits.jsonld",
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00974",
-	"country": "vocabs:countries/country00668",
-	"label": "Chinese Academy of Sciences, Institute of Geographic Sciences and Natural Resources Research"
+	"country": "https://api.eurocris.org/dris/vocabs/countries/country00668",
+	"name": "Chinese Academy of Sciences, Institute of Geographic Sciences and Natural Resources Research"
 }

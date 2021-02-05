@@ -1,5 +1,6 @@
 {
+	"@context": "https://api.eurocris.org/dris/contexts/orgunits.jsonld",
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00454",
-	"country": "vocabs:countries/country00779",
-	"label": "Hogeschool van Amsterdam"
+	"country": "https://api.eurocris.org/dris/vocabs/countries/country00779",
+	"name": "Hogeschool van Amsterdam"
 }

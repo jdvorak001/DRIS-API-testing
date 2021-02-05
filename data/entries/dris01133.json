@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00396",
 			"country": "vocabs:countries/country00831",
-			"label": "Andalusian Regional Government (Junta de Andaluc\u00eda)"
+			"name": "Andalusian Regional Government (Junta de Andaluc\u00eda)"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00831",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "SICA",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00831",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +57,7 @@
 		"lastModified": "2021-02-01T16:19:53.434Z"
 	},
 	"name": "SICA (Andalusian Research Information System)",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00396",
 	"scope": "vocabs:scopes/classcerif00938",
 	"status": "vocabs:statuses/classcerif00935",

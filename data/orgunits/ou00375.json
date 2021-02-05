@@ -1,5 +1,6 @@
 {
+	"@context": "https://api.eurocris.org/dris/contexts/orgunits.jsonld",
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00375",
-	"country": "vocabs:countries/country00705",
-	"label": "Christian-Albrechts-Universit\u00e4t zu Kiel"
+	"country": "https://api.eurocris.org/dris/vocabs/countries/country00705",
+	"name": "Christian-Albrechts-Universit\u00e4t zu Kiel"
 }

@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00108",
 			"country": "vocabs:countries/country00838",
-			"label": "Swiss National Science Foundation\u00a0"
+			"name": "Swiss National Science Foundation\u00a0"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00838",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00838",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +57,7 @@
 		"lastModified": "2021-02-01T16:19:33.031Z"
 	},
 	"name": "P3 SNSF",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00108",
 	"scope": "vocabs:scopes/classcerif00122",
 	"status": "vocabs:statuses/classcerif00935",

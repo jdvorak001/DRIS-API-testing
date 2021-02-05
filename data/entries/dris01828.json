@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00999",
 			"country": "vocabs:countries/country00840",
-			"label": "National Chiao Tung University"
+			"name": "National Chiao Tung University"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00840",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "NCTU Academic Hub",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00840",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +57,7 @@
 		"lastModified": "2021-02-01T16:20:07.711Z"
 	},
 	"name": "National Chiao Tung University Academic Hub",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00999",
 	"scope": "vocabs:scopes/classcerif00937",
 	"status": "vocabs:statuses/classcerif00935",

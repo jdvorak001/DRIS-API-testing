@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00556",
 			"country": "vocabs:countries/country00796",
-			"label": "Consejo Nacional de Ciencia, Tecnolog\u00eda e Innovaci\u00f3n Tecnol\u00f3gica (CONCYTEC)"
+			"name": "Consejo Nacional de Ciencia, Tecnolog\u00eda e Innovaci\u00f3n Tecnol\u00f3gica (CONCYTEC)"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00796",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00796",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +57,7 @@
 		"lastModified": "2021-02-01T16:19:46.325Z"
 	},
 	"name": "Repositorio Institucional CONCYTEC",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00556",
 	"scope": "vocabs:scopes/classcerif00122",
 	"status": "vocabs:statuses/classcerif00935",

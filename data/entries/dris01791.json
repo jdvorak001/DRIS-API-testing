@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00967",
 			"country": "vocabs:countries/country00799",
-			"label": "Medical University of Gda\u0144sk"
+			"name": "Medical University of Gda\u0144sk"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00799",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "PPM-GUMed",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00799",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +57,7 @@
 		"lastModified": "2021-02-01T16:20:02.379Z"
 	},
 	"name": "Polish Platform of Medical Research of Medical University of Gda\u0144sk",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00967",
 	"scope": "vocabs:scopes/classcerif00937",
 	"status": "vocabs:statuses/classcerif00935",

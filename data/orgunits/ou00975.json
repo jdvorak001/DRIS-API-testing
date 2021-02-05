@@ -1,5 +1,6 @@
 {
+	"@context": "https://api.eurocris.org/dris/contexts/orgunits.jsonld",
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00975",
-	"country": "vocabs:countries/country00668",
-	"label": "Chinese Academy of Sciences, Shanghai Institute of Optics and Fine Mechanics"
+	"country": "https://api.eurocris.org/dris/vocabs/countries/country00668",
+	"name": "Chinese Academy of Sciences, Shanghai Institute of Optics and Fine Mechanics"
 }

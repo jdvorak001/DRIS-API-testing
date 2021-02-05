@@ -1,5 +1,6 @@
 {
+	"@context": "https://api.eurocris.org/dris/contexts/orgunits.jsonld",
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00426",
-	"country": "vocabs:countries/country00779",
-	"label": "Technical University Eindhoven"
+	"country": "https://api.eurocris.org/dris/vocabs/countries/country00779",
+	"name": "Technical University Eindhoven"
 }

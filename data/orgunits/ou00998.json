@@ -1,5 +1,6 @@
 {
+	"@context": "https://api.eurocris.org/dris/contexts/orgunits.jsonld",
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00998",
-	"country": "vocabs:countries/country00840",
-	"label": "National Taiwan Normal University"
+	"country": "https://api.eurocris.org/dris/vocabs/countries/country00840",
+	"name": "National Taiwan Normal University"
 }

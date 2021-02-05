@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00978",
 			"country": "vocabs:countries/country00682",
-			"label": "Czech Technical University in Prague"
+			"name": "Czech Technical University in Prague"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00682",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "\u010cVUT RIS",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00682",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +57,7 @@
 		"lastModified": "2021-02-01T16:20:04.815Z"
 	},
 	"name": "Czech Technical University Research Information System",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00978",
 	"scope": "vocabs:scopes/classcerif00937",
 	"status": "vocabs:statuses/classcerif00935",

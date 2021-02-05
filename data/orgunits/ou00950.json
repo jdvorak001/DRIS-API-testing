@@ -1,5 +1,6 @@
 {
+	"@context": "https://api.eurocris.org/dris/contexts/orgunits.jsonld",
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00950",
-	"country": "vocabs:countries/country00725",
-	"label": "Yenepoya University, Mangalore"
+	"country": "https://api.eurocris.org/dris/vocabs/countries/country00725",
+	"name": "Yenepoya University, Mangalore"
 }

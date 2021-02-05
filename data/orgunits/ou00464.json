@@ -1,5 +1,6 @@
 {
+	"@context": "https://api.eurocris.org/dris/contexts/orgunits.jsonld",
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00464",
-	"country": "vocabs:countries/country00858",
-	"label": "Washington University of St.Louis"
+	"country": "https://api.eurocris.org/dris/vocabs/countries/country00858",
+	"name": "Washington University of St.Louis"
 }

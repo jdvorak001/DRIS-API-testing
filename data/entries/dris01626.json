@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00057",
 			"country": "vocabs:countries/country00800",
-			"label": "Portuguese Foundation for Science and Technology (Funda\u00e7\u00e3o para a Ci\u00eancia e a Tecnologia, FCT)"
+			"name": "Portuguese Foundation for Science and Technology (Funda\u00e7\u00e3o para a Ci\u00eancia e a Tecnologia, FCT)"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00800",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00800",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +57,7 @@
 		"lastModified": "2021-02-01T16:19:15.240Z"
 	},
 	"name": "CI\u00caNCIAVITAE",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00057",
 	"scope": "vocabs:scopes/classcerif00939",
 	"status": "vocabs:statuses/classcerif00935",

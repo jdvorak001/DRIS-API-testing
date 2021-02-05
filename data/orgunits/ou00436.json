@@ -1,5 +1,6 @@
 {
+	"@context": "https://api.eurocris.org/dris/contexts/orgunits.jsonld",
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00436",
-	"country": "vocabs:countries/country00644",
-	"label": "Flanders Marine Institute"
+	"country": "https://api.eurocris.org/dris/vocabs/countries/country00644",
+	"name": "Flanders Marine Institute"
 }

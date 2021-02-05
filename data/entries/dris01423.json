@@ -17,7 +17,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00638",
 			"country": "vocabs:countries/country00779",
-			"label": "University of Groningen"
+			"name": "University of Groningen"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00779",
@@ -33,6 +33,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "RUG Research Database",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00779",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -47,6 +51,7 @@
 		"lastModified": "2021-02-01T16:19:27.073Z"
 	},
 	"name": "University of Groningen Research Database",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00638",
 	"scope": "",
 	"status": "vocabs:statuses/classcerif00935",

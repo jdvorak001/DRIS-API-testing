@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00266",
 			"country": "vocabs:countries/country00857",
-			"label": "Glasgow Caledonian University"
+			"name": "Glasgow Caledonian University"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00857",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "Pure Caley",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00857",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +57,7 @@
 		"lastModified": "2021-02-01T16:19:12.696Z"
 	},
 	"name": "ResearchOnline@GCU",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00266",
 	"scope": "vocabs:scopes/classcerif00937",
 	"status": "vocabs:statuses/classcerif00935",

@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00375",
 			"country": "vocabs:countries/country00705",
-			"label": "Christian-Albrechts-Universit\u00e4t zu Kiel"
+			"name": "Christian-Albrechts-Universit\u00e4t zu Kiel"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00705",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "CAU CRIS",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00705",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +57,7 @@
 		"lastModified": "2021-02-01T16:20:09.470Z"
 	},
 	"name": "Christian-Albrecht-University Kiel Research Information System",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00375",
 	"scope": "vocabs:scopes/classcerif00937",
 	"status": "vocabs:statuses/classcerif00935",

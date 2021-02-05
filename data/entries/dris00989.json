@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00036",
 			"country": "vocabs:countries/country00805",
-			"label": "Central Economics and Mathematics Institute of RAS (CEMI RAS)"
+			"name": "Central Economics and Mathematics Institute of RAS (CEMI RAS)"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00805",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "RAS CRIS / ASU RID RAN",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00805",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +57,7 @@
 		"lastModified": "2021-02-01T16:19:12.239Z"
 	},
 	"name": "CRIS of the Russian Academy of Sciences",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00036",
 	"scope": "vocabs:scopes/classcerif00889",
 	"status": "vocabs:statuses/classcerif00935",

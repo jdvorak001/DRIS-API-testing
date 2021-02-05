@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00474",
 			"country": "vocabs:countries/country00766",
-			"label": "Universidad de Monterrey"
+			"name": "Universidad de Monterrey"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00766",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "Pure Monterrey",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00766",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +57,7 @@
 		"lastModified": "2021-02-01T16:19:38.975Z"
 	},
 	"name": "Pure Monterrey University",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00474",
 	"scope": "vocabs:scopes/classcerif00937",
 	"status": "vocabs:statuses/classcerif00935",

@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00268",
 			"country": "vocabs:countries/country00857",
-			"label": "Queen's University Belfast"
+			"name": "Queen's University Belfast"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00857",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "Pure QUB",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00857",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +57,7 @@
 		"lastModified": "2021-02-01T16:19:12.820Z"
 	},
 	"name": "Pure Queen's University Belfast",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00268",
 	"scope": "vocabs:scopes/classcerif00937",
 	"status": "vocabs:statuses/classcerif00935",

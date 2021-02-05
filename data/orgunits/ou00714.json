@@ -1,5 +1,6 @@
 {
+	"@context": "https://api.eurocris.org/dris/contexts/orgunits.jsonld",
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00714",
-	"country": "vocabs:countries/country00788",
-	"label": "Centre for Applied Research at NHH"
+	"country": "https://api.eurocris.org/dris/vocabs/countries/country00788",
+	"name": "Centre for Applied Research at NHH"
 }

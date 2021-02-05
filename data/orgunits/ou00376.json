@@ -1,5 +1,6 @@
 {
+	"@context": "https://api.eurocris.org/dris/contexts/orgunits.jsonld",
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00376",
-	"country": "vocabs:countries/country00705",
-	"label": "Leibniz Universit\u00e4t Hannover"
+	"country": "https://api.eurocris.org/dris/vocabs/countries/country00705",
+	"name": "Leibniz Universit\u00e4t Hannover"
 }

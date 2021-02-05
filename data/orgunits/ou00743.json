@@ -1,5 +1,6 @@
 {
+	"@context": "https://api.eurocris.org/dris/contexts/orgunits.jsonld",
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00743",
-	"country": "vocabs:countries/country00788",
-	"label": "F\u00f8rde Hospital Trust"
+	"country": "https://api.eurocris.org/dris/vocabs/countries/country00788",
+	"name": "F\u00f8rde Hospital Trust"
 }

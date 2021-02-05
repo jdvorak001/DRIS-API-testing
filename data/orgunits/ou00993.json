@@ -1,5 +1,6 @@
 {
+	"@context": "https://api.eurocris.org/dris/contexts/orgunits.jsonld",
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00993",
-	"country": "vocabs:countries/country00725",
-	"label": "Model Institute of Engineering and Technology, Jammu"
+	"country": "https://api.eurocris.org/dris/vocabs/countries/country00725",
+	"name": "Model Institute of Engineering and Technology, Jammu"
 }

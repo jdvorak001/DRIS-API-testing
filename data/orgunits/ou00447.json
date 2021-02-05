@@ -1,5 +1,6 @@
 {
+	"@context": "https://api.eurocris.org/dris/contexts/orgunits.jsonld",
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00447",
-	"country": "vocabs:countries/country00722",
-	"label": "Hong Kong Polytechnic University"
+	"country": "https://api.eurocris.org/dris/vocabs/countries/country00722",
+	"name": "Hong Kong Polytechnic University"
 }

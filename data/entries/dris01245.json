@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00473",
 			"country": "vocabs:countries/country00741",
-			"label": "Yonsei University"
+			"name": "Yonsei University"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00741",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "Pure Yonsei",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00741",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +57,7 @@
 		"lastModified": "2021-02-01T16:19:38.892Z"
 	},
 	"name": "Pure Yonsei University",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00473",
 	"scope": "vocabs:scopes/classcerif00937",
 	"status": "vocabs:statuses/classcerif00935",

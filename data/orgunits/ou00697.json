@@ -1,5 +1,6 @@
 {
+	"@context": "https://api.eurocris.org/dris/contexts/orgunits.jsonld",
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00697",
-	"country": "vocabs:countries/country00705",
-	"label": "European Science Academies"
+	"country": "https://api.eurocris.org/dris/vocabs/countries/country00705",
+	"name": "European Science Academies"
 }

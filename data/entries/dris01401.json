@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00619",
 			"country": "vocabs:countries/country00858",
-			"label": "Carnegie Mellon University"
+			"name": "Carnegie Mellon University"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00858",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00858",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +57,7 @@
 		"lastModified": "2021-02-01T16:19:25.859Z"
 	},
 	"name": "CMU Elements",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00619",
 	"scope": "vocabs:scopes/classcerif00889",
 	"status": "vocabs:statuses/classcerif00935",

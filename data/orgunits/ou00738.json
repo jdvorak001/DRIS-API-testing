@@ -1,5 +1,6 @@
 {
+	"@context": "https://api.eurocris.org/dris/contexts/orgunits.jsonld",
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00738",
-	"country": "vocabs:countries/country00788",
-	"label": "Central Norway Hospital Pharmacies Trust"
+	"country": "https://api.eurocris.org/dris/vocabs/countries/country00788",
+	"name": "Central Norway Hospital Pharmacies Trust"
 }

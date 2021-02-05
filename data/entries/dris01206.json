@@ -34,6 +34,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "SINBAW",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00799",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -48,6 +52,7 @@
 		"lastModified": "2021-02-01T16:19:36.120Z"
 	},
 	"name": "Polish Network of University Knowledge Bases",
+	"openaireCrisEndpointURL": "",
 	"organization": "",
 	"scope": "vocabs:scopes/classcerif01205",
 	"status": "vocabs:statuses/classcerif00392",

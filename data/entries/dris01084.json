@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00332",
 			"country": "vocabs:countries/country00732",
-			"label": "Scuola Normale di Pisa"
+			"name": "Scuola Normale di Pisa"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00732",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00732",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +57,7 @@
 		"lastModified": "2021-02-01T16:19:59.444Z"
 	},
 	"name": "IRIS Scuola Normale di Pisa",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00332",
 	"scope": "vocabs:scopes/classcerif00937",
 	"status": "vocabs:statuses/classcerif00935",

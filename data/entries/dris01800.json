@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00975",
 			"country": "vocabs:countries/country00668",
-			"label": "Chinese Academy of Sciences, Shanghai Institute of Optics and Fine Mechanics"
+			"name": "Chinese Academy of Sciences, Shanghai Institute of Optics and Fine Mechanics"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00668",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00668",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +57,7 @@
 		"lastModified": "2021-02-01T16:20:04.105Z"
 	},
 	"name": "KMS Shanghai Institute of Optics and Fine Mechanics, Chinese Academy of Sciences",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00975",
 	"scope": "vocabs:scopes/classcerif00937",
 	"status": "vocabs:statuses/classcerif00935",

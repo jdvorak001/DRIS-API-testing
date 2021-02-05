@@ -1,5 +1,6 @@
 {
+	"@context": "https://api.eurocris.org/dris/contexts/orgunits.jsonld",
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00960",
-	"country": "vocabs:countries/country00799",
-	"label": "Medical University of Warsaw"
+	"country": "https://api.eurocris.org/dris/vocabs/countries/country00799",
+	"name": "Medical University of Warsaw"
 }

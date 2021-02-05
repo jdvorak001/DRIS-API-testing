@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00429",
 			"country": "vocabs:countries/country00752",
-			"label": "Luxembourg National Research Fund"
+			"name": "Luxembourg National Research Fund"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00752",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00752",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +57,7 @@
 		"lastModified": "2021-02-01T16:19:35.037Z"
 	},
 	"name": "FNR Project Finder",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00429",
 	"scope": "vocabs:scopes/classcerif00122",
 	"status": "vocabs:statuses/classcerif00935",

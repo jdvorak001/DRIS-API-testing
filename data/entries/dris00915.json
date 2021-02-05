@@ -16,6 +16,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00683",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -30,6 +34,7 @@
 		"lastModified": "2021-02-01T16:19:11.470Z"
 	},
 	"name": "Pure",
+	"openaireCrisEndpointURL": "",
 	"organization": "",
 	"scope": "",
 	"status": "",

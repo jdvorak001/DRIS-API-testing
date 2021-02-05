@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00850",
 			"country": "vocabs:countries/country00858",
-			"label": "University of Texas Medical Branch at Galveston"
+			"name": "University of Texas Medical Branch at Galveston"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00858",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00858",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +57,7 @@
 		"lastModified": "2021-02-01T16:19:15.918Z"
 	},
 	"name": "Pure UTMB Health",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00850",
 	"scope": "vocabs:scopes/classcerif00937",
 	"status": "vocabs:statuses/classcerif00935",

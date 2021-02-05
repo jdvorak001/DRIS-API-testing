@@ -1,5 +1,6 @@
 {
+	"@context": "https://api.eurocris.org/dris/contexts/orgunits.jsonld",
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00718",
-	"country": "vocabs:countries/country00788",
-	"label": "Modum Mental Health Centre"
+	"country": "https://api.eurocris.org/dris/vocabs/countries/country00788",
+	"name": "Modum Mental Health Centre"
 }

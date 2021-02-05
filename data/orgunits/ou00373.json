@@ -1,5 +1,6 @@
 {
+	"@context": "https://api.eurocris.org/dris/contexts/orgunits.jsonld",
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00373",
-	"country": "vocabs:countries/country00705",
-	"label": "Hochschule Zittau/G\u00f6rlitz"
+	"country": "https://api.eurocris.org/dris/vocabs/countries/country00705",
+	"name": "Hochschule Zittau/G\u00f6rlitz"
 }

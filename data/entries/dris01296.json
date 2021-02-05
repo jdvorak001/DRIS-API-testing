@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00521",
 			"country": "vocabs:countries/country00725",
-			"label": "Karnatak Law Society Gogte Institute of Technology, Belagavi"
+			"name": "Karnatak Law Society Gogte Institute of Technology, Belagavi"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00725",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "GIT Scholar Profile",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00725",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +57,7 @@
 		"lastModified": "2021-02-01T16:19:43.101Z"
 	},
 	"name": "Karnatak Law Society Gogte Institute of Technology, Belagavi Scholars Profile",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00521",
 	"scope": "vocabs:scopes/classcerif00937",
 	"status": "vocabs:statuses/classcerif00935",

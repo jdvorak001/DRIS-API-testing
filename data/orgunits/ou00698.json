@@ -1,5 +1,6 @@
 {
+	"@context": "https://api.eurocris.org/dris/contexts/orgunits.jsonld",
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00698",
-	"country": "vocabs:countries/country00705",
-	"label": "Bundesministerium f\u00fcr Bildung und Forschung (BMBF)"
+	"country": "https://api.eurocris.org/dris/vocabs/countries/country00705",
+	"name": "Bundesministerium f\u00fcr Bildung und Forschung (BMBF)"
 }

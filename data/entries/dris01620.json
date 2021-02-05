@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00827",
 			"country": "vocabs:countries/country00819",
-			"label": "University of Ni\u0161"
+			"name": "University of Ni\u0161"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00819",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00819",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +57,7 @@
 		"lastModified": "2021-02-01T16:19:15.058Z"
 	},
 	"name": "University of Ni\u0161 Repository",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00827",
 	"scope": "vocabs:scopes/classcerif00937",
 	"status": "vocabs:statuses/classcerif00935",

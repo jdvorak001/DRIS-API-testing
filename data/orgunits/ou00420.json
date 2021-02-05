@@ -1,5 +1,6 @@
 {
+	"@context": "https://api.eurocris.org/dris/contexts/orgunits.jsonld",
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00420",
-	"country": "vocabs:countries/country00637",
-	"label": "Medizinische  Universit\u00e4t Graz / Medical University of Graz"
+	"country": "https://api.eurocris.org/dris/vocabs/countries/country00637",
+	"name": "Medizinische  Universit\u00e4t Graz / Medical University of Graz"
 }

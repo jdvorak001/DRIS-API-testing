@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00102",
 			"country": "vocabs:countries/country00825",
-			"label": "Slovak Centre of Scientific and Technical Information (CVTI SR)"
+			"name": "Slovak Centre of Scientific and Technical Information (CVTI SR)"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00824",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "SK CRIS",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00824",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +57,7 @@
 		"lastModified": "2021-02-01T16:19:10.759Z"
 	},
 	"name": "Slovak Current Research Information System",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00102",
 	"scope": "vocabs:scopes/classcerif00939",
 	"status": "vocabs:statuses/classcerif00935",

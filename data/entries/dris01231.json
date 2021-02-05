@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00460",
 			"country": "vocabs:countries/country00637",
-			"label": "Universit\u00e4t Salzburg"
+			"name": "Universit\u00e4t Salzburg"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00637",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "Pure US",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00637",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +57,7 @@
 		"lastModified": "2021-02-01T16:19:37.756Z"
 	},
 	"name": "Pure Uni Salzburg",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00460",
 	"scope": "vocabs:scopes/classcerif00937",
 	"status": "vocabs:statuses/classcerif00935",

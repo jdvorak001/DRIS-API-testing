@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00637",
 			"country": "vocabs:countries/country00796",
-			"label": "Universidad Cat\u00f3lica Santo Toribio de Mongrovejo (USAT)"
+			"name": "Universidad Cat\u00f3lica Santo Toribio de Mongrovejo (USAT)"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00796",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "UsatCRIS",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00796",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +57,7 @@
 		"lastModified": "2021-02-01T16:19:27.013Z"
 	},
 	"name": "UsatCRIS",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00637",
 	"scope": "vocabs:scopes/classcerif00889",
 	"status": "vocabs:statuses/classcerif00392",

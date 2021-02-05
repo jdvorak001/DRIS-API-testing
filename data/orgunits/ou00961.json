@@ -1,5 +1,6 @@
 {
+	"@context": "https://api.eurocris.org/dris/contexts/orgunits.jsonld",
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00961",
-	"country": "vocabs:countries/country00799",
-	"label": "Wroclaw Medical University"
+	"country": "https://api.eurocris.org/dris/vocabs/countries/country00799",
+	"name": "Wroclaw Medical University"
 }

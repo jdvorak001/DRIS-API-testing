@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00636",
 			"country": "vocabs:countries/country00796",
-			"label": "Universidad del Pac\u00edfico (Per\u00fa)"
+			"name": "Universidad del Pac\u00edfico (Per\u00fa)"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00796",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "Pure UP",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00796",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +57,7 @@
 		"lastModified": "2021-02-01T16:20:05.345Z"
 	},
 	"name": "Pure Universidad del Pac\u00edfico",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00636",
 	"scope": "vocabs:scopes/classcerif00889",
 	"status": "vocabs:statuses/classcerif00935",

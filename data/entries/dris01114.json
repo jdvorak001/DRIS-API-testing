@@ -22,8 +22,7 @@
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00013",
-			"country": "vocabs:countries/",
-			"label": "Leuphana Universit\u00e4t L\u00fcneburg"
+			"name": "Leuphana Universit\u00e4t L\u00fcneburg"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00705",
@@ -39,6 +38,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "FOX",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00705",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +56,7 @@
 		"lastModified": "2021-02-01T16:19:51.592Z"
 	},
 	"name": "FOX",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00013",
 	"scope": "vocabs:scopes/classcerif00937",
 	"status": "vocabs:statuses/classcerif00935",

@@ -1,5 +1,6 @@
 {
+	"@context": "https://api.eurocris.org/dris/contexts/orgunits.jsonld",
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00753",
-	"country": "vocabs:countries/country00788",
-	"label": "South Eastern Norway Hospital Pharmacies Regional Health Authority"
+	"country": "https://api.eurocris.org/dris/vocabs/countries/country00788",
+	"name": "South Eastern Norway Hospital Pharmacies Regional Health Authority"
 }

@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00981",
 			"country": "vocabs:countries/country00668",
-			"label": "Shanghai University of Finance and Economics"
+			"name": "Shanghai University of Finance and Economics"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00668",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "WAPE Scholar",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00668",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +57,7 @@
 		"lastModified": "2021-02-01T16:20:05.050Z"
 	},
 	"name": "World Association for Political Economy (WAPE) Scholar",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00981",
 	"scope": "vocabs:scopes/classcerif00937",
 	"status": "vocabs:statuses/classcerif00935",

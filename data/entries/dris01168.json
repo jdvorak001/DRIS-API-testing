@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00369",
 			"country": "vocabs:countries/country00705",
-			"label": "Otto-Friedrich Universit\u00e4t Bamberg"
+			"name": "Otto-Friedrich Universit\u00e4t Bamberg"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00705",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "FIS Uni Bamberg",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00705",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +57,7 @@
 		"lastModified": "2021-02-01T16:19:33.596Z"
 	},
 	"name": "Research Information System Universit\u00e4t Bamberg",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00369",
 	"scope": "vocabs:scopes/classcerif00937",
 	"status": "vocabs:statuses/classcerif00935",

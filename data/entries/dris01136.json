@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00399",
 			"country": "vocabs:countries/country00831",
-			"label": "University of Barcelona (UB)"
+			"name": "University of Barcelona (UB)"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00831",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "GREC UB",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00831",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +57,7 @@
 		"lastModified": "2021-02-01T16:19:53.726Z"
 	},
 	"name": "GREC UB (Gesti\u00f3 de la Recerca)",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00399",
 	"scope": "vocabs:scopes/classcerif00937",
 	"status": "vocabs:statuses/classcerif00935",

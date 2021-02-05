@@ -1,5 +1,6 @@
 {
+	"@context": "https://api.eurocris.org/dris/contexts/orgunits.jsonld",
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00315",
-	"country": "vocabs:countries/country00732",
-	"label": "IULM Libera Universit\u00e0 di Lingue e Comunicazione - Milano"
+	"country": "https://api.eurocris.org/dris/vocabs/countries/country00732",
+	"name": "IULM Libera Universit\u00e0 di Lingue e Comunicazione - Milano"
 }

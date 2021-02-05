@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00418",
 			"country": "vocabs:countries/country00799",
-			"label": "Institute of Low Temperature and Structural Research Wroc\u0142aw"
+			"name": "Institute of Low Temperature and Structural Research Wroc\u0142aw"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00799",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00799",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +57,7 @@
 		"lastModified": "2021-02-01T16:19:35.506Z"
 	},
 	"name": "Omega-PSIR INTIBS",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00418",
 	"scope": "vocabs:scopes/classcerif00937",
 	"status": "vocabs:statuses/classcerif00392",

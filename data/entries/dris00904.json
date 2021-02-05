@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00096",
 			"country": "vocabs:countries/country00745",
-			"label": "Riga Technical University"
+			"name": "Riga Technical University"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00745",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "ZDAS",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00745",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +57,7 @@
 		"lastModified": "2021-02-01T16:19:11.110Z"
 	},
 	"name": "Research Information System of Riga Technical University",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00096",
 	"scope": "vocabs:scopes/classcerif00889",
 	"status": "vocabs:statuses/classcerif00935",

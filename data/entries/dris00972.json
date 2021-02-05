@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00247",
 			"country": "vocabs:countries/country00754",
-			"label": "National and University Library \"St. Clement of Ohrid\""
+			"name": "National and University Library \"St. Clement of Ohrid\""
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00754",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "E-CRIS.MK",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00754",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +57,7 @@
 		"lastModified": "2021-02-01T16:19:12.180Z"
 	},
 	"name": "E-CRIS.MK",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00247",
 	"scope": "vocabs:scopes/classcerif00939",
 	"status": "vocabs:statuses/classcerif00935",

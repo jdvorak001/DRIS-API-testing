@@ -22,8 +22,7 @@
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00241",
-			"country": "vocabs:countries/country00683",
-			"label": "Aarhus University"
+			"name": "Aarhus University"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00683",
@@ -39,6 +38,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "AU Research",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00683",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +56,7 @@
 		"lastModified": "2021-02-01T16:19:11.766Z"
 	},
 	"name": "Aarhus University Research",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00241",
 	"scope": "vocabs:scopes/classcerif00937",
 	"status": "vocabs:statuses/classcerif00935",

@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00259",
 			"country": "vocabs:countries/country00857",
-			"label": "ResearchFish Ltd (in partnership with funders such as the EPSRC or CRUK)"
+			"name": "ResearchFish Ltd (in partnership with funders such as the EPSRC or CRUK)"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00857",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "Researchfish",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00857",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +57,7 @@
 		"lastModified": "2021-02-01T16:19:12.498Z"
 	},
 	"name": "Researchfish",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00259",
 	"scope": "vocabs:scopes/classcerif00386",
 	"status": "vocabs:statuses/classcerif00935",

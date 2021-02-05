@@ -22,8 +22,7 @@
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00027",
-			"country": "vocabs:countries/",
-			"label": "Flemish Government. Department of Economy, Science and Innovation (EWI)"
+			"name": "Flemish Government. Department of Economy, Science and Innovation (EWI)"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00644",
@@ -39,6 +38,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "FRIS",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00644",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +56,7 @@
 		"lastModified": "2021-02-01T16:19:11.647Z"
 	},
 	"name": "Flanders Research Information Space",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00027",
 	"scope": "vocabs:scopes/classcerif00938",
 	"status": "vocabs:statuses/classcerif00935",

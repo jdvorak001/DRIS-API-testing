@@ -1,5 +1,6 @@
 {
+	"@context": "https://api.eurocris.org/dris/contexts/orgunits.jsonld",
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00762",
-	"country": "vocabs:countries/country00788",
-	"label": "LHL-clinics"
+	"country": "https://api.eurocris.org/dris/vocabs/countries/country00788",
+	"name": "LHL-clinics"
 }

@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00644",
 			"country": "vocabs:countries/country00725",
-			"label": "Malaviya National Institute of Technology Jaipur"
+			"name": "Malaviya National Institute of Technology Jaipur"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00725",
@@ -39,6 +39,10 @@
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
 	"acronym": "MNIT Scholar Profile",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
 	"country": "vocabs:countries/country00725",
 	"coverages": [],
 	"crisDataOutput": "",
@@ -53,6 +57,7 @@
 		"lastModified": "2021-02-01T16:19:27.482Z"
 	},
 	"name": "Malaviya National Institute of Technology Jaipur Scholar Profile",
+	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00644",
 	"scope": "vocabs:scopes/classcerif00937",
 	"status": "vocabs:statuses/classcerif00935",
