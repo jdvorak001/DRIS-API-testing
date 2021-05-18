@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00781",
 	"country": "vocabs:countries/country00788",
-	"label": "Institute of Marine Research"
+	"name": "Institute of Marine Research"
 }

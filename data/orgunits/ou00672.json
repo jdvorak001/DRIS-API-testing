@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00672",
 	"country": "vocabs:countries/country00788",
-	"label": "UiT The Arctic University of Norway"
+	"name": "UiT The Arctic University of Norway"
 }

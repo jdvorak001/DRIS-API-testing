@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00894",
 	"country": "vocabs:countries/country00683",
-	"label": "Royal Danish Academy of Fine Arts School of Visual Arts"
+	"name": "Royal Danish Academy of Fine Arts School of Visual Arts"
 }

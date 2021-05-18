@@ -1,6 +1,5 @@
 {
-	"@context": "https://api.eurocris.org/dris/contexts/orgunits.jsonld",
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00980",
-	"country": "https://api.eurocris.org/dris/vocabs/countries/country00671",
+	"country": "vocabs:countries/country00671",
 	"name": "Universidad de Ibagu\u00e9"
 }

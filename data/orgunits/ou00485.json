@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00485",
 	"country": "vocabs:countries/country00857",
-	"label": "Plymouth University"
+	"name": "Plymouth University"
 }

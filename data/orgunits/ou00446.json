@@ -1,6 +1,5 @@
 {
-	"@context": "https://api.eurocris.org/dris/contexts/orgunits.jsonld",
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00446",
-	"country": "https://api.eurocris.org/dris/vocabs/countries/country00752",
+	"country": "vocabs:countries/country00752",
 	"name": "Luxembourg Insitutuite of Socio-Economic Research (LISER)"
 }

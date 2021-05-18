@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00270",
 	"country": "vocabs:countries/country00857",
-	"label": "University of Aberdeen"
+	"name": "University of Aberdeen"
 }

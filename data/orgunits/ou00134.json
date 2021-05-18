@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00134",
 	"country": "vocabs:countries/country00788",
-	"label": "University of Bergen"
+	"name": "University of Bergen"
 }

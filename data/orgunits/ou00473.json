@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00473",
 	"country": "vocabs:countries/country00741",
-	"label": "Yonsei University"
+	"name": "Yonsei University"
 }

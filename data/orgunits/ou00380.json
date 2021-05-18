@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00380",
 	"country": "vocabs:countries/country00705",
-	"label": "Humboldt-Universit\u00e4t zu Berlin"
+	"name": "Humboldt-Universit\u00e4t zu Berlin"
 }

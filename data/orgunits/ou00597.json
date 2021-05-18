@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00597",
 	"country": "vocabs:countries/country00725",
-	"label": "Indian Institute of Technology Bhubaneswar"
+	"name": "Indian Institute of Technology Bhubaneswar"
 }

@@ -1,6 +1,5 @@
 {
-	"@context": "https://api.eurocris.org/dris/contexts/orgunits.jsonld",
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00104",
-	"country": "https://api.eurocris.org/dris/vocabs/countries/country00678",
+	"country": "vocabs:countries/country00678",
 	"name": "SRCE-University Computing Centre, University of Zagreb"
 }

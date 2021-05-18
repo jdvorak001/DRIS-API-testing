@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00833",
 	"country": "vocabs:countries/country00858",
-	"label": "Albert Einstein College of Medicine"
+	"name": "Albert Einstein College of Medicine"
 }

@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00404",
 	"country": "vocabs:countries/country00831",
-	"label": "University of Lleida (UdL)"
+	"name": "University of Lleida (UdL)"
 }

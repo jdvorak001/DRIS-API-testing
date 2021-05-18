@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00663",
 	"country": "vocabs:countries/country00751",
-	"label": "Mykolas Romeris University"
+	"name": "Mykolas Romeris University"
 }

@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00127",
 	"country": "vocabs:countries/country00831",
-	"label": "Universidad de Sevilla"
+	"name": "Universidad de Sevilla"
 }

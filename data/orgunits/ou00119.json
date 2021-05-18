@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00119",
 	"country": "vocabs:countries/country00837",
-	"label": "Swedish Research Council"
+	"name": "Swedish Research Council"
 }

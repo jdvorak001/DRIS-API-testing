@@ -1,6 +1,5 @@
 {
-	"@context": "https://api.eurocris.org/dris/contexts/orgunits.jsonld",
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00135",
-	"country": "https://api.eurocris.org/dris/vocabs/countries/country00683",
+	"country": "vocabs:countries/country00683",
 	"name": "University of Copenhagen"
 }

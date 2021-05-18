@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00408",
 	"country": "vocabs:countries/country00831",
-	"label": "University of Granada (UGR)"
+	"name": "University of Granada (UGR)"
 }

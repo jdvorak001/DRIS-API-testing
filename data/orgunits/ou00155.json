@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00155",
 	"country": "vocabs:countries/country00637",
-	"label": "University of Vienna"
+	"name": "University of Vienna"
 }

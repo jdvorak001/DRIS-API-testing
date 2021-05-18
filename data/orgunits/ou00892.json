@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00892",
 	"country": "vocabs:countries/country00683",
-	"label": "IT University of Copenhagen"
+	"name": "IT University of Copenhagen"
 }

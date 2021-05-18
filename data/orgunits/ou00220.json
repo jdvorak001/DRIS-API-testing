@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00220",
 	"country": "vocabs:countries/country00671",
-	"label": "Pontificia Universidad Javeriana"
+	"name": "Pontificia Universidad Javeriana"
 }

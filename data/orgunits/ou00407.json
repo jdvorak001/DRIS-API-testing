@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00407",
 	"country": "vocabs:countries/country00831",
-	"label": "King Juan Carlos University (URJC)"
+	"name": "King Juan Carlos University (URJC)"
 }

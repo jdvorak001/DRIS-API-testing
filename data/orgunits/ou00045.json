@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00045",
 	"country": "vocabs:countries/country00779",
-	"label": "Digital Archiving and Networked Services (DANS)"
+	"name": "Digital Archiving and Networked Services (DANS)"
 }

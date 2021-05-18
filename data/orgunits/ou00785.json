@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00785",
 	"country": "vocabs:countries/country00788",
-	"label": "Nansen Environmental and Remote Sensing Center"
+	"name": "Nansen Environmental and Remote Sensing Center"
 }

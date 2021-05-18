@@ -50,16 +50,16 @@
 	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01758",
 	"crisPlatformNote": "",
-	"description": "Gismo is the institutional research information management system at the University of Ghent, https://www.ugent.be/intranet/en/research/organisation/gismo.htm. It's currently an internal-use-only platform, but its content is being harvested by the Flemish Government FRIS and may be searched there",
+	"description": "GISMO is the Ghent University <a href=\"https://onderzoektips.ugent.be/en/tips/00001896/\" target=\"_blank\">research information system</a>. This system supports two aims: (1) database of all research related information (researchers with their career details and expertise, projects, publications and other types of output, research activities, equipment etc.) and (2) support/streamlining research related workflows (application and management of research proposals, registration and management of research output and activities, reporting, etc).",
 	"established": "",
 	"metadata": {
 		"created": "2017-05-24T16:14:52.239Z",
-		"lastModified": "2021-02-01T16:19:11.812Z"
+		"lastModified": "2021-04-03T10:48:21.078Z"
 	},
 	"name": "GISMO",
 	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00060",
 	"scope": "vocabs:scopes/classcerif00937",
 	"status": "vocabs:statuses/classcerif00935",
-	"uri": "https://researchportal.be/nl/project/gismo-impulsfinanciering-voor-de-realisatie-van-een-dienstenarchitectuur-voor-uitwisseling"
+	"uri": "https://research.ugent.be/"
 }

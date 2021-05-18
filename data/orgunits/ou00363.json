@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00363",
 	"country": "vocabs:countries/country00705",
-	"label": "Universit\u00e4t Kassel"
+	"name": "Universit\u00e4t Kassel"
 }

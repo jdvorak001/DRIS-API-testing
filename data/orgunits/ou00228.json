@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00228",
 	"country": "vocabs:countries/country00857",
-	"label": "University of Manchester"
+	"name": "University of Manchester"
 }

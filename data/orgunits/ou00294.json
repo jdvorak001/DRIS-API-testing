@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00294",
 	"country": "vocabs:countries/country00732",
-	"label": "Universit\u00e0 del Sannio"
+	"name": "Universit\u00e0 del Sannio"
 }

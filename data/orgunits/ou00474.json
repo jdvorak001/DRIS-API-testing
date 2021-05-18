@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00474",
 	"country": "vocabs:countries/country00766",
-	"label": "Universidad de Monterrey"
+	"name": "Universidad de Monterrey"
 }

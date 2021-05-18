@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00282",
 	"country": "vocabs:countries/country00857",
-	"label": "University of Worcester"
+	"name": "University of Worcester"
 }

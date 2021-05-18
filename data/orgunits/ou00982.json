@@ -1,6 +1,5 @@
 {
-	"@context": "https://api.eurocris.org/dris/contexts/orgunits.jsonld",
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00982",
-	"country": "https://api.eurocris.org/dris/vocabs/countries/country00671",
+	"country": "vocabs:countries/country00671",
 	"name": "Taipei Medical University"
 }

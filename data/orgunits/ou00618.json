@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00618",
 	"country": "vocabs:countries/country00858",
-	"label": "University of California"
+	"name": "University of California"
 }

@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00487",
 	"country": "vocabs:countries/country00857",
-	"label": "City University London"
+	"name": "City University London"
 }

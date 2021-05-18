@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00605",
 	"country": "vocabs:countries/country00676",
-	"label": "Universidad Nacional de Costa Rica (UNA)"
+	"name": "Universidad Nacional de Costa Rica (UNA)"
 }

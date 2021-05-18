@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00032",
 	"country": "vocabs:countries/country00698",
-	"label": "Agence de Mutualisation des Universit\u00e9s et Etablissements"
+	"name": "Agence de Mutualisation des Universit\u00e9s et Etablissements"
 }

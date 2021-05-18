@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00398",
 	"country": "vocabs:countries/country00831",
-	"label": "Pompeu Fabra University (UPF)"
+	"name": "Pompeu Fabra University (UPF)"
 }

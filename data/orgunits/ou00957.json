@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00957",
 	"country": "vocabs:countries/country00725",
-	"label": "National Institute of Technical Teachers Training & Research, Chennai"
+	"name": "National Institute of Technical Teachers Training & Research, Chennai"
 }

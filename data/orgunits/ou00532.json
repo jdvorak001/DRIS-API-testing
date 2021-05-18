@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00532",
 	"country": "vocabs:countries/country00725",
-	"label": "Indian Institute of Technology Hyderabad"
+	"name": "Indian Institute of Technology Hyderabad"
 }

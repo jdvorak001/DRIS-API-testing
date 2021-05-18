@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00535",
 	"country": "vocabs:countries/country00725",
-	"label": "Indian Institute of Science Education and Research Thiruvananthapuram"
+	"name": "Indian Institute of Science Education and Research Thiruvananthapuram"
 }

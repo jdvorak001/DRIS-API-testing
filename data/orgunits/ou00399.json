@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00399",
 	"country": "vocabs:countries/country00831",
-	"label": "University of Barcelona (UB)"
+	"name": "University of Barcelona (UB)"
 }

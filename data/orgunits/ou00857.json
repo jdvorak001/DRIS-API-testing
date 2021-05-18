@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00857",
 	"country": "vocabs:countries/country00636",
-	"label": "Flinders University"
+	"name": "Flinders University"
 }

@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00773",
 	"country": "vocabs:countries/country00788",
-	"label": "Valnesfjord Health Sport Center"
+	"name": "Valnesfjord Health Sport Center"
 }

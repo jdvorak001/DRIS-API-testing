@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00837",
 	"country": "vocabs:countries/country00858",
-	"label": "Indiana University"
+	"name": "Indiana University"
 }

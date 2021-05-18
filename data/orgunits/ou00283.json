@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00283",
 	"country": "vocabs:countries/country00857",
-	"label": "University of York"
+	"name": "University of York"
 }

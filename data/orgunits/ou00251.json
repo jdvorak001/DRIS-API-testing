@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00251",
 	"country": "vocabs:countries/country00697",
-	"label": "University of Helsinki"
+	"name": "University of Helsinki"
 }

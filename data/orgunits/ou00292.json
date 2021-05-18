@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00292",
 	"country": "vocabs:countries/country00732",
-	"label": "Politecnico di Bari"
+	"name": "Politecnico di Bari"
 }

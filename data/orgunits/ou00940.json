@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00940",
 	"country": "vocabs:countries/country00725",
-	"label": "IIITB, Banaglore"
+	"name": "IIITB, Banaglore"
 }

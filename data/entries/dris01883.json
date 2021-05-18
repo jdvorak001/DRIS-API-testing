@@ -1,0 +1,65 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris01883",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00935",
+			"label": {
+				"en": "Operational"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00937",
+			"label": {
+				"en": "Institutional"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01759",
+			"label": {
+				"en": "IRINS"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou01048",
+			"country": "vocabs:countries/country00725",
+			"name": "M S Ramaiah Institute of Technology, Bangalore"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00725",
+			"iso_3166_codes": {
+				"Alpha2": "IN",
+				"Alpha3": "IND",
+				"Numeric": "356"
+			},
+			"label": {
+				"en": "India"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "MSRIT Scholar Profile",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
+	"country": "vocabs:countries/country00725",
+	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01759",
+	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
+	"metadata": {
+		"created": "2021-05-17T09:38:24.263Z",
+		"lastModified": "2021-05-17T09:38:24.312Z"
+	},
+	"name": "M S Ramaiah Institute of Technology Scholar Profile",
+	"openaireCrisEndpointURL": "",
+	"organization": "orgunits:ou01048",
+	"scope": "vocabs:scopes/classcerif00937",
+	"status": "vocabs:statuses/classcerif00935",
+	"uri": "https://msrit.irins.org/"
+}

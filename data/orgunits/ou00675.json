@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00675",
 	"country": "vocabs:countries/country00788",
-	"label": "Norwegian School of Economics"
+	"name": "Norwegian School of Economics"
 }

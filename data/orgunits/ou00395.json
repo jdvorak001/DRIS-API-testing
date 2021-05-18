@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00395",
 	"country": "vocabs:countries/country00831",
-	"label": "Consortium for Services to Catalan Universities (CSUC)"
+	"name": "Consortium for Services to Catalan Universities (CSUC)"
 }

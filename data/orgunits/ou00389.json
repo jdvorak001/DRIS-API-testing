@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00389",
 	"country": "vocabs:countries/country00799",
-	"label": "Poznan University of Economics and Business"
+	"name": "Poznan University of Economics and Business"
 }

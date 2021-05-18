@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00502",
 	"country": "vocabs:countries/country00725",
-	"label": "Indian Institute of Management Trichy"
+	"name": "Indian Institute of Management Trichy"
 }

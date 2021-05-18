@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00576",
 	"country": "vocabs:countries/country00725",
-	"label": "Indian Institute of Technology Roorkee"
+	"name": "Indian Institute of Technology Roorkee"
 }

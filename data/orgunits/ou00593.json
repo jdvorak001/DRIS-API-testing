@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00593",
 	"country": "vocabs:countries/country00725",
-	"label": "Gujarat University"
+	"name": "Gujarat University"
 }

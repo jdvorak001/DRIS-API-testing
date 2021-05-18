@@ -1,6 +1,5 @@
 {
-	"@context": "https://api.eurocris.org/dris/contexts/orgunits.jsonld",
 	"@id": "https://api.eurocris.org/dris/orgunits/ou01001",
-	"country": "https://api.eurocris.org/dris/vocabs/countries/country00725",
+	"country": "vocabs:countries/country00725",
 	"name": "VIT, Vellore"
 }

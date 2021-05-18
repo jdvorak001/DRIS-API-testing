@@ -3,9 +3,9 @@
 	"@id": "https://api.eurocris.org/dris/entries/dris00997",
 	"@included": [
 		{
-			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00935",
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00403",
 			"label": {
-				"en": "Operational"
+				"en": "Closed                                                          "
 			}
 		},
 		{
@@ -23,7 +23,7 @@
 		{
 			"@id": "https://api.eurocris.org/dris/orgunits/ou00110",
 			"country": "vocabs:countries/country00697",
-			"name": "Tampere University of Technology"
+			"name": "Tampere Universities"
 		},
 		{
 			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00697",
@@ -50,16 +50,16 @@
 	"crisDataValidation": "",
 	"crisPlatform": "vocabs:cris-platforms/classcerif01758",
 	"crisPlatformNote": "",
-	"description": "",
+	"description": "TUTCRIS was the Current Research Information System of the Tampere University of Technology. With the merger of University of Tampere and Tampere University of Technology into Tampere Universities, the CRIS systems for both institutions were merged into <a href=\"https://dspacecris.eurocris.org/cris/dris/dris01874\" target=\"_blank\">TUNICRIS</a> as of <a href=\"https://www.tuni.fi/en/news/tampere-universitys-research-information-system-tunicris-now-open\" target=\"_blank\">April 2021</a>.",
 	"established": "",
 	"metadata": {
 		"created": "2019-03-04T14:51:18.876Z",
-		"lastModified": "2021-02-01T16:19:12.418Z"
+		"lastModified": "2021-05-08T17:33:15.700Z"
 	},
 	"name": "TUTCRIS Research Portal",
 	"openaireCrisEndpointURL": "",
 	"organization": "orgunits:ou00110",
 	"scope": "vocabs:scopes/classcerif00937",
-	"status": "vocabs:statuses/classcerif00935",
+	"status": "vocabs:statuses/classcerif00403",
 	"uri": "https://tutcris.tut.fi/portal/"
 }

@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00378",
 	"country": "vocabs:countries/country00705",
-	"label": "Friedrich-Alexander-Universit\u00e4t Erlangen-N\u00fcrnberg"
+	"name": "Friedrich-Alexander-Universit\u00e4t Erlangen-N\u00fcrnberg"
 }

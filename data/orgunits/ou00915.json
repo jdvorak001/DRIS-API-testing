@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00915",
 	"country": "vocabs:countries/country00725",
-	"label": "National Institute of Technology, Arunachal Pradesh"
+	"name": "National Institute of Technology, Arunachal Pradesh"
 }

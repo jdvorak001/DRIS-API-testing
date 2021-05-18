@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00579",
 	"country": "vocabs:countries/country00725",
-	"label": "Indian Institute of Technology Patna"
+	"name": "Indian Institute of Technology Patna"
 }

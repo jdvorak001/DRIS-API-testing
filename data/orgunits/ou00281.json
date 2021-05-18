@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00281",
 	"country": "vocabs:countries/country00857",
-	"label": "University of the West of Scotland (UWS)"
+	"name": "University of the West of Scotland (UWS)"
 }

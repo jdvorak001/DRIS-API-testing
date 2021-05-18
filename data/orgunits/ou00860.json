@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00860",
 	"country": "vocabs:countries/country00636",
-	"label": "South Australia Health and Medical Research Institute"
+	"name": "South Australia Health and Medical Research Institute"
 }

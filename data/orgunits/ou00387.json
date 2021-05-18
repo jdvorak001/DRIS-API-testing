@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00387",
 	"country": "vocabs:countries/country00799",
-	"label": "Bialystok University of Technology"
+	"name": "Bialystok University of Technology"
 }

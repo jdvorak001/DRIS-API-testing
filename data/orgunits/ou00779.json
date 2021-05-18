@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00779",
 	"country": "vocabs:countries/country00788",
-	"label": "Norwegian Defence Research Establishment"
+	"name": "Norwegian Defence Research Establishment"
 }

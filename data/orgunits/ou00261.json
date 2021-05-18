@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00261",
 	"country": "vocabs:countries/country00857",
-	"label": "Aberystwyth University"
+	"name": "Aberystwyth University"
 }

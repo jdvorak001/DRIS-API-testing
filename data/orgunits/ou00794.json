@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00794",
 	"country": "vocabs:countries/country00788",
-	"label": "Norwegian Polar Research Institute"
+	"name": "Norwegian Polar Research Institute"
 }

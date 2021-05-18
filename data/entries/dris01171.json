@@ -27,7 +27,7 @@
 		}
 	],
 	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
-	"acronym": "HEFIS",
+	"acronym": "HeFIS",
 	"badge": {
 		"openAIRECheck": "false",
 		"rdmCheck": "false"
@@ -39,13 +39,13 @@
 	"crisDataValidation": "",
 	"crisPlatform": "",
 	"crisPlatformNote": "",
-	"description": "Collaborative effort of 11 HEI in the federal state of Hesse: Justus-Liebig-Universit\u00e4t Gie\u00dfen, Philipps-Universit\u00e4t Marburg, Universit\u00e4t Kassel, Johann Wolfgang Goethe-Universit\u00e4t Frankfurt am Main, Frankfurt University of Applied Sciences, Hochschule Fulda, Hochschule Geisenheim, Hochschule Darmstadt, Technische Hochschule Mittelhessen, Technische Universit\u00e4t Darmstadt, Hochschule RheinMain",
+	"description": "Collaborative effort for implementing a CRIS solution at 11 HEI in the federal state of Hesse: Justus-Liebig-Universit\u00e4t Gie\u00dfen, Philipps-Universit\u00e4t Marburg, Universit\u00e4t Kassel, Johann Wolfgang Goethe-Universit\u00e4t Frankfurt am Main, Frankfurt University of Applied Sciences, Hochschule Fulda, Hochschule Geisenheim, Hochschule Darmstadt, Technische Hochschule Mittelhessen, Technische Universit\u00e4t Darmstadt, Hochschule RheinMain (for more info see <a href=\"http://hdl.handle.net/11366/1244\" target=\"_blank\">presentation of the HeFIS initiative</a> at the Nov 2019 euroCRIS membership meeting in M\u00fcnster).",
 	"established": "",
 	"metadata": {
 		"created": "2019-03-18T20:52:26.674Z",
-		"lastModified": "2021-02-01T16:19:33.833Z"
+		"lastModified": "2021-02-16T13:06:25.455Z"
 	},
-	"name": "HEFIS-Verbund",
+	"name": "HeFIS-Verbund",
 	"openaireCrisEndpointURL": "",
 	"organization": "",
 	"scope": "vocabs:scopes/classcerif00937",

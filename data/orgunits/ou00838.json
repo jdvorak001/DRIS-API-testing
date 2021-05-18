@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00838",
 	"country": "vocabs:countries/country00858",
-	"label": "Northern Arizona State University"
+	"name": "Northern Arizona State University"
 }

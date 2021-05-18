@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00931",
 	"country": "vocabs:countries/country00725",
-	"label": "The Tamil Nadu Dr. Ambedkar Law University"
+	"name": "The Tamil Nadu Dr. Ambedkar Law University"
 }

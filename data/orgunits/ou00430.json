@@ -1,6 +1,5 @@
 {
-	"@context": "https://api.eurocris.org/dris/contexts/orgunits.jsonld",
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00430",
-	"country": "https://api.eurocris.org/dris/vocabs/countries/country00824",
+	"country": "vocabs:countries/country00824",
 	"name": "Slovak University of Technology Bratislava"
 }

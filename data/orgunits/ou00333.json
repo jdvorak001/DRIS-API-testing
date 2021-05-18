@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00333",
 	"country": "vocabs:countries/country00732",
-	"label": "Scuola Superiore S. Anna"
+	"name": "Scuola Superiore S. Anna"
 }

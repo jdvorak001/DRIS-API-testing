@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00853",
 	"country": "vocabs:countries/country00858",
-	"label": "Mayo Foundation for Medical Education and Research"
+	"name": "Mayo Foundation for Medical Education and Research"
 }

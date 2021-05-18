@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00630",
 	"country": "vocabs:countries/country00725",
-	"label": "IIITDM Jabalpur"
+	"name": "IIITDM Jabalpur"
 }

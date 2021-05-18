@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00269",
 	"country": "vocabs:countries/country00857",
-	"label": "Royal Holloway University London"
+	"name": "Royal Holloway University London"
 }

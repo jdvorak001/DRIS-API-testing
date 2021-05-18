@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00922",
 	"country": "vocabs:countries/country00668",
-	"label": "Shanghai Tech University"
+	"name": "Shanghai Tech University"
 }

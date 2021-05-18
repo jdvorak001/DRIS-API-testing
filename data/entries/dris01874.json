@@ -1,0 +1,65 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris01874",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00935",
+			"label": {
+				"en": "Operational"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00937",
+			"label": {
+				"en": "Institutional"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01764",
+			"label": {
+				"en": "Pure"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou00110",
+			"country": "vocabs:countries/country00697",
+			"name": "Tampere Universities"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00697",
+			"iso_3166_codes": {
+				"Alpha2": "FI",
+				"Alpha3": "FIN",
+				"Numeric": "246"
+			},
+			"label": {
+				"en": "Finland"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "TUNICRIS",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
+	"country": "vocabs:countries/country00697",
+	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01764",
+	"crisPlatformNote": "",
+	"description": "TUNICRIS is the joint research information system of Tampere University and Pirkanmaa Hospital District. The system provides an overview of the scientific output and experts of Tampere University and Pirkanmaa Hospital District.<br><br>TUNICRIS is not only a platform for researchers and experts to manage their research profile and scientific activities but also an important tool for completing internal and external reports and evaluations. TUNICRIS provides an up-to-date overview of research, improves the visibility of open access publications and increases the impact of research.<br><br>Data from the former research information systems, <a href=\"https://dspacecris.eurocris.org/cris/dris/dris00994\" target=\"_blank\">SoleCRIS</a> and <a href=\"https://dspacecris.eurocris.org/cris/dris/dris00997\" target=\"_blank\">TUTCRIS</a>, have been imported to TUNICRIS. In addition, TUNICRIS includes publications from Pirkanmaa Hospital District\u2019s database Julki. The joint research information system is an indicator of the strong co-operation between the University and hospital district.",
+	"established": "",
+	"metadata": {
+		"created": "2021-05-08T17:07:09.400Z",
+		"lastModified": "2021-05-08T17:13:19.802Z"
+	},
+	"name": "Tampere Universities CRIS",
+	"openaireCrisEndpointURL": "",
+	"organization": "orgunits:ou00110",
+	"scope": "vocabs:scopes/classcerif00937",
+	"status": "vocabs:statuses/classcerif00935",
+	"uri": "https://researchportal.tuni.fi/"
+}

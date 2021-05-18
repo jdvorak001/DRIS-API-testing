@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00519",
 	"country": "vocabs:countries/country00725",
-	"label": "Panjab University Chandigarh"
+	"name": "Panjab University Chandigarh"
 }

@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00667",
 	"country": "vocabs:countries/",
-	"label": "University of Valladolid"
+	"name": "University of Valladolid"
 }

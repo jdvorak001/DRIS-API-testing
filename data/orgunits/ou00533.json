@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00533",
 	"country": "vocabs:countries/country00725",
-	"label": "National Insitute of Technology Trichy"
+	"name": "National Insitute of Technology Trichy"
 }

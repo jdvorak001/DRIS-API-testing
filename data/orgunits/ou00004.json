@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00004",
 	"country": "vocabs:countries/country00732",
-	"label": "CINECA"
+	"name": "CINECA"
 }

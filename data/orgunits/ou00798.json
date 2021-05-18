@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00798",
 	"country": "vocabs:countries/country00788",
-	"label": "National Institute of Occupational Health"
+	"name": "National Institute of Occupational Health"
 }

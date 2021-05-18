@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00565",
 	"country": "vocabs:countries/country00725",
-	"label": "Indian Institute of Technology (ISM) Dhanbad"
+	"name": "Indian Institute of Technology (ISM) Dhanbad"
 }

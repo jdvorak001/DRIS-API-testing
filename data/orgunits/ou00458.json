@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00458",
 	"country": "vocabs:countries/country00697",
-	"label": "VTT Technical Research Centre of Finland"
+	"name": "VTT Technical Research Centre of Finland"
 }

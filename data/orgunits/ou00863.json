@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00863",
 	"country": "vocabs:countries/country00779",
-	"label": "Wageningen University & Research"
+	"name": "Wageningen University & Research"
 }

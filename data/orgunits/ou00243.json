@@ -1,5 +1,4 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00243",
-	"country": "vocabs:countries/country00683",
-	"label": "Copenhagen Business School"
+	"name": "Copenhagen Business School"
 }

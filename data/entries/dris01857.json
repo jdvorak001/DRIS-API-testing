@@ -1,0 +1,65 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris01857",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00935",
+			"label": {
+				"en": "Operational"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00937",
+			"label": {
+				"en": "Institutional"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01854",
+			"label": {
+				"en": "HISinOne-RES"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou01025",
+			"country": "vocabs:countries/country00705",
+			"name": "Hochschule f\u00fcr Angewandte Wissenschaft und Kunst (HAWK)"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00705",
+			"iso_3166_codes": {
+				"Alpha2": "DE",
+				"Alpha3": "DEU",
+				"Numeric": "276"
+			},
+			"label": {
+				"en": "Germany"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "HAWK FIS",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
+	"country": "vocabs:countries/country00705",
+	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01854",
+	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
+	"metadata": {
+		"created": "2021-02-16T13:14:29.617Z",
+		"lastModified": "2021-02-16T13:14:31.521Z"
+	},
+	"name": "HAWK Forschungsinformationssystem",
+	"openaireCrisEndpointURL": "",
+	"organization": "orgunits:ou01025",
+	"scope": "vocabs:scopes/classcerif00937",
+	"status": "vocabs:statuses/classcerif00935",
+	"uri": "https://hisinone.hawk.de/qisserver/pages/cs/sys/portal/subMenu.faces?navigationPosition=research"
+}

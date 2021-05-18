@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00026",
 	"country": "vocabs:countries/country00788",
-	"label": "University of Oslo"
+	"name": "University of Oslo"
 }

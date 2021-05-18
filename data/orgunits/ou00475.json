@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00475",
 	"country": "vocabs:countries/country00858",
-	"label": "Los Alamos National Laboratory"
+	"name": "Los Alamos National Laboratory"
 }

@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00480",
 	"country": "vocabs:countries/country00857",
-	"label": "University of Exeter"
+	"name": "University of Exeter"
 }

@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00582",
 	"country": "vocabs:countries/country00725",
-	"label": "The American College"
+	"name": "The American College"
 }

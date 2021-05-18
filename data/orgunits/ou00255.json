@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00255",
 	"country": "vocabs:countries/country00697",
-	"label": "University of Turku"
+	"name": "University of Turku"
 }

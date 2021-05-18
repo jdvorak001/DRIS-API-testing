@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00478",
 	"country": "vocabs:countries/country00857",
-	"label": "University of the Arts London"
+	"name": "University of the Arts London"
 }

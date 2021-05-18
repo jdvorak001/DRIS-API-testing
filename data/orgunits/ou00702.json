@@ -1,6 +1,5 @@
 {
-	"@context": "https://api.eurocris.org/dris/contexts/orgunits.jsonld",
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00702",
-	"country": "https://api.eurocris.org/dris/vocabs/countries/country00788",
+	"country": "vocabs:countries/country00788",
 	"name": "Ragnar Frisch Centre for Economic Research"
 }

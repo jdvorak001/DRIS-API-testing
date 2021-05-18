@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00801",
 	"country": "vocabs:countries/country00788",
-	"label": "Western Norway Research Institute"
+	"name": "Western Norway Research Institute"
 }

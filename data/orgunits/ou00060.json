@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00060",
 	"country": "vocabs:countries/country00644",
-	"label": "Ghent University, Department of Research Affairs"
+	"name": "Ghent University, Department of Research Affairs"
 }

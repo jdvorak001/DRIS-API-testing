@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00893",
 	"country": "vocabs:countries/country00683",
-	"label": "Roskilde University"
+	"name": "Roskilde University"
 }

@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00279",
 	"country": "vocabs:countries/country00857",
-	"label": "University of Strathclyde"
+	"name": "University of Strathclyde"
 }

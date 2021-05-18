@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00858",
 	"country": "vocabs:countries/country00636",
-	"label": "Macquarie University"
+	"name": "Macquarie University"
 }

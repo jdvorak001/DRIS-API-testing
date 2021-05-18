@@ -1,6 +1,5 @@
 {
-	"@context": "https://api.eurocris.org/dris/contexts/orgunits.jsonld",
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00034",
-	"country": "https://api.eurocris.org/dris/vocabs/countries/country00637",
+	"country": "vocabs:countries/country00637",
 	"name": "Austrian Science Fund"
 }

@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00660",
 	"country": "vocabs:countries/country00724",
-	"label": "Icelandic Ministry of Education, Science and Culture"
+	"name": "Icelandic Ministry of Education, Science and Culture"
 }

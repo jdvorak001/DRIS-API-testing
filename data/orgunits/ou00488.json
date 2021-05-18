@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00488",
 	"country": "vocabs:countries/country00857",
-	"label": "Manchester Metropolitan University"
+	"name": "Manchester Metropolitan University"
 }

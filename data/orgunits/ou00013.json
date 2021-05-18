@@ -1,5 +1,4 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00013",
-	"country": "vocabs:countries/",
-	"label": "Leuphana Universit\u00e4t L\u00fcneburg"
+	"name": "Leuphana Universit\u00e4t L\u00fcneburg"
 }

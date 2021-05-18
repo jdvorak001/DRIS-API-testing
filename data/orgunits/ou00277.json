@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00277",
 	"country": "vocabs:countries/country00857",
-	"label": "University of Roehampton London"
+	"name": "University of Roehampton London"
 }

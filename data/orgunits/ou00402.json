@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00402",
 	"country": "vocabs:countries/country00831",
-	"label": "University Rovira Virgili (URV)"
+	"name": "University Rovira Virgili (URV)"
 }

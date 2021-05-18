@@ -1,0 +1,65 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris01855",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00392",
+			"label": {
+				"en": "Under Construction                                              "
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00937",
+			"label": {
+				"en": "Institutional"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01854",
+			"label": {
+				"en": "HISinOne-RES"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou01023",
+			"country": "vocabs:countries/country00705",
+			"name": "Philipps-Universit\u00e4t Marburg"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00705",
+			"iso_3166_codes": {
+				"Alpha2": "DE",
+				"Alpha3": "DEU",
+				"Numeric": "276"
+			},
+			"label": {
+				"en": "Germany"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "Marburger FIS",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
+	"country": "vocabs:countries/country00705",
+	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01854",
+	"crisPlatformNote": "",
+	"description": "Institutional Research Information System being implemented under the <a href=\"https://dspacecris.eurocris.org/cris/dris/dris01171\" target=\"_blank\">HeFIS initiative</a>.",
+	"established": "",
+	"metadata": {
+		"created": "2021-02-16T13:14:28.940Z",
+		"lastModified": "2021-02-16T13:18:00.021Z"
+	},
+	"name": "Philipps-Universit\u00e4t Marburg FIS",
+	"openaireCrisEndpointURL": "",
+	"organization": "orgunits:ou01023",
+	"scope": "vocabs:scopes/classcerif00937",
+	"status": "vocabs:statuses/classcerif00392",
+	"uri": "https://www.uni-marburg.de/de/forschung/profil/fis/informationen/fis-an-der-philipps-universitaet-marburg"
+}

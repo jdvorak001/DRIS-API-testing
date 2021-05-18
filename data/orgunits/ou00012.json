@@ -1,5 +1,4 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00012",
-	"country": "vocabs:countries/country00857",
-	"label": "University of St Andrews"
+	"name": "University of St Andrews"
 }

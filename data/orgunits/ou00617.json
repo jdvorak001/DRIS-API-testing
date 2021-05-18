@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00617",
 	"country": "vocabs:countries/country00858",
-	"label": "University of Colorado Boulder"
+	"name": "University of Colorado Boulder"
 }

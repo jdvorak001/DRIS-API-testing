@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00083",
 	"country": "vocabs:countries/country00708",
-	"label": "National Documentation Centre (EKT) / National Hellenic Research Foundation"
+	"name": "National Documentation Centre (EKT) / National Hellenic Research Foundation"
 }

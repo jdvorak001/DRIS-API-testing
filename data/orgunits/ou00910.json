@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00910",
 	"country": "vocabs:countries/country00796",
-	"label": "Universidad Nacional Mayor de San Marcos"
+	"name": "Universidad Nacional Mayor de San Marcos"
 }

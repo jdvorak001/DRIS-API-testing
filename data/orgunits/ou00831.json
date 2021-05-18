@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00831",
 	"country": "vocabs:countries/country00705",
-	"label": "Helmut-Schmidt-University / University of the German Federal Armed Forces"
+	"name": "Helmut-Schmidt-University / University of the German Federal Armed Forces"
 }

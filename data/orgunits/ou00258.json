@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00258",
 	"country": "vocabs:countries/country00857",
-	"label": "UK Research and Innovation (UKRI)"
+	"name": "UK Research and Innovation (UKRI)"
 }

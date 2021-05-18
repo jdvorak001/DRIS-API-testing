@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00601",
 	"country": "vocabs:countries/country00671",
-	"label": "Universidad del Rosario"
+	"name": "Universidad del Rosario"
 }

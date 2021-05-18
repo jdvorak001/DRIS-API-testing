@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00195",
 	"country": "vocabs:countries/country00857",
-	"label": "University of Oxford"
+	"name": "University of Oxford"
 }

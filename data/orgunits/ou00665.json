@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00665",
 	"country": "vocabs:countries/country00751",
-	"label": "Lithuanian University of Health Sciences"
+	"name": "Lithuanian University of Health Sciences"
 }

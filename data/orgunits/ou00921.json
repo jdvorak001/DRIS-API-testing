@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00921",
 	"country": "vocabs:countries/country00766",
-	"label": "Instituto Polit\u00e9cnico Nacional (IPN)"
+	"name": "Instituto Polit\u00e9cnico Nacional (IPN)"
 }

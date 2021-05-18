@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00642",
 	"country": "vocabs:countries/country00725",
-	"label": "National Institute of Technology Nagaland"
+	"name": "National Institute of Technology Nagaland"
 }

@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00366",
 	"country": "vocabs:countries/country00705",
-	"label": "Hamburg University of Technology"
+	"name": "Hamburg University of Technology"
 }

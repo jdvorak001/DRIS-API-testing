@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00590",
 	"country": "vocabs:countries/country00725",
-	"label": "JSS Academy of Technical Education Bangalore"
+	"name": "JSS Academy of Technical Education Bangalore"
 }

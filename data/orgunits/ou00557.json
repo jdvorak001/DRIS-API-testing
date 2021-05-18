@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00557",
 	"country": "vocabs:countries/country00725",
-	"label": "NIPER Mohali"
+	"name": "NIPER Mohali"
 }

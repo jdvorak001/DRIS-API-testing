@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00550",
 	"country": "vocabs:countries/country00697",
-	"label": "University of Lapland"
+	"name": "University of Lapland"
 }

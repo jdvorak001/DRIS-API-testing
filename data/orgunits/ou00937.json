@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00937",
 	"country": "vocabs:countries/country00725",
-	"label": "NIPER, Kolkata"
+	"name": "NIPER, Kolkata"
 }

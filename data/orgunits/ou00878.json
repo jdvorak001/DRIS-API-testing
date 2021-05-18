@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00878",
 	"country": "vocabs:countries/country00725",
-	"label": "Jadavpur University"
+	"name": "Jadavpur University"
 }

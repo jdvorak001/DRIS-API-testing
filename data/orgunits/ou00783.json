@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00783",
 	"country": "vocabs:countries/country00788",
-	"label": "Institute for Social Research"
+	"name": "Institute for Social Research"
 }

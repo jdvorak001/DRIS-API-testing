@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00146",
 	"country": "vocabs:countries/country00819",
-	"label": "University of Novi Sad, Faculty of Sciences"
+	"name": "University of Novi Sad, Faculty of Sciences"
 }

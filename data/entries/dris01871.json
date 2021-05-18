@@ -1,0 +1,65 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris01871",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00935",
+			"label": {
+				"en": "Operational"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00937",
+			"label": {
+				"en": "Institutional"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01764",
+			"label": {
+				"en": "Pure"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou01039",
+			"country": "vocabs:countries/country00637",
+			"name": "University of Applied Sciences Upper Austria"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00637",
+			"iso_3166_codes": {
+				"Alpha2": "AT",
+				"Alpha3": "AUT",
+				"Numeric": "40"
+			},
+			"label": {
+				"en": "Austria"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "FIS FH Ober\u00f6sterreich",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
+	"country": "vocabs:countries/country00637",
+	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01764",
+	"crisPlatformNote": "",
+	"description": "This is the research portal for the leading University of Applied Sciences in Austria. More than 440 researchers at the University of Applied Sciences Upper Austria continually apply their expertise to 10 Centers of Excellence and Research focal areas. Each year, \u20ac 21 million of research funding is available to finance nearly 500 ongoing national and international projects. All this as well as 630 partners from business and society make us the most research-intensive university of applied sciences in Austria.",
+	"established": "",
+	"metadata": {
+		"created": "2021-04-13T13:09:11.599Z",
+		"lastModified": "2021-04-13T13:13:03.286Z"
+	},
+	"name": "Forschungsportal der FH Ober\u00f6sterreich",
+	"openaireCrisEndpointURL": "",
+	"organization": "orgunits:ou01039",
+	"scope": "vocabs:scopes/classcerif00937",
+	"status": "vocabs:statuses/classcerif00935",
+	"uri": "https://pure.fh-ooe.at/en/"
+}

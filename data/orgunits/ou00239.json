@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00239",
 	"country": "vocabs:countries/country00800",
-	"label": "Universidade de \u00c9vora"
+	"name": "Universidade de \u00c9vora"
 }

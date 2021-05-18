@@ -1,5 +1,4 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00242",
-	"country": "vocabs:countries/country00657",
-	"label": "Sofia University St. Kliment Ohridski"
+	"name": "Sofia University St. Kliment Ohridski"
 }

@@ -1,5 +1,4 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00240",
-	"country": "vocabs:countries/country00800",
-	"label": "Instituto Universit\u00e1rio de Lisboa (ISCTE)"
+	"name": "Instituto Universit\u00e1rio de Lisboa (ISCTE)"
 }

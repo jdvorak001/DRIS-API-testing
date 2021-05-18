@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00264",
 	"country": "vocabs:countries/country00857",
-	"label": "Bangor University"
+	"name": "Bangor University"
 }

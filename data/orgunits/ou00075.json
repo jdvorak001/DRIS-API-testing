@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00075",
 	"country": "vocabs:countries/country00857",
-	"label": "King's College London"
+	"name": "King's College London"
 }

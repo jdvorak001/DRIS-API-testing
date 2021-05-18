@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00609",
 	"country": "vocabs:countries/country00697",
-	"label": "Bank of Finland"
+	"name": "Bank of Finland"
 }

@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00247",
 	"country": "vocabs:countries/country00754",
-	"label": "National and University Library \"St. Clement of Ohrid\""
+	"name": "National and University Library \"St. Clement of Ohrid\""
 }

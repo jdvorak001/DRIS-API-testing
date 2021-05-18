@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00273",
 	"country": "vocabs:countries/country00857",
-	"label": "University of East Anglia"
+	"name": "University of East Anglia"
 }

@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00102",
 	"country": "vocabs:countries/country00825",
-	"label": "Slovak Centre of Scientific and Technical Information (CVTI SR)"
+	"name": "Slovak Centre of Scientific and Technical Information (CVTI SR)"
 }

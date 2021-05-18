@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00280",
 	"country": "vocabs:countries/country00857",
-	"label": "University of the Highlands and Islands"
+	"name": "University of the Highlands and Islands"
 }

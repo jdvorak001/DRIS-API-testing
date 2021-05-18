@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00666",
 	"country": "vocabs:countries/country00831",
-	"label": "Universitat de Vic - Universitat Central de Catalunya"
+	"name": "Universitat de Vic - Universitat Central de Catalunya"
 }

@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00108",
 	"country": "vocabs:countries/country00838",
-	"label": "Swiss National Science Foundation\u00a0"
+	"name": "Swiss National Science Foundation\u00a0"
 }

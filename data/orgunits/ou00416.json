@@ -1,6 +1,5 @@
 {
-	"@context": "https://api.eurocris.org/dris/contexts/orgunits.jsonld",
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00416",
-	"country": "https://api.eurocris.org/dris/vocabs/countries/country00799",
+	"country": "vocabs:countries/country00799",
 	"name": "Warsaw University of Life Sciences - SGGW"
 }

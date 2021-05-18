@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00602",
 	"country": "vocabs:countries/country00671",
-	"label": "Universidad de Medell\u00edn"
+	"name": "Universidad de Medell\u00edn"
 }

@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00951",
 	"country": "vocabs:countries/country00725",
-	"label": "BMS College of Engineering, Bangalore"
+	"name": "BMS College of Engineering, Bangalore"
 }

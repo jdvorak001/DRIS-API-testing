@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00624",
 	"country": "vocabs:countries/country00725",
-	"label": "PSG College of Technology"
+	"name": "PSG College of Technology"
 }

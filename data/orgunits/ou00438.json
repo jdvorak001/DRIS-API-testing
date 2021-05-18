@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00438",
 	"country": "vocabs:countries/country00831",
-	"label": "University of Las Palmas de Gran Canaria (ULPGC)"
+	"name": "University of Las Palmas de Gran Canaria (ULPGC)"
 }

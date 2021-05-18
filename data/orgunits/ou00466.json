@@ -1,6 +1,5 @@
 {
-	"@context": "https://api.eurocris.org/dris/contexts/orgunits.jsonld",
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00466",
-	"country": "https://api.eurocris.org/dris/vocabs/countries/country00858",
+	"country": "vocabs:countries/country00858",
 	"name": "University of North Texas Health Science Center"
 }

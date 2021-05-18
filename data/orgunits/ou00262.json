@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00262",
 	"country": "vocabs:countries/country00857",
-	"label": "Edinburgh Napier University"
+	"name": "Edinburgh Napier University"
 }

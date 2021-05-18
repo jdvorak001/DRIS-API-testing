@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00246",
 	"country": "vocabs:countries/country00705",
-	"label": "Katholische Universit\u00e4t Eichst\u00e4tt-Ingolstadt"
+	"name": "Katholische Universit\u00e4t Eichst\u00e4tt-Ingolstadt"
 }

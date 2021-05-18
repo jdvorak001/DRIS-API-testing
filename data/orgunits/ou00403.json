@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00403",
 	"country": "vocabs:countries/country00831",
-	"label": "University of Valencia (UV)"
+	"name": "University of Valencia (UV)"
 }

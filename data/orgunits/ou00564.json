@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00564",
 	"country": "vocabs:countries/country00725",
-	"label": "School of Planning and Architecture Delhi"
+	"name": "School of Planning and Architecture Delhi"
 }

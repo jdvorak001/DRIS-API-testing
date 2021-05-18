@@ -1,0 +1,65 @@
+{
+	"@context": "https://api.eurocris.org/dris/contexts/entries.jsonld",
+	"@id": "https://api.eurocris.org/dris/entries/dris01873",
+	"@included": [
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/statuses/classcerif00935",
+			"label": {
+				"en": "Operational"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/scopes/classcerif00937",
+			"label": {
+				"en": "Institutional"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/cris-platforms/classcerif01754",
+			"label": {
+				"en": "DSpace-CRIS"
+			}
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/orgunits/ou01040",
+			"country": "vocabs:countries/country00637",
+			"name": "University of Applied Sciences Burgenland"
+		},
+		{
+			"@id": "https://api.eurocris.org/dris/vocabs/countries/country00637",
+			"iso_3166_codes": {
+				"Alpha2": "AT",
+				"Alpha3": "AUT",
+				"Numeric": "40"
+			},
+			"label": {
+				"en": "Austria"
+			}
+		}
+	],
+	"@type": "https://api.eurocris.org/dris/static/JsonLdEntry",
+	"acronym": "",
+	"badge": {
+		"openAIRECheck": "false",
+		"rdmCheck": "false"
+	},
+	"country": "vocabs:countries/country00637",
+	"coverages": [],
+	"crisDataOutput": "",
+	"crisDataSupply": "",
+	"crisDataValidation": "",
+	"crisPlatform": "vocabs:cris-platforms/classcerif01754",
+	"crisPlatformNote": "",
+	"description": "",
+	"established": "",
+	"metadata": {
+		"created": "2021-04-15T15:14:27.171Z",
+		"lastModified": "2021-04-15T15:14:44.629Z"
+	},
+	"name": "People @ FH Burgenland",
+	"openaireCrisEndpointURL": "",
+	"organization": "orgunits:ou01040",
+	"scope": "vocabs:scopes/classcerif00937",
+	"status": "vocabs:statuses/classcerif00935",
+	"uri": "https://people.fh-burgenland.at/"
+}

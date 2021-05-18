@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00561",
 	"country": "vocabs:countries/country00725",
-	"label": "IIIT Kota"
+	"name": "IIIT Kota"
 }

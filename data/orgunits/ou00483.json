@@ -1,5 +1,5 @@
 {
 	"@id": "https://api.eurocris.org/dris/orgunits/ou00483",
 	"country": "vocabs:countries/country00857",
-	"label": "London School of Hygiene and Tropical Medicine"
+	"name": "London School of Hygiene and Tropical Medicine"
 }
